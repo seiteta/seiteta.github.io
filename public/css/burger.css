@@ -181,7 +181,6 @@ body.open:after {
 .b-container {
   height: 60px;
   left: 30px;
-  position: absolute;
   top: 30px;
 }
 .b-container:hover:not(.open) .bun-top,
