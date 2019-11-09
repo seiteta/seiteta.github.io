@@ -52,7 +52,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  border-right: rgba(0, 0, 0, 0.84) 2px solid;
+  border-right: none;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -62,19 +62,19 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
-    border-right: none;
+    border-right: rgba(0, 0, 0, 0.84) 2px solid;
   }
 }
 
 /* Sidebar images */
 .sidebar-image {
-  max-width: 7em;
+  max-width: 4em;
   margin-left: auto;
   margin-right: auto;
 }
 @media (min-width: 48em) {
   .sidebar-image {
-    max-width: 4em;
+    max-width: 7em;
   }
 }
 
