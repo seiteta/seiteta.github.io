@@ -32,8 +32,14 @@
     <nav class="sidebar-nav">
       <div id="mobile-menu">
         <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/about/">About</a></li>
+          {% assign pages_list = site.pages %}
+          {% for node in pages_list %}
+            {% if node.title != null %}
+              {% if node.layout == "page" %}
+                <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
         </ul>
       </div>
     </nav>
