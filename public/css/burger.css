@@ -35,8 +35,6 @@ body.open:after {
   list-style-type: none;
   padding: 10px;
   text-align: left;
-  -webkit-transform: translateX(-250px);
-          transform: translateX(-250px);
 }
 .b-nav li:not(.open) {
   -webkit-animation-duration: 0.4s;
@@ -68,10 +66,6 @@ body.open:after {
   text-decoration: none;
   transition: all 0.4s ease;
   width: auto;
-}
-.b-link:hover, .b-link--active {
-  border-left: #444444 solid 2px;
-  padding-left: 30px;
 }
 
 .b-menu {
