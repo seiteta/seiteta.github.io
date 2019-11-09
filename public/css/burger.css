@@ -1,47 +1,3 @@
-@-webkit-keyframes slideInLeft {
-  0% {
-    -webkit-transform: translate3d(-250px, 0, 0);
-            transform: translate3d(-250px, 0, 0);
-    visibility: visible;
-  }
-  100% {
-    -webkit-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
-  }
-}
-@keyframes slideInLeft {
-  0% {
-    -webkit-transform: translate3d(-250px, 0, 0);
-            transform: translate3d(-250px, 0, 0);
-    visibility: visible;
-  }
-  100% {
-    -webkit-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
-  }
-}
-@-webkit-keyframes slideOutLeft {
-  0% {
-    -webkit-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
-  }
-  100% {
-    -webkit-transform: translate3d(-250px, 0, 0);
-            transform: translate3d(-250px, 0, 0);
-    visibility: hidden;
-  }
-}
-@keyframes slideOutLeft {
-  0% {
-    -webkit-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
-  }
-  100% {
-    -webkit-transform: translate3d(-250px, 0, 0);
-            transform: translate3d(-250px, 0, 0);
-    visibility: hidden;
-  }
-}
 * {
   box-sizing: border-box;
 }
@@ -87,8 +43,6 @@ body.open:after {
           animation-duration: 0.4s;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
-  -webkit-animation-name: slideOutLeft;
-          animation-name: slideOutLeft;
 }
 .b-nav li:first-child {
   padding-top: 120px;
@@ -101,8 +55,6 @@ body.open:after {
           animation-duration: 0.4s;
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
-  -webkit-animation-name: slideInLeft;
-          animation-name: slideInLeft;
 }
 
 .b-link {
