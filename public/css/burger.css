@@ -4,6 +4,7 @@
 }
 .b-nav:not(.open) {
   visibility: hidden;
+  position: absolute;
 }
 .b-nav li {
   color: #444444;
