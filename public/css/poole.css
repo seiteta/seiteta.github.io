@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: rgba(0, 0, 0, 0.84);
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -389,7 +389,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Serif", Georgia, Cambria, "Times New Roman", Times, serif;
   color: #ccc;
   text-align: center;
 }
