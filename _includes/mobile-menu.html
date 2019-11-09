@@ -59,9 +59,9 @@ transform-origin: 50% 50%;
     function mobilemenutoggle() {
         $("#mobile-menu").toggleClass('open');
     }
-    $( window ).resize(function() {
+    $(window).resize(function() {
         $('#mobile-menu ul').hide();
-        if($( window ).width() < {{ include.width }} ) {
+        if($(window).width() < {{ include.width }} ) {
             //show toggler if not exists
             if(!($("#mobile-menu-toggler").length>0)) {
                 var mobilemenuheight = $('#mobile-menu').height();
@@ -72,5 +72,5 @@ transform-origin: 50% 50%;
         $('#mobile-menu ul').attr('style', '')
         //console.log($('#mobile-menu').css('font-size'));
     });
-    $( window ).resize();
+    $(window).resize();
 </script>
