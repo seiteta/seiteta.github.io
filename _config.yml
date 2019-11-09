@@ -6,13 +6,24 @@ highlighter:      pygments
 permalink:        none
 
 # Setup
-title:            Frédéric Bardolle
 tagline:          'Entrepreneur public'
-url:              http://seiteta.github.io
 baseurl:          https://seiteta.github.io/
 
+paginate:         5
+
+#SEO tag
+title:            Frédéric Bardolle
+description:      Innovation publique, éthique & IA
+url:              http://seiteta.github.io
 author:
   name:           'Frédéric Bardolle'
-  url:            https://twitter.com/seiteta
+  twitter:        seiteta
+social:
+  name: Frédéric Bardolle
+  links:
+    - https://twitter.com/seiteta
+    - https://www.linkedin.com/in/fbardolle
+lang: fr_FR
 
-paginate:         5
+plugins:
+  - jekyll-seo-tag
