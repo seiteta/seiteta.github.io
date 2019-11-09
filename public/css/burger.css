@@ -7,7 +7,7 @@
     position: absolute;
   }
   .b-nav a {
-    color: #444444;
+    color: rgba(0, 0, 0, 0.84);
     list-style-type: none;
     padding: 10px;
     text-align: left;
@@ -43,7 +43,7 @@
     z-index: 12;
   }
   .b-menu:hover {
-    border: #444444 solid 2px;
+    border: rgba(0, 0, 0, 0.84) solid 2px;
   }
 
   .b-bun {
