@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Frédéric Bardolle
 tagline:          'Entrepreneur public'
 url:              http://seiteta.github.io
-baseurl:          /
+baseurl:          https://seiteta.github.io/
 
 author:
   name:           'Frédéric Bardolle'
