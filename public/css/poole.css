@@ -351,7 +351,13 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   color: rgba(0, 0, 0, 0.84);
   border-top:1px;
+  border-top-style: solid;
   width:100%;
+  text-transform: uppercase;
+  font-family: 'Source Sans Pro',sans-serif;
+  font-size: .7em;
+  font-weight: 600;
+  margin-top: 1.1em;
 }
 
 /* Related posts */
