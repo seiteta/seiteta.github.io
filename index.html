@@ -19,15 +19,15 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Articles plus ancients</a>
+    <a class="pagination-item older" href="{{ site.url }}page{{paginator.next_page}}">Articles plus ancients</a>
   {% else %}
     <span class="pagination-item older">Articles plus ancients</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Articles plus récents</a>
+      <a class="pagination-item newer" href="{{ site.url }}">Articles plus récents</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Articles plus récents</a>
+      <a class="pagination-item newer" href="{{ site.url }}page{{paginator.previous_page}}">Articles plus récents</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Articles plus récents</span>
