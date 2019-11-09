@@ -29,22 +29,32 @@
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
     </nav>
-    <nav class="sidebar-nav">
-      <div id="mobile-menu">
-        <ul>
-          <li><a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a></li>
-          {% assign pages_list = site.pages %}
-          {% for node in pages_list %}
-            {% if node.title != null %}
-              {% if node.layout == "page" %}
-                <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-          <li><a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a></li>
-          <li><a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a></li>
-        </ul>
+
+
+
+
+    
+    <!-- Navigation -->
+    <div class="b-nav">
+      <li><a class="b-link" href="https://github.com/mblode/burger" target="_blank">GitHub - burger</a></li>
+      <li><a class="b-link" href="https://github.com/mblode" target="_blank">Github - mblode</a></li>
+      <li><a class="b-link" href="https://codepen.io/mblode/" target="_blank">CodePen</a></li>
+      <li><a class="b-link" href="https://dribbble.com/mblode" target="_blank">Dribbble</a></li>
+    </div>
+
+    <!-- Burger-Icon -->
+    <div class="b-container">
+      <div class="b-menu">
+        <div class="b-bun b-bun--top"></div>
+        <div class="b-bun b-bun--mid"></div>
+        <div class="b-bun b-bun--bottom"></div>
       </div>
-    </nav>
+
+      <!-- Burger-Brand -->
+      <a href="#" class="b-brand">Burger</a>
+    </div>
+
+
+
   </div>
 </div>
