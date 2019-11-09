@@ -13,6 +13,7 @@ title: Accueil
     </h1>
     {{ post.content }}
     <span class="post-date">{% include date-fr.html date=post.date %}</span>
+    {% include share-buttons.html %}
   </div>
   {% endfor %}
 </div>
