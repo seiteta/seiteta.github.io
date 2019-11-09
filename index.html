@@ -12,7 +12,6 @@ title: Home
       </a>
     </h1>
     {{ post.content }}
-    <span class="post-date">{{ post.date | date: "%-d %B %Y" }}</span>
     <span class="post-date">{% include date-fr.html date=post.date %}</span>
   </div>
   {% endfor %}
