@@ -4,13 +4,19 @@
   {% include head.html %}
 
   <body>
-    {% include mobile-menu.html color="#026919" width="757" %}
     {% include sidebar.html %}
-
+    <nav>
+      <div id="mobile-menu">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
     <div class="content container">
       {{ content }}
     </div>
-
-
+    {% include mobile-menu.html color="#026919" width="757" %}
   </body>
 </html>
