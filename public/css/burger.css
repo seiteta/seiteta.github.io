@@ -1,5 +1,4 @@
 .b-nav {
-  position: absolute;
   z-index: 11;
 }
 .b-nav:not(.open) {
