@@ -100,11 +100,6 @@ html {
   font-size: 1.25rem;
   display: inline;
 }
-@media (max-width: 48em) {
-  .sidebar-about h1 {
-    display: inline-block;
-  }
-}
 
 /* Sidebar nav */
 .sidebar-nav {
