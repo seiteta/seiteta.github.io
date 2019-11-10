@@ -10,7 +10,7 @@
     color: rgba(0, 0, 0, 0.84);
     list-style-type: none;
     padding: 10px;
-    text-align: left;
+    text-align: right;
   }
   .b-nav a:first-child {
     padding-top: 120px;
@@ -66,8 +66,7 @@
     height: 60px;
     left: 30px;
     top: 30px;
-    vertical-align: middle;
-    text-align: right;
+    float: right;
   }
   .b-container:hover:not(.open) .bun-top,
   .b-container:hover:not(.open) .bun-mid,

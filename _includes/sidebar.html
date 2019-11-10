@@ -6,33 +6,33 @@
         <a href="{{ site.url }}">
           {{ site.title }}
         </a>
-      </h1>
-      <!-- Burger-Icon -->
-      <div class="b-container">
-        <div class="b-menu">
-          <div class="b-bun b-bun--top"></div>
-          <div class="b-bun b-bun--mid"></div>
-          <div class="b-bun b-bun--bottom"></div>
+        <!-- Burger-Icon -->
+        <div class="b-container">
+          <div class="b-menu">
+            <div class="b-bun b-bun--top"></div>
+            <div class="b-bun b-bun--mid"></div>
+            <div class="b-bun b-bun--bottom"></div>
+          </div>
         </div>
-      </div>
-      <!-- Navigation -->
-      <nav class="b-nav sidebar-nav">
-        <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Blog</a>
+        <!-- Navigation -->
+        <nav class="b-nav sidebar-nav">
+          <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Blog</a>
 
-        {% comment %}
-          The code below dynamically generates a sidebar nav of pages with
-          `layout: page` in the front-matter. See readme for usage.
-        {% endcomment %}
+          {% comment %}
+            The code below dynamically generates a sidebar nav of pages with
+            `layout: page` in the front-matter. See readme for usage.
+          {% endcomment %}
 
-        {% assign pages_list = site.pages %}
-        {% for node in pages_list %}
-          {% if node.title != null %}
-            {% if node.layout == "page" %}
-              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% assign pages_list = site.pages %}
+          {% for node in pages_list %}
+            {% if node.title != null %}
+              {% if node.layout == "page" %}
+                <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+              {% endif %}
             {% endif %}
-          {% endif %}
-        {% endfor %}
-      </nav>
+          {% endfor %}
+        </nav>
+      </h1>
     </div>
   </div>
 </div>
