@@ -50,7 +50,7 @@ html {
  */
 
 .sidebar {
-  text-align: center;
+  text-align: left;
   padding: 2rem 1rem;
   border-right: none;
 }
@@ -71,6 +71,8 @@ html {
   max-width: 4em;
   margin-left: auto;
   margin-right: auto;
+  display: inline-block;
+  vertical-align: middle;
 }
 @media (min-width: 48em) {
   .sidebar-image {

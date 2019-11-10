@@ -9,11 +9,7 @@
   .b-nav a {
     color: rgba(0, 0, 0, 0.84);
     list-style-type: none;
-    padding: 10px;
     text-align: left;
-  }
-  .b-nav a:first-child {
-    padding-top: 120px;
   }
   .b-nav.open {
     visibility: visible;
@@ -38,6 +34,7 @@
             user-select: none;
     width: 60px;
     z-index: 12;
+    vertical-align: middle;
   }
 
   .b-bun {
@@ -62,6 +59,7 @@
   }
 
   .b-container {
+    text-align: right;
     height: 60px;
     left: 30px;
     top: 30px;
