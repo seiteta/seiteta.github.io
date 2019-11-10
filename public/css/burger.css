@@ -12,9 +12,6 @@
     padding: 10px;
     text-align: right;
   }
-  .b-nav a:first-child {
-    padding-top: 120px;
-  }
   .b-nav.open {
     visibility: visible;
   }
