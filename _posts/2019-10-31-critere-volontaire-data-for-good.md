@@ -3,7 +3,7 @@ layout: post
 title: Le seul critère pour être volontaire à Data for Good
 description: Pendant le temps où j'ai fait partie de l'équipe organisatrice de Data for Good, plus de mille volontaires se sont inscrits sur notre site…
 image: https://images.unsplash.com/photo-1558745087-19465451e307?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2055&q=80
-canonical: https://medium.com/@seiteta/critere-volontaire-data-for-good-1b0188689262
+canonical_url: https://medium.com/@seiteta/critere-volontaire-data-for-good-1b0188689262
 ---
 
 Pendant le temps où j’ai fait partie de l’équipe organisatrice de Data for Good, plus de mille volontaires se sont inscrits sur notre site pour proposer leurs compétences en science des données, développement ou *design*. Trois grands types de profil se dégagent parmi les bénévoles :
