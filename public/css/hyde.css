@@ -96,11 +96,15 @@ html {
 /* About section */
 .sidebar-about h1 {
   color: rgba(0, 0, 0, 0.84);
-  margin: 0rem 1rem;
   font-family: "PT Serif", serif;
   font-size: 1.25rem;
-  display: inline;
   vertical-align: middle;
+}
+@media (max-width: 48em) {
+  .sidebar-about h1{
+    margin: 0rem 1rem;
+    display: inline;
+  }
 }
 
 /* Sidebar nav */
