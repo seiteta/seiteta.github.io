@@ -3,28 +3,12 @@ layout: page
 title: À propos
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Bio
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Bonjour, je m'appelle Frédéric Bardolle. Je suis un geek qui essaie de travailler dans l'intérêt général.
 
-There are currently two themes built on Poole:
+Depuis une dizaine d'année, je fais en sorte que la technologie soit utilisée au profit de la société, plutôt que contre elle.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Mes deux dadas : innovation publique 🏛💻 et éthique & IA 🤔🤖
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+J'ai commencé dans la recherche, en faisant une thèse pour améliorer la prédiction du débit des rivières. J'ai continué à faire de la science des données dans des startups, notamment dans l'éducation, et j'ai cofondé l'association [Data for Good](https://dataforgood.fr/). Et puis je suis rentré dans l'administration grâce au programme [Entrepreneur d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr), à la Cour des comptes, avant de passer par l'[Agence du numérique](https://agencedunumerique.gouv.fr/). Avec mon équipe, je construis maintenant des services publics numériques au sein du ministères des Armées.
