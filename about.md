@@ -11,7 +11,7 @@ Depuis une dizaine d'année, je fais en sorte que la technologie soit utilisée 
 
 Mes deux dadas :
 
-* Innovation publique 🏛💻
+* Innovation publique 💻🏛
 * Éthique & IA 🤔🤖
 
-J'ai commencé dans la recherche, en faisant une thèse pour améliorer la prédiction du débit des rivières. J'ai continué à faire de la science des données dans des startups, notamment dans l'éducation, et j'ai cofondé l'association [Data for Good](https://dataforgood.fr/). Et puis je suis rentré dans l'administration grâce au programme [Entrepreneur d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr), à la Cour des comptes, avant de passer par l'[Agence du numérique](https://agencedunumerique.gouv.fr/). Avec mon équipe, je construis maintenant des services publics numériques au sein du ministères des Armées.
+J'ai commencé dans la recherche, en faisant une thèse pour améliorer la prédiction du débit des rivières. J'ai continué à faire de la science des données dans des startups, notamment dans l'éducation, et j'ai cofondé l'association [Data for Good](https://dataforgood.fr/). Et puis je suis rentré dans l'administration grâce au programme [Entrepreneur d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr), à la Cour des comptes, avant de passer par l'[Agence du numérique](https://agencedunumerique.gouv.fr/). Avec mon équipe, je construis maintenant des services publics numériques au sein du [ministère des Armées](https://beta.gouv.fr/incubateurs/fabnumdef.html).
