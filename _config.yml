@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 tagline:          'Entrepreneur public'
-
+baseurl:          /
 paginate:         5
 
 #SEO tag

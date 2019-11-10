@@ -1,7 +1,7 @@
 ---
 layout: post
-title: L’innovation cyclique
-description: Dans le MOOC du CNAM « Fabriquer l’innovation » tout un chapitre est consacré à la création du Minitel. Une des choses frappantes dans cette histoire est la similarité de certaines idées de l’époque avec des concepts très contemporains.
+title: "L’innovation cyclique"
+description: "Dans le MOOC du CNAM « Fabriquer l’innovation » tout un chapitre est consacré à la création du Minitel. Une des choses frappantes dans cette histoire est la similarité de certaines idées de l’époque avec des concepts très contemporains."
 image: https://live.staticflickr.com/7019/6813945445_13ff561fbb_k_d.jpg
 canonical_url: https://medium.com/@seiteta/innovation-cyclique-cd87a544d55f
 ---
