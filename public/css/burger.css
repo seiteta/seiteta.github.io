@@ -23,6 +23,7 @@
     margin-left: 30px;
     text-decoration: none;
     width: auto;
+    text-align: right;
   }
 
   .b-menu {
@@ -65,6 +66,8 @@
     height: 60px;
     left: 30px;
     top: 30px;
+    vertical-align: middle;
+    text-align: right;
   }
   .b-container:hover:not(.open) .bun-top,
   .b-container:hover:not(.open) .bun-mid,
