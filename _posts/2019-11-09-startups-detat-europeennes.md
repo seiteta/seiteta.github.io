@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Et si nous faisions des startups d'État européennes ?
+title: "Et si nous faisions des startups d'État européennes ?"
 image: https://images.unsplash.com/photo-1516611327872-fc8c49ac2231?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
 ---
 
