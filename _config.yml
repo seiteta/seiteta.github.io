@@ -13,7 +13,7 @@ paginate:         5
 #SEO tag
 title:            Frédéric Bardolle
 description:      Innovation publique, éthique & IA
-url:              http://seiteta.github.io
+url:              https://f14e.fr
 author:
   name:           'Frédéric Bardolle'
   twitter:        seiteta
@@ -22,7 +22,7 @@ social:
   links:
     - https://twitter.com/seiteta
     - https://www.linkedin.com/in/fbardolle
-lang: fr_FR
+lang: fr
 
 plugins:
   - jekyll-seo-tag
