@@ -13,7 +13,8 @@ title: Accueil
     </h1>
     {{ post.content }}
     <span class="post-date">{% include date-fr.html date=post.date %}</span>
-    {% include share-buttons.html %}
+    <!-- {% include share-buttons.html %} -->
+    <!-- TODO: fix share buttons behaviour on the home page -->
   </div>
   {% endfor %}
 </div>
