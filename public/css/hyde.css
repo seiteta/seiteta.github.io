@@ -71,6 +71,9 @@ html {
     padding: 1rem 1rem;
     border-bottom: rgba(0, 0, 0, 0.84) 2px solid;
   }
+  .mj-w-res-iframe{
+    display: none;
+  }
 }
 
 /* Sidebar images */
