@@ -12,6 +12,6 @@ Depuis 1997 et la victoire de Deep Blue sur Kasparov, il est facile de prédire 
 
 Pour réussir ces exploits, des algorithmes sont entraînés en jouant des milliards de parties afin de déterminer automatiquement les meilleurs stratégies.
 
-Quand nous regardons toute la nuit des vidéos recommandées par un algorithme, nous nous demandons comment nous avons pu être aussi faible. Mais de la même manière qu'en 2019 aucun champion d'échec ne peut battre un simple échiquier électronique à 50€, nous ne nous battons pas à armes égales quand un algorithme veut que nous restions le plus longtemps possible sur une plateforme.
+Quand nous regardons toute la nuit des vidéos recommandées par un algorithme, nous nous demandons comment nous avons pu être aussi faible. Mais de la même manière qu'en 2019 aucun champion d'échec ne peut battre un simple échiquier électronique à 50 €, nous ne nous battons pas à armes égales quand un algorithme veut que nous restions le plus longtemps possible sur une plateforme.
 
 À chaque recommandation, nous affrontons en fait un algorithme entraîné sur des millions de personnes et des milliards de vidéos. Ce n'est pas nous, humains, qui sommes faibles. Ce sont les machines que nous avons conçues qui fonctionnent un peu trop bien.
