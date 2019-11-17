@@ -65,9 +65,6 @@ html {
     text-align: left;
     border-right: rgba(0, 0, 0, 0.84) 2px solid;
   }
-  .mj-w-res-iframe{
-    display: none;
-  }
 }
 @media (max-width: 48em) {
   .sidebar{
