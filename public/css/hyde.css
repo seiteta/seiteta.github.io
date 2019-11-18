@@ -141,6 +141,13 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.sidebar small {
+  line-height: 1;
+}
+
+.sidebar small a{
+  text-decoration: underline;
+}
 
 /* Container
  *
