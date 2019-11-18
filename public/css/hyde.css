@@ -142,6 +142,11 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Sidebar small
+ *
+ * Call to action
+ */
+
 .sidebar-small {
   line-height: 1;
 }
@@ -149,6 +154,11 @@ a.sidebar-nav-item:focus {
 .sidebar-small a{
   text-decoration: underline;
   font-weight: 600;
+}
+@media (max-width: 48em) {
+  .sidebar-small {
+    display: none;
+  }
 }
 
 /* Container
