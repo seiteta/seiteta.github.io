@@ -69,6 +69,9 @@ body {
 a {
   color: rgba(0, 0, 0, 0.84);
 }
+a h1 {
+  text-decoration: none;
+}
 a strong {
   color: inherit;
 }
