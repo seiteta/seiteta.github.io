@@ -53,6 +53,7 @@ html {
   text-align: left;
   padding: 2rem 1rem;
   border-right: none;
+  line-height: 1;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -141,12 +142,13 @@ a.sidebar-nav-item:focus {
   }
 }
 
-.sidebar small {
+.sidebar-small {
   line-height: 1;
 }
 
-.sidebar small a{
+.sidebar-small a{
   text-decoration: underline;
+  font-weight: 600;
 }
 
 /* Container
