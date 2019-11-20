@@ -9,7 +9,11 @@
   .b-nav a {
     color: rgba(0, 0, 0, 0.84);
     list-style-type: none;
-    padding: 10px;
+    padding-right: 1rem;
+    text-align: right;
+  }
+  .b-nav h4 {
+    padding-right: 1rem;
     text-align: right;
   }
   .b-nav.open {
