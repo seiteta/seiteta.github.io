@@ -17,14 +17,19 @@
         <!-- Navigation -->
         <nav class="b-nav sidebar-nav">
           <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Blog</a>
+          <h3>Blog</h3>
           {% assign pages_list = site.pages %}
           {% for node in pages_list %}
             {% if node.title != null %}
-              <h3>Blog</h3>
                 {% if node.layout == "page_blog" %}
                   <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
                 {% endif %}
-              <h3>Informations</h3>
+            {% endif %}
+          {% endfor %}
+          <h3>Informations</h3>
+          {% assign pages_list = site.pages %}
+          {% for node in pages_list %}
+            {% if node.title != null %}
                 {% if node.layout == "page_info" %}
                   <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
                 {% endif %}
