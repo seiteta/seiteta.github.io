@@ -127,6 +127,9 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+.sidebar-nav h4 {
+  margin-bottom: 0;
+}
 
 /* Sticky sidebar
  *

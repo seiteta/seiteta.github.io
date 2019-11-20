@@ -16,8 +16,8 @@
         </div>
         <!-- Navigation -->
         <nav class="b-nav sidebar-nav">
+          <h4>Blog</h4>
           <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Blog</a>
-          <h3>Blog</h3>
           {% assign pages_list = site.pages %}
           {% for node in pages_list %}
             {% if node.title != null %}
@@ -26,7 +26,7 @@
                 {% endif %}
             {% endif %}
           {% endfor %}
-          <h3>Informations</h3>
+          <h4>Informations</h4>
           {% assign pages_list = site.pages %}
           {% for node in pages_list %}
             {% if node.title != null %}
