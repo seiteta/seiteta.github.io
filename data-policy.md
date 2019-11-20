@@ -15,15 +15,15 @@ J'ajoute votre adresse à la main dans la liste de diffusion sur le service d'en
 
 ### Et ensuite ?
 
-Dès qu'un nouvel article parait, le [flux RSS](https://fr.wikipedia.org/wiki/RSS) du site est modifié et un outil appelé [Zapier](https://zapier.com/) fait en sorte que Mailjet vous envoie l'article 📨 `#transparence`
+Dès qu'un nouvel article parait, le [flux RSS](https://fr.wikipedia.org/wiki/RSS) du site est modifié et un outil appelé [Zapier](https://zapier.com/) écoute ce flux et fait en sorte que Mailjet vous envoie l'article 📨 `#transparence`
 
 
 ### Si je veux me désabonner ?
 
-Vous pouvez vous désabonner (ou changer votre adresse) à n'importe quel moment selon la même procédure (envoie d'un [message](mailto:blog@f14e.fr?subject=Désabonnement&amp;body=Bonjour,%0DJe+voudrais+me+désabonner+de+f14e.fr.)). Vous retrouvez ce lien de désabonnement sur chaque article. Pas de raison à donner et je vous aimerai quand même 💖 `#droits`
+Vous pouvez vous désabonner (ou changer votre adresse) à n'importe quel moment selon la même procédure (= envoyer un [message](mailto:blog@f14e.fr?subject=Désabonnement&amp;body=Bonjour,%0DJe+voudrais+me+désabonner+de+f14e.fr.)). Vous retrouvez ce lien de désabonnement sur chaque article. Pas de raison à donner et je vous aimerai quand même 💖 `#droits`
 
 
-### Pourquoi ne pas mettre tout simplement un formulaire d'abonnement ?
+### Pourquoi ne pas utiliser tout simplement un formulaire d'abonnement ?
 
 Parce que les formulaires de Mailjet installent des traqueurs sur le site. Or sur ce blog, il n'y a [aucun traqueur, aucun cookie, que du contenu](https://f14e.fr/2019/11/18/pourquoi-je-n-ecris-plus-sur-medium/) 🍰
 
