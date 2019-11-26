@@ -14,7 +14,7 @@ Pourquoi la parole des authentiques est-elle plus importante de nos jours que pa
 
 Avant, pour vous adresser à vos potentiels électeurs, il fallait passer à la radio ou à la télévision. Le nombre de fréquences disponibles étant limité, ces médias exploitaient leur rareté. Dans ce contexte, les médias de masse, désireux d'augmenter leur audience, étaient obligés d'être consensuels et relativement proches de la moyenne en terme d'idées.
 
-À l'inverse, les réseaux sociaux ont tendance à amplifier les voix dissonantes et excentriques car ce sont elles qui vont être le plus partagés. Les algorithmes de ces plateformes seront toujours capables de leur trouver une oreille attentive, quel que soit le message.
+À l'inverse, les réseaux sociaux ont tendance à amplifier les voix dissonantes et excentriques car ce sont elles qui vont être le plus partagées. Les algorithmes de ces plateformes seront toujours capables de leur trouver une oreille attentive, quel que soit le message.
 
 Avec cette redéfinition de l'espace médiatique, qu'on le veuille ou non, il n'y a plus de place pour les discours mesurés et policés. Ne resteront que les voix authentiques, qu'elles crient ou qu'elles murmurent.
 
