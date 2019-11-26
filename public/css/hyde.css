@@ -129,6 +129,11 @@ a.sidebar-nav-item:focus {
 .sidebar-nav h4 {
   margin-bottom: 0;
 }
+@media (min-width: 48em) {
+  .sidebar-nav h4{
+    margin-top: 15%;
+  }
+}
 
 /* Sticky sidebar
  *
@@ -151,6 +156,7 @@ a.sidebar-nav-item:focus {
 
 .sidebar-small {
   line-height: 1;
+  margin-top: 15%;
 }
 
 .sidebar-small a{
