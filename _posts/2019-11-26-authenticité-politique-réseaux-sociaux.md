@@ -19,4 +19,5 @@ Avant, pour vous adresser à vos potentiels électeurs, il fallait passer à la 
 Avec cette redéfinition de l'espace médiatique, qu'on le veuille ou non, il n'y a plus de place pour les discours mesurés et policés. Ne resteront que les voix authentiques, qu'elles crient ou qu'elles murmurent.
 
 --
+
 Pour en savoir plus sur l'utilisation des réseaux sociaux par AOC, [cet article](https://medium.com/@Kmartenon/sans-filtre-8ecddc9956b) de [Kéliane Martenon](https://twitter.com/KMartenon) est très complet.
