@@ -17,7 +17,7 @@
         <!-- Navigation -->
         <nav class="b-nav sidebar-nav">
           <h4>Blog</h4>
-          <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.url }}">Tous les articles</a>
+          <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Tous les articles</a>
           {% assign pages_list = site.pages %}
           {% for node in pages_list %}
             {% if node.title != null %}
