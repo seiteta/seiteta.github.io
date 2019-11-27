@@ -7,6 +7,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 ### Cours
 
+* « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
 * « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
 * « Toward algorithmic transparency and accountability » – séminaire « Technology, Government and Society » (Sciences Po Saint-Germain-en-Laye, 02/2018)
 
