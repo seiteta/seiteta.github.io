@@ -69,6 +69,10 @@ body {
 a {
   color: rgba(0, 0, 0, 0.84);
 }
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #657b83;
+  }
 h1 a {
   text-decoration: none;
 }
@@ -90,6 +94,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   text-rendering: optimizeLegibility;
 }
+@media (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6 {
+    color: #93a1a1;
+  }
 h1 {
   font-size: 2rem;
 }
@@ -362,6 +370,11 @@ tbody tr:nth-child(odd) th {
   font-size: .7em;
   font-weight: 600;
   margin-top: 1.1em;
+}
+@media (prefers-color-scheme: dark) {
+  .post-date {
+    color: #657b83;
+  }
 }
 
 /* Related posts */

@@ -100,6 +100,11 @@ html {
   color: rgba(0, 0, 0, 0.84);
   text-decoration: none;
 }
+@media (prefers-color-scheme: dark) {
+  .sidebar a {
+    color: #93a1a1;
+  }
+}
 
 /* About section */
 .sidebar-about h1 {
@@ -107,6 +112,12 @@ html {
   font-family: "PT Serif", serif;
   font-size: 1.25rem;
   vertical-align: middle;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sidebar-about h1 {
+    color: #93a1a1;
+  }
 }
 @media (max-width: 48em) {
   .sidebar-about h1{
