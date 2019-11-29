@@ -368,6 +368,12 @@ tbody tr:nth-child(odd) th {
 .post-title {
   margin-top: 0;
 }
+@media (prefers-color-scheme: dark) {
+  .page-title,
+  .post-title,
+  .post-title a {
+    color: #93a1a1;
+  }
 
 /* Meta data line below post title */
 .post-date {
