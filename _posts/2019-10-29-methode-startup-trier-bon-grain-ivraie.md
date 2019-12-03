@@ -29,4 +29,4 @@ Nous ne sommes néanmoins pas naïfs et la culture startup peut avoir des aspect
 
 Comme dans toutes choses, il y a à prendre et à laisser dans la culture et les méthodes des startups. Et qui sait, peut-être qu’un jour ce sont les startups qui s’inspireront de la culture et des méthodes des startups d’État ?
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/apprendre-par-lhybridation-5c511ecf2aaa) le 29 octobre 2019.
+> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/methode-startup-trier-bon-grain-ivraie-4069d3702488) le 29 octobre 2019.

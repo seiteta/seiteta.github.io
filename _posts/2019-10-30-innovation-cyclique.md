@@ -20,3 +20,5 @@ Le bénéfice de cette expérience est double pour la DGT : les connaissances ac
 Sur ce kiosque, de nouveaux services apparaissent et ressemblent déjà à ceux qui seront plus tard disponibles sur internet (à ceci près qu’il n’y a pas de souris sur le Minitel et qu’il faut donc tout faire au clavier). Dès les années 80, il est donc possible de lire le journal, de consulter ses comptes ou même de discuter en ligne depuis son salon. Et signe avant-coureur de l’importance de l’industrie du porno sur internet, plus de la moitié des revenus tirés du Minitel viennent des « messageries roses ».
 
 Évidemment, depuis le Minitel, beaucoup de choses ont évolué, de la puissance de calcul et la taille réduite des appareils, à la simplification des interfaces. Mais pour les innovateurs, il est souvent utile de regarder dans le rétroviseur : à la fois pour y puiser de l’inspiration, mais également pour prendre une bonne dose d’humilité en remarquant que beaucoup de belles choses ne nous ont pas attendu pour être inventées.
+
+> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/innovation-cyclique-cd87a544d55f) le 30 octobre 2019.
