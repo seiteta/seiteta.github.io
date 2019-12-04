@@ -8,7 +8,7 @@ tags: [Apprentissage automatique, Intelligence artificielle, Émotion, Jeu, Pros
 
 Suite à sa défaite de 2016 face au programme AlphaGo, le champion de go Lee Sedol a récemment décidé de [prendre sa retraite](https://usbeketrica.com/article/incapable-de-vaincre-l-ia-de-google-un-champion-du-jeu-de-go-prend-sa-retraite).
 
-Même si pour le chercheur Antonio Casilli « [il n'y a pas d'IA, seulement le **digital labor** de quelqu'un d'autre](https://twitter.com/AntonioCasilli/status/839402563384541185?s=20) », l'apprentissage automatique continue de faire des progrès.
+Même si pour le chercheur Antonio Casilli « [il n'y a pas d'IA, seulement le *digital labor* de quelqu'un d'autre](https://twitter.com/AntonioCasilli/status/839402563384541185?s=20) », l'apprentissage automatique continue de faire des progrès.
 
 D'autant plus que concernant les jeux, qu'il s'agisse du go ou de StarCraft, les algorithmes n'ont même plus besoin de données d'entraînement péniblement annotées par des humains pour apprendre. Ils jouent désormais les uns contre les autres pour progresser, ce qu'on appelle l'apprentissage par renforcement.
 
