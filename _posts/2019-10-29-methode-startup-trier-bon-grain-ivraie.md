@@ -4,7 +4,7 @@ title: "La méthode « startup » : trier le bon grain de l’ivraie"
 description: "Dans « startup d’État », il y a « startup » (merci Captain Obvious). Cela sème parfois la confusion et nous sommes obligés d’expliquer que ce sont seulement les méthodes des startups que nous utilisons, mais que nos produits sont fait par l’État et pour l’État (ou plutôt pour ses concitoyens)."
 image: https://miro.medium.com/max/12032/1*4Lxhox1uoASsJ90MZWcReA.jpeg
 canonical_url: https://medium.com/@seiteta/methode-startup-trier-bon-grain-ivraie-4069d3702488
-categories: [Startup, Innovation, Administration, Culture, Design]
+tags: [Startup, Innovation, Administration, Culture, Design]
 ---
 
 Dans « startup d’État », il y a « startup » (merci Captain Obvious). Cela sème parfois la confusion et nous sommes obligés d’expliquer que ce sont seulement les méthodes des startups que nous utilisons, mais que nos produits sont fait par l’État et pour l’État (ou plutôt pour ses concitoyens).

@@ -3,7 +3,7 @@ layout: post
 title: "L'ouverture par défaut ne passe pas à l'échelle"
 description: "Récemment, Google a mis fin à deux politiques internes qui faisaient jusqu'alors figure de ruptures par rapport au management traditionnel."
 image: https://images.unsplash.com/photo-1472257606461-b659f3d080aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80
-categories: [Innovation, Administration, Ouverture, Culture, Échelle, Non-linéarité]
+tags: [Innovation, Administration, Ouverture, Culture, Échelle, Non-linéarité]
 ---
 
 Récemment, [Google a mis fin](https://www.lemonde.fr/economie/article/2019/11/26/fronde-chez-google-des-employes-contestataires-licencies_6020571_3234.html) à deux politiques internes qui faisaient jusqu'alors figure de ruptures par rapport au management traditionnel : le TGIF (un rassemblement hebdomadaire où les employés pouvaient notamment poser n'importe quelle question à la direction) et l'ouverture par défaut de tous les documents internes.

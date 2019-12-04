@@ -3,7 +3,7 @@ layout: post
 title: "C'est notre métier"
 description: "Vous êtes un seigneur au moyen-âge et vous avez besoin d'une nouvelle épée pour vos duels. Vous allez voir le forgeron pour lui en commander une."
 image: https://images.unsplash.com/photo-1528717384022-f8d665c86909?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=80
-categories: [Développement logiciel, Artisanat, Administration, Métier, Culture]
+tags: [Développement logiciel, Artisanat, Administration, Métier, Culture]
 ---
 
 Vous êtes un seigneur au moyen-âge et vous avez besoin d'une nouvelle épée pour vos duels. Vous allez voir le forgeron pour lui en commander une. Imaginez sa tête quand vous lui tendez votre cahier des charges technique qui lui explique comment faire son métier.

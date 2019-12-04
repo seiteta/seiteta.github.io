@@ -3,7 +3,7 @@ layout: post
 title: "L'égo ou l'ouverture ?"
 description: "Combien de fois voyons-nous des projets où des gens de différents départements refusent de collaborer ? Ont peur que d'autres reçoivent les lauriers à leur place ? Considèrent que les données leur appartiennent ?"
 image: https://images.unsplash.com/photo-1497285597995-6ed7de6bfebd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60
-categories: [Administration, Ouverture, Égo, Information, Influence]
+tags: [Administration, Ouverture, Égo, Information, Influence]
 ---
 
 > C'est notre projet, ce sont nos données ! Ils doivent nous mettre en avant, et pas les autres.
