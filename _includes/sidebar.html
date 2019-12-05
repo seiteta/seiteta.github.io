@@ -2,7 +2,14 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <div>
-        <img class="sidebar-image" src="{{ site.baseurl }}/public/img/frederic-bardolle.png" alt="Frédéric Bardolle">
+        <img  class="sidebar-image"
+              src="{{ site.baseurl }}/public/img/frederic-bardolle.png"
+              alt="Frédéric Bardolle"
+              srcset="{{ site.baseurl }}/public/img/frederic-bardolle.png 500w,
+                      {{ site.baseurl }}/public/img/frederic-bardolle-low-res.png 100w"
+              sizes="(max-width: 48em) 100vw,
+                      20vw">
+        </img>
         <h1 href="{{ site.url }}">
           {{ site.title }}
         </h1>
