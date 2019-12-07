@@ -93,3 +93,8 @@
     color: rgba(0, 0, 0, 0.84);
   }
 }
+@media (prefers-color-scheme: dark) {
+  .b-nav a {
+    color: #93a1a1;
+  }
+}
