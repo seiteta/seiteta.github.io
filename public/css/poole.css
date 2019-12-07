@@ -70,7 +70,7 @@ a {
 }
 @media (prefers-color-scheme: dark) {
   a {
-    color: #93a1a1;
+    color: #657b83;
   }
 h1 a {
   text-decoration: none;
@@ -242,8 +242,8 @@ blockquote {
 }
 @media (prefers-color-scheme: dark) {
   blockquote {
-    color: #586e75;
-    border-left: .25rem solid #586e75;
+    color: #839496;
+    border-left: .25rem solid #839496;
   }
 }
 blockquote p:last-child {
@@ -397,7 +397,7 @@ tbody tr:nth-child(odd) th {
 }
 @media (prefers-color-scheme: dark) {
   .post-date {
-    color: #93a1a1;
+    color: #657b83;
   }
 }
 
@@ -425,7 +425,7 @@ tbody tr:nth-child(odd) th {
 }
 @media (prefers-color-scheme: dark) {
   .related-posts li small {
-    color: #586e75;
+    color: #839496;
   }
 }
 .related-posts li a:hover {
@@ -497,15 +497,15 @@ a.pagination-item:hover {
 
 @media (prefers-color-scheme: dark) {
   .facebook{
-    fill: #93a1a1;
+    fill: #657b83;
   }
 }
 @media (prefers-color-scheme: dark) {
   .twitter{
-    fill: #93a1a1;
+    fill: #657b83;
   }
 }@media (prefers-color-scheme: dark) {
   .linkedin{
-    fill: #93a1a1;
+    fill: #657b83;
   }
 }
