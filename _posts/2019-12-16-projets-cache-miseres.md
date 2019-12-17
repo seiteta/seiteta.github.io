@@ -10,7 +10,7 @@ Dans mon ancien appartement, tout le couloir était recouvert de lambris. Quelle
 
 N'est-ce pas un phénomène que nous rencontrons fréquemment dans les grandes structures ? Au lieu de nous attaquer aux problèmes de fond, il est plus facile de mettre des pansements sur une jambe de bois.
 
-Pourquoi par exemple lancer une « marque employeur » alors que nous ne sommes parfois même pas capables de rendre son poste à une femme qui rentre de congés maternité ? (pas dans mon administration, mais histoire vraie)
+Pourquoi par exemple lancer une « marque employeur » alors que nous ne sommes parfois même pas capables de rendre son poste à une femme qui rentre de congé maternité ? (pas dans mon administration, mais histoire vraie)
 
 L'excuse est souvent la même : « ce n'est pas mon sujet… ». La malédiction des grandes organisations, c'est que tout est séparé en tellement de petits morceaux que personne n'est plus responsable de rien. Il est donc très compliqué de mettre autre chose que des pansements.
 
