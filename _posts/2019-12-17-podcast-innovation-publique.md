@@ -14,7 +14,7 @@ Le podcast est un bon format pour parler de ce genre de sujet complexe car il pe
 
 **1/ Montrer que [vous n'êtes pas seul](https://f14e.fr/2019/11/13/vous-netes-pas-seuls/)**. La communauté de celles et ceux qui transforme l'administration grandit sans cesse. Elle est en train d’atteindre une taille critique qui va lui permettre de résoudre de nouveaux défis. Je vais interviewer les personnes qui composent cette communauté si diverse.
 
-**2/ Fournir de l'inspiration**. Vous lancez un incubateur public ? Vous créez un service public numérique ? Vous voulez rendre votre organisation plus verticale ? Venez écouter celles et ceux qui ont déjà dû affronter ce qui vous attend.
+**2/ Fournir de l'inspiration**. Vous lancez un incubateur public ? Vous créez un service public numérique ? Vous voulez rendre votre organisation plus horizontale ? Venez écouter celles et ceux qui ont déjà dû affronter ce qui vous attend.
 
 **3/ Donner envie de nous rejoindre**. Vous n'êtes pas dans la fonction publique mais vous sentez qu'il se passe un truc important en ce moment ? Vous voulez travailler pour l'intérêt général mais en restant à la pointe de ce qui se fait dans la tech ? Découvrez les entrepreneurs publics avec qui vous adoreriez travailler !
 
