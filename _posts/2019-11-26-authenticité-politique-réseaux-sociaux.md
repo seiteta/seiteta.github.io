@@ -20,4 +20,4 @@ Avec cette redéfinition de l'espace médiatique, qu'on le veuille ou non, il n'
 
 --
 
-Pour en savoir plus sur l'utilisation des réseaux sociaux par AOC, [cet article](https://medium.com/@Kmartenon/sans-filtre-8ecddc9956b) de [Kéliane Martenon](https://twitter.com/KMartenon) est très complet.
+*Pour en savoir plus sur l'utilisation des réseaux sociaux par AOC, [cet article](https://medium.com/@Kmartenon/sans-filtre-8ecddc9956b) de [Kéliane Martenon](https://twitter.com/KMartenon) est très complet.*
