@@ -24,4 +24,4 @@ Une seule certitude : le changement prend toujours du temps.
 
 --
 
-_En parlant de changement, le rythme de publication de f14e.fr évolue et passe à un article par semaine (au lieu d’un article par jour pendant une semaine puis plus rien la semaine suivante 😁)._
+_En parlant de changement, le rythme de publication de f14e.fr évolue et passe à un article par semaine (au lieu d’un article par jour pendant une semaine puis plus rien la semaine suivante_ 😁 _)._
