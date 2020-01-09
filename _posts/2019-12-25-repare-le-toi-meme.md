@@ -12,10 +12,10 @@ La réponse de celles et ceux qui ont créé ces briques ouvertes est souvent ci
 
 C'est également un classique des grandes organisations : toutes ces personnes qui vous disent ce que vous devriez faire et comment, sans que vous n'ayez demandé quoique ce soit.
 
-Et c'est normal dans les organisations qui fonctionnent en silo et dans lesquels chaque individu n'est responsable que d'un tout petit périmètre. Comment faire autrement que de demande aux autres de faire pour nous ?
+Et c'est normal dans les organisations qui fonctionnent en silo et dans lesquels chaque individu n'est responsable que d'un tout petit périmètre. Comment faire autrement que de demander aux autres de faire pour nous ?
 
 Sauf que l'époque est à l'ouverture et à l'horizontalité. Et dans ce type d'organisation, la seule réponse que nous pouvons donner quand on nous dit ce qui devrait être fait est : « Tu viens m'aider à le faire ? ».
 
+--
 
-
-**Ajout de dernière minute** : alors que je m'apprêtais à publier l'article, Antoine, qui en avait marre que les marges de mon blog soient trop fines sur mobile, a [fait la modification lui-même](https://mobile.twitter.com/AntoineAugusti/status/1209390663697129479). Merci Antoine !
+_**Ajout de dernière minute** : alors que je m'apprêtais à publier l'article, Antoine, qui en avait marre que les marges de mon blog soient trop fines sur mobile, a [fait la modification lui-même](https://mobile.twitter.com/AntoineAugusti/status/1209390663697129479). Merci Antoine !_
