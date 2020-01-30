@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  {{ content }}
+  <p>Téléchargez l'épisode en cliquant <a href="{{ page.file }}"">ici</a> ou écoutez le sur <a href="{{ page.spotify_url }}">Spotify</a> ou <a href="{{ page.itunes_url }}">iTunes</a></p>
+  <span class="post-date">{% include date-fr.html date=page.date %}</span>
+  {% include share-buttons.html %}
+</div>
