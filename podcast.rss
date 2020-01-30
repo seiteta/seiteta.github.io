@@ -3,26 +3,26 @@ layout: null
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-      <title>{{ site.podcast_title }}</title>
-      <link>{{ site.url }}/podcast.xml</link>
-      <description>{{ site.podcast_description }}</description>
-      <language>fr</language>
-      <itunes:author>{{ site.author.name }}</itunes:author>
-      <itunes:category text="Government"></itunes:category>
-      <itunes:category text="Technology"></itunes:category>
-      <itunes:type>episodic</itunes:type>
-      <itunes:image href="{{ site.url }}/public/img/hackers_publics.jpg" />
-      {% for episode in site.episodes %}
-      <item>
-        <title>{{ episode.title }}</title>
-        <description>{{ episode.description }}</description>
-        <pubDate>{{ episode.date | date_to_xmlschema }}</pubDate>
-        <itunes:order>1</itunes:order>
-        <itunes:duration>22</itunes:duration>
-        <enclosureurl="{{ site.url }}/public/mp3/{{ episode.file }}" type="audio/mpeg" />
-      </item>
-      {% endfor %}
-    </channel>
-  </rss>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ site.podcast_title }}</title>
+    <link>{{ site.url }}/podcast.xml</link>
+    <description>{{ site.podcast_description }}</description>
+    <language>fr</language>
+    <itunes:author>{{ site.author.name }}</itunes:author>
+    <itunes:category text="Government"></itunes:category>
+    <itunes:category text="Technology"></itunes:category>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="{{ site.url }}/public/img/hackers_publics.jpg" />
+    {% for episode in site.episodes %}
+    <item>
+      <title>{{ episode.title }}</title>
+      <description>{{ episode.description }}</description>
+      <pubDate>{{ episode.date | date_to_xmlschema }}</pubDate>
+      <itunes:order>1</itunes:order>
+      <itunes:duration>22</itunes:duration>
+      <enclosureurl="{{ site.url }}/public/mp3/{{ episode.file }}" type="audio/mpeg" />
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
