@@ -4,8 +4,11 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+
   {{ content }}
-  <p>Téléchargez l'épisode <a href="{{ site.url }}/public/mp3/{{ page.file }}"">ici</a> ou écoutez-le sur <a href="{{ page.spotify_url }}">Spotify</a>, <a href="{{ page.itunes_url }}">iTunes</a></p> ou votre <a href="{{ site.url }}/hackers_publics.xml">application de podcast préférée</a>.
+
+  Téléchargez l'épisode <a href="{{ site.url }}/public/mp3/{{ page.file }}"">ici</a> ou écoutez-le sur <a href="{{ page.spotify_url }}">Spotify</a>, <a href="{{ page.itunes_url }}">iTunes</a> ou votre <a href="{{ site.url }}/hackers_publics.xml">application de podcast préférée</a>.
+
   <span class="post-date">{% include date-fr.html date=page.date %}</span>
   {% include share-buttons.html %}
 </div>
