@@ -20,7 +20,7 @@ layout: null
       <description>{{ episode.description }}</description>
       <pubDate>{{ episode.date | date_to_xmlschema }}</pubDate>
       <itunes:order>1</itunes:order>
-      <itunes:duration>22</itunes:duration>
+      <itunes:duration>{{ episode.duration }}</itunes:duration>
       <enclosure url="{{ site.url }}/public/mp3/{{ episode.file }}" type="audio/mpeg" />
     </item>
     {% endfor %}

@@ -7,12 +7,12 @@ title: Tous les épisodes
   {% for episode in site.episodes %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ episode.file }}">
+      <a href="{{ episode.url }}">
         {{ episode.title }}
       </a>
     </h1>
-    {{ post.content }}
-    <span class="post-date">{% include date-fr.html date=post.date %}</span>
+    {{ episode.content }}
+    <span class="post-date">{% include date-fr.html date=episode.date %}</span>
   </div>
   {% endfor %}
 </div>
