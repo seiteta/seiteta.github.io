@@ -10,11 +10,12 @@ tagline:          'Entrepreneur public'
 baseurl:          /
 paginate:         500
 collections:
-  episodes:
+  hackers_publics:
     output:       true
 
 # Podcast parameters
 podcast_title:    Hackers publics
+podcast_url:      https://f14e.fr/hackers_publics/
 podcast_description:  À la rencontre de ceux qui transforment la culture numérique de l'administration
 
 #SEO tag

@@ -14,7 +14,7 @@ layout: null
     <itunes:category text="Government" />
     <itunes:type>episodic</itunes:type>
     <itunes:image href="{{ site.url }}/public/img/hackers_publics.jpg" />
-    {% for episode in site.episodes %}
+    {% for episode in site.hackers_publics %}
     <item>
       <title>{{ episode.title }}</title>
       <description>{{ episode.description }}</description>
