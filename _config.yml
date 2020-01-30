@@ -12,6 +12,8 @@ paginate:         500
 collections:
   episodes:
     output:       true
+    permalink:    /:collection/:path
+
 
 # Podcast parameters
 podcast_title:    Hackers publics
