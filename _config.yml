@@ -9,6 +9,8 @@ permalink:        /:year/:month/:day/:title/
 tagline:          'Entrepreneur public'
 baseurl:          /
 paginate:         500
+collections:      episodes:
+  output:         true
 
 # Podcast parameters
 podcast_title:    Hackers publics
@@ -22,11 +24,11 @@ author:
   name:           'Frédéric Bardolle'
   twitter:        seiteta
 social:
-  name: Frédéric Bardolle
+  name:           Frédéric Bardolle
   links:
-    - https://twitter.com/seiteta
-    - https://www.linkedin.com/in/fbardolle
-lang: fr
+                  - https://twitter.com/seiteta
+                  - https://www.linkedin.com/in/fbardolle
+lang:             fr
 
 plugins:
-  - jekyll-seo-tag
+                  - jekyll-seo-tag
