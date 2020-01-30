@@ -10,8 +10,8 @@ layout: null
     <description>{{ site.podcast_description }}</description>
     <language>fr</language>
     <itunes:author>{{ site.author.name }}</itunes:author>
-    <itunes:category text="Government"></itunes:category>
-    <itunes:category text="Technology"></itunes:category>
+    <itunes:category text="Technology" />
+    <itunes:category text="Government" />
     <itunes:type>episodic</itunes:type>
     <itunes:image href="{{ site.url }}/public/img/hackers_publics.jpg" />
     {% for episode in site.episodes %}
