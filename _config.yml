@@ -11,7 +11,7 @@ baseurl:          /
 paginate:         500
 collections:
   episodes:
-    output:         true
+    output:       true
 
 # Podcast parameters
 podcast_title:    Hackers publics
