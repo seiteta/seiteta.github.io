@@ -9,8 +9,9 @@ permalink:        /:year/:month/:day/:title/
 tagline:          'Entrepreneur public'
 baseurl:          /
 paginate:         500
-collections:      episodes:
-  output:         true
+collections:
+  episodes:
+    output:         true
 
 # Podcast parameters
 podcast_title:    Hackers publics
