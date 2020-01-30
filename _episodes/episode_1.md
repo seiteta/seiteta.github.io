@@ -3,6 +3,7 @@ layout: episode
 title: "#1 Mathilde Bras d'Etalab"
 description: "Dans cet épisode…"
 file: ep1.mp3
+date: 2020-01-30
 duration: 22
 spotify_url:
 itunes_url:
