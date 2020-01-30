@@ -4,11 +4,11 @@ title: Tous les épisodes
 ---
 
 <div class="posts">
-  {% for episode in paginator.episodes %}
+  {% for episode in site.episodes %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
+      <a href="{{ episode.file }}">
+        {{ episode.title }}
       </a>
     </h1>
     {{ post.content }}
