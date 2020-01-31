@@ -17,7 +17,7 @@ layout: null
     {% for episode in site.hackers_publics %}
     <item>
       <title>{{ episode.title }}</title>
-      <description>{{ episode.description }}</description>
+      <description>{{ episode.content }}</description>
       <pubDate>{{ episode.date | date_to_xmlschema }}</pubDate>
       <itunes:order>1</itunes:order>
       <itunes:duration>{{ episode.duration }}</itunes:duration>

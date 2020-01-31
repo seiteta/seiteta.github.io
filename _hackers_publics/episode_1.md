@@ -1,7 +1,6 @@
 ---
 layout: episode
-title: "#1 Mathilde Bras d'Etalab"
-description: "Dans cet épisode…"
+title: "#1 - Mathilde Bras : citation"
 date: 2020-01-30
 file: ep1.mp3
 duration: 22
@@ -9,4 +8,4 @@ spotify_url:
 itunes_url:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mathilde Bras est la directrice du programme Entrepreneurs d'Intérêt Général au sein d'Etalab. Elle nous raconte son parcours, à l'intersection des sciences sociales et du numérique, et comment elle est s'est retrouvé au Conseil National du Numérique alors qu’elle pensait devenir criminologue. Mathilde nous explique également comment les programmes qu'elle supervise transforment les administrations et quelles questions éthiques soulèvent la création de briques d'intelligence artificielle par l'administration. Bonne écoute !
