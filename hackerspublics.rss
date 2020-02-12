@@ -23,6 +23,7 @@ layout: null
       <itunes:order>1</itunes:order>
       <itunes:duration>{{ episode.duration }}</itunes:duration>
       <enclosure url="{{ site.url }}/public/mp3/{{ episode.file }}" type="audio/mpeg" />
+      <guid>{{ episode.guid }}</guid>
     </item>
     {% endfor %}
   </channel>
