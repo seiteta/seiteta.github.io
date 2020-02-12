@@ -12,6 +12,7 @@ layout: null
     <itunes:author>{{ site.author.name }}</itunes:author>
     <itunes:category text="Technology" />
     <itunes:category text="Government" />
+    <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="{{ site.url }}/public/img/hackerspublics.jpg" />
     {% for episode in site.hackerspublics %}
