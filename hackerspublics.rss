@@ -10,6 +10,9 @@ layout: null
     <description>{{ site.podcast_description }}</description>
     <language>fr</language>
     <itunes:author>{{ site.author.name }}</itunes:author>
+    <itunes:owner>
+       <itunes:email>blog@f14e.fr</itunes:email> 
+    </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:category text="Government" />
     <itunes:explicit>no</itunes:explicit>
