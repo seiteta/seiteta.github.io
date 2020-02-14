@@ -12,6 +12,6 @@ description: "Dans ce premier épisode, nous recevons Mathilde Bras est la direc
 
 Bienvenue dans Hackers Publics, le podcast dans lequel nous allons à la rencontre de celles et ceux qui transforment la culture numérique de l'administration !
 
-Dans ce premier épisode, nous recevons Mathilde Bras est la directrice du programme Entrepreneurs d'Intérêt Général au sein d'Etalab. Elle nous raconte son parcours, à l'intersection des sciences sociales et du numérique, et comment elle est s'est retrouvé au Conseil National du Numérique alors qu’elle pensait devenir criminologue. Mathilde nous explique également comment les programmes qu'elle supervise transforment les administrations et quelles questions éthiques soulèvent la création de briques d'intelligence artificielle par l'administration.
+Dans ce premier épisode, nous recevons Mathilde Bras, la directrice du programme Entrepreneurs d'Intérêt Général au sein d'Etalab. Elle nous raconte son parcours, à l'intersection des sciences sociales et du numérique, et comment elle est s'est retrouvée au Conseil National du Numérique alors qu’elle pensait devenir criminologue. Mathilde nous explique également comment les programmes qu'elle supervise transforment les administrations et quelles questions éthiques soulève la création de briques d'intelligence artificielle par l'administration.
 
 Bonne écoute !
