@@ -3,9 +3,7 @@ layout: page_blog
 title: Bio
 ---
 
-### Bio
-
-Bonjour, je m'appelle Frédéric Bardolle. Je suis un geek qui essaie de travailler dans l'intérêt général.
+Bonjour, je m'appelle Frédéric Bardolle.
 
 Depuis une dizaine d'année, je fais en sorte que la technologie soit utilisée au profit de la société, plutôt que contre elle.
 
