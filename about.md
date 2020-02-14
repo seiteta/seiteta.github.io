@@ -1,6 +1,6 @@
 ---
 layout: page_blog
-title: À propos
+title: Bio
 ---
 
 ### Bio
