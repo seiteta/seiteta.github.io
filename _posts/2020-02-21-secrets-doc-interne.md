@@ -22,6 +22,6 @@ Il est pourtant possible de créer un système qui rassemble le meilleur des deu
 
 2/ Les règles doivent être **facilement modifiables**. N'importe qui doit pouvoir proposer un changement dans les règles et un mécanisme clair doit exister pour valider des changements.
 
-Le *(handbook)[https://about.gitlab.com/handbook/]* de l'entreprise Gitlab est une très bon exemple de documentation interne qui respecte ces principes.
+Le *[handbook](https://about.gitlab.com/handbook/)* de l'entreprise Gitlab est une très bon exemple de documentation interne qui respecte ces principes.
 
 Accessibilité et mutabilité : voici les secrets d'un système de documentation efficace et robuste.
