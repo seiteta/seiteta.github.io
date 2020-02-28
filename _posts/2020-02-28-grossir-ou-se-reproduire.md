@@ -16,7 +16,7 @@ Après avoir dépassé une certaine taille, peut-être que les structures feraie
 
 Pour continuer de grandir, une solution est de se répliquer, en partageant sa manière de faire, plutôt que de devenir trop grand. Et pour s'assurer que les nouvelles structures ainsi créées survivent, il est nécessaire de les former et de leur partager tout le savoir acquis.
 
-Il n'existe pas un unique restaurant McDonald's de la taille d'une ville, mais plutôt des dizaines de milliers de restaurants franchisés capables de servir 69 millions de clients par jour. Il n'y a pas non plus une seule conférence TED gigantesque, mais plutôt un système de licence qui a permis d’organiser plus de 32000 conférences TEDx dans le monde entier.
+Il n'existe pas un unique restaurant McDonald's de la taille d'une ville, mais plutôt des dizaines de milliers de restaurants franchisés capables de servir 69 millions de clients par jour. Il n'y a pas non plus une seule conférence TED gigantesque, mais à la place un système de licence qui a permis d’organiser plus de 32000 conférences TEDx dans le monde entier.
 
 L'incubateur de services numériques de la DINUM a emprunté une voie similaire en encourageant l'émergence d'[incubateurs ministériels mis en réseau](https://beta.gouv.fr/incubateurs/). L'association Data for Good favorise aussi l'émergence de chapitres [régionaux](https://www.meetup.com/fr-FR/Data-for-Good-Provence/) [indépendants](https://www.meetup.com/fr-FR/Data-for-Good-Grenoble/) pour continuer à réaliser plus de projets tout en restant à taille humaine.
 
