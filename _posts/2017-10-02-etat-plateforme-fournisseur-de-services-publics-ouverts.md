@@ -2,7 +2,7 @@
 layout: post
 title: "L’État plateforme : un fournisseur de services publics ouverts ?"
 description: "Alors que 9,3 milliards d’euros du Grand plan d’investissement (GPI) du gouvernement sont consacrés à la numérisation de l’administration, l’association Free Software Foundation Europe démarre une campagne intitulée « Public Money, Public Code »."
-image: https://miro.medium.com/max/5120/1*RPTj5PqxPveyMIorkZUf8g.png
+image: https://miro.medium.com/max/1200/1*RPTj5PqxPveyMIorkZUf8g.png
 canonical_url: https://medium.com/@seiteta/l%C3%A9tat-plateforme-un-fournisseur-de-services-publics-ouverts-7d9a5f87c4ba
 ---
 

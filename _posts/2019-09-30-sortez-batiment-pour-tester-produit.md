@@ -2,7 +2,7 @@
 layout: post
 title: "Sortez du bâtiment pour tester votre produit"
 description: "Si cette simple question était posée de manière systématique, la majorité des problèmes posés par les produits développés par les administrations seraient résolus."
-image: https://miro.medium.com/max/10368/1*hiA9edFz53WEYTHeV3DYKQ.jpeg
+image: https://miro.medium.com/max/1200/1*hiA9edFz53WEYTHeV3DYKQ.jpeg
 canonical_url: https://medium.com/@seiteta/sortir-batiment-tester-produit-36666d4b6d79
 tags: [Innovation, UX design, Culture, Introversion, Sortir]
 ---
