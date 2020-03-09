@@ -18,6 +18,6 @@ Mais comment ne pas s'accrocher à ses idées lorsque nous n'avons pas de client
 
 La première étape est de tester ses idées, de les faire affronter le monde réel. Même si la théorie est parfois séduisante, la pratique est la seule chose qui permet d'avoir une influence sur le monde.
 
-La seconde étape est de se rattacher à des objectifs. Nos idées n'existent pas pour elles-mêmes, mais pour pour nous permettre de réaliser quelque chose. Et heureusement, il existe beaucoup de chemins pour arriver à chaque destination.
+La seconde étape est de se rattacher à des objectifs. Nos idées n'existent pas pour elles-mêmes, mais pour nous permettre de réaliser quelque chose. Et heureusement, il existe beaucoup de chemins pour arriver à chaque destination.
 
 Enfin, il faut se rappeler sans cesse que le seul moyen d'avoir une bonne idée, c'est d'en avoir déjà plein de mauvaises.
