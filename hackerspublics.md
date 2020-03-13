@@ -24,7 +24,9 @@ Accéder au podcast sur <a href="https://open.spotify.com/show/17E4Bxj2VOnE4esRG
       </a>
     </h1>
     {{ episode.content }}
-    <span class="post-date">{% include date-fr.html date=episode.date %}</span>
+    <span class="post-date">{% include date-fr.html date=episode.date %}
+    {% include share-buttons.html %}
+    </span>
   </div>
   {% endfor %}
 </div>
