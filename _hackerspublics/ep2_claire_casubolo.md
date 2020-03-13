@@ -11,8 +11,6 @@ description: "Claire Casubolo est la responsable du pôle « données » de la
 image: https://f14e.fr/public/img/hackerspublics-banner.jpg
 ---
 
-Bienvenue dans Hackers Publics, le podcast dans lequel nous allons à la rencontre de celles et ceux qui transforment la culture numérique de l'administration !
-
-Claire Casubolo est la responsable du pôle « données » de la Cour des comptes. Elle nous raconte son parcours, à l’intersection de la science des données et de la recherche, et comment elle est devenue data scientist à la Cour des comptes. Claire nous explique également comment son équipe offre de nouveaux outils aux magistrats de la Cour des comptes et transforme ainsi la manière de faire des contrôles. Bonne écoute !
+Claire Casubolo est la responsable du pôle « données » de la Cour des comptes. Elle nous raconte son parcours, à l’intersection de la science des données et de la recherche, et comment elle est devenue data scientist à la Cour des comptes. Claire nous explique également comment son équipe offre de nouveaux outils aux magistrats de la Cour des comptes et transforme ainsi la manière de faire des contrôles.
 
 Bonne écoute !
