@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "#2 - Clair Casubolo : On n'a plus besoin des paillettes"
+title: "#2 - Claire Casubolo : On n'a plus besoin des paillettes"
 date: 2020-03-13
 file: hackers_publics_2_claire.casubolo.mp3
 duration: "40:50"
