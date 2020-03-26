@@ -28,3 +28,5 @@ Avantages :
 
 Inconvénient :
 - Il faut s'habiller pour aller télé-travailler.
+
+Prenez soin de vous.
