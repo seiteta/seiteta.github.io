@@ -10,7 +10,7 @@ tags: [Culture, Télétravail, Incubateur, Équipes]
 
 Nous avons quand même modifié deux de nos habitudes : le point de synchronisation hebdomadaire et les rencontres informelles.
 
-Le point de synchronisation hebdomadaire est le rendez-vous dans lequel nous partageons les avancées et les points de blocage de nos produits. Au lieu d'une réunion en visioconférence où chaque équipe parlait pendant quelques minutes, nous faisons maintenant cela par écrit, dans notre application de messagerie instantanée. Un fil de discussion par produit, tout le monde écrit en même temps et pose ensuite des questions.
+Le point de synchronisation hebdomadaire est le rendez-vous durant lequel nous partageons les avancées et les points de blocage de nos produits. Au lieu d'une réunion en visioconférence où chaque équipe parlait pendant quelques minutes, nous faisons maintenant cela par écrit, dans notre application de messagerie instantanée. Un fil de discussion par produit, tout le monde écrit en même temps et pose ensuite des questions.
 
 Avantages :
 - Il y a plus de personnes qui interviennent ;
