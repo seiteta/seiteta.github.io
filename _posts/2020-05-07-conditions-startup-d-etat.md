@@ -11,7 +11,8 @@ Après un an et demi à lancer de nouveaux services numériques dans l’adminis
 **1/ Il faut un intrapreneur qui consacre au moins 20 % de son temps à la startup d’État.**
 
 Cela peut paraître étonnant, mais c’est souvent le point le plus bloquant. Il est en effet facile d’avoir une bonne idée, mais la concrétiser est un travail difficile. Dans les startups d’État, il faut trouver ses premiers utilisateurs en moins de six mois. Il faut donc un intrapreneur disponible, impliqué, qui connaisse son métier et qui veuille vraiment résoudre un irritant. Les projets où il n’y à pas de porteur clairement identifié, ou bien un porteur « désigné volontaire » ont tendance à patauger et à nous épuiser.
- 
+
+
 **2/ Il faut un problème identifié plutôt qu’un cahier des charges.**
 
 La méthode que nous appliquons excelle dans l’incertitude. Cette méthode se base sur des cycles itératifs courts de [construction/mesure/apprentissage](https://en.wikipedia.org/wiki/Lean_startup). L’incertitude, c’est quand il existe un problème qu’on ne sait pas exactement comment résoudre, même si l’on a quelques intuitions sur le sujet. Les incubateurs de services numériques ne sont donc pas le bon endroit pour les projets arrivant avec un cahier des charges bien défini. Pour ces derniers, les entreprises titulaires de marchés publics sont heureusement prêtes à délester l’administration de quelques millions d’euros.
