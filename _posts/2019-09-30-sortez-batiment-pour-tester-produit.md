@@ -7,7 +7,7 @@ canonical_url: https://medium.com/@seiteta/sortir-batiment-tester-produit-36666d
 tags: [Innovation, UX design, Culture, Introversion, Sortir]
 ---
 
-> « Et qu’en disent les utilisateurs ? »
+> « Et qu’en disent les utilisateurs ? »
 
 Si cette simple question était posée de manière systématique, la majorité des problèmes posés par les produits développés par les administrations seraient résolus.
 
@@ -15,7 +15,7 @@ Ce n’est pas une posture facile à avoir. Sortir de son bureau et aller parler
 
 Plusieurs raisons font que nous oublions souvent de demander l’avis de celles et ceux qui vont avoir le produit dans les mains :
 
-**1/ Cette culture** tout d’abord, façonnée depuis l’école où l’on nous a expliqué qu’il y a d’un côté ceux qui savent, et de l’autre ceux qui reçoivent le savoir. Donc si c’est nous qui sommes chargés de construire le produit, c’est que nous devons posséder le savoir, non ? Sauf que le savoir technique (comment coder une application) n’apporte aucune réponse sur la manière dont les utilisateurs vont utiliser notre produit. C’est même souvent l’inverse : si vous laisser seuls des ingénieurs développer un logiciel, ce dernier risque d’avoir de nombreuses fonctionnalités tellement complexes que personne ne saura les utiliser. Il faut donc écouter les utilisateurs, car eux seuls vont pouvoir vous dire si votre produit est suffisamment simple et utilisable.
+**1/ Cette culture** tout d’abord, façonnée depuis l’école où l’on nous a expliqué qu’il y a d’un côté ceux qui savent, et de l’autre ceux qui reçoivent le savoir. Donc si c’est nous qui sommes chargés de construire le produit, c’est que nous devons posséder le savoir, non ? Sauf que le savoir technique (comment coder une application) n’apporte aucune réponse sur la manière dont les utilisateurs vont utiliser notre produit. C’est même souvent l’inverse : si vous laisser seuls des ingénieurs développer un logiciel, ce dernier risque d’avoir de nombreuses fonctionnalités tellement complexes que personne ne saura les utiliser. Il faut donc écouter les utilisateurs, car eux seuls vont pouvoir vous dire si votre produit est suffisamment simple et utilisable.
 
 Faire des tests, ne serait-ce qu’avec un seul utilisateur, apprend énormément. Quand j’étais à l’Agence du numérique, un proche (habitué à utiliser un ordinateur) m’a servi de cobaye sur un forum que je mettais en place. Je l’ai mis devant le site en lui demandant seulement de créer un nouveau sujet sur le forum. Au bout de cinq minutes, il n’avait toujours pas trouver comment faire. Avec un unique utilisateur, j’ai compris que mon site était trop compliqué et que j’allais devoir revoir ma copie.
 

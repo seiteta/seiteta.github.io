@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quelle est la culture que nous voulons ?"
+title: "Quelle est la culture que nous voulons ?"
 description: "Trois piliers : la confiance, l'ouverture et l'empathie par défaut"
 image: https://miro.medium.com/max/1200/1*UvnkO0QBfQkz6EdhVotlzQ.jpeg
 canonical_url: https://medium.com/fabnum/quelle-est-la-culture-que-nous-voulons-37ec7f5942ec
@@ -15,7 +15,7 @@ Chez toutes les autres espèces, le changement de culture va forcément de pair 
 
 Concernant la transformation numérique à laquelle font face la plupart des grandes organisations en ce moment, cela signifie que le changement de culture est au moins aussi important que la transformation technologique.
 
-Mais quelle est cette nouvelle culture vers laquelle nous voulons tendre, ce mythe qui nous fédère ? Pour nous, cela repose sur trois piliers : la confiance, l’ouverture et l’empathie par défaut.
+Mais quelle est cette nouvelle culture vers laquelle nous voulons tendre, ce mythe qui nous fédère ? Pour nous, cela repose sur trois piliers : la confiance, l’ouverture et l’empathie par défaut.
 
 **1/ Confiance par défaut.** Plutôt que de donner aux équipes un mode d’emploi leur expliquant comment faire leur métier, nous leur offrons de l’autonomie et la responsabilité de leur produit. Le fonctionnement est le plus horizontal possible et nous nous concentrons sur la qualité de ce que nous faisons plutôt que sur le nombre d’heures passées au bureau.
 

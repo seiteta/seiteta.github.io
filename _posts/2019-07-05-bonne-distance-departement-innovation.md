@@ -15,7 +15,7 @@ De la même manière, un département d’innovation rattaché à une grande org
 
 La bonne distance est celle où le département d’innovation est en orbite autour de la grande organisation. Assez loin pour qu’une culture différente se développe à l’abri des règles établies. Mais suffisamment proche pour que tout le monde se souviennent que nous sommes après tout dans la même équipe et que nous poursuivons les mêmes objectifs.
 
-La recette idéale pour qu’un département d’innovation soit situé à la bonne distance ? Des processus adaptés, des équipes mixtes et un lieu dédié.
+La recette idéale pour qu’un département d’innovation soit situé à la bonne distance ? Des processus adaptés, des équipes mixtes et un lieu dédié.
 
 ### 1/ Des processus adaptés
 

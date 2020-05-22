@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Apprendre par l'hybridation"
-description: "Lors d'une table ronde au sommet des Govtech, une question très pertinente a été posé : comment les administrations peuvent-elles acquérir des technologies dont elles ne connaissent même pas l'existence ?"
+description: "Lors d'une table ronde au sommet des Govtech, une question très pertinente a été posé : comment les administrations peuvent-elles acquérir des technologies dont elles ne connaissent même pas l'existence ?"
 image: https://images.unsplash.com/photo-1543162033-ff9eed8df958?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60
 tags: [Innovation, Administration, Hybridation, EIG, Startups d'État]
 ---
 
-Lors d'une table ronde au [sommet des Govtech](https://govtechsummit.eu/the-govtech-summit-2019/), une question très pertinente a été posée : *comment les administrations peuvent-elles acquérir des technologies dont elles ne connaissent même pas l'existence ?*
+Lors d'une table ronde au [sommet des Govtech](https://govtechsummit.eu/the-govtech-summit-2019/), une question très pertinente a été posée : *comment les administrations peuvent-elles acquérir des technologies dont elles ne connaissent même pas l'existence ?*
 
 En tant qu'innovateurs publics, il est important que nous nous emparions de cette question. Comment permettre aux agents de se rendre compte de l'état de l’art des technologies, afin qu'ils puissent imaginer de quoi le futur pourrait être fait.
 

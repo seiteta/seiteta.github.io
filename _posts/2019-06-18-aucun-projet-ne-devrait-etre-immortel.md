@@ -15,7 +15,7 @@ En tant qu’innovateur public, vous avez forcément déjà rencontré cette sit
 
 Cela peut paraître louable de ne pas vouloir créer de doublons. C’est une utilisation vertueuse des deniers publics, comme dirait la Cour des comptes. Sauf qu’il est plus sain d’avoir des projets en doublons, sous réserve que les projets puissent mourir aussi (voire plus) facilement qu’ils ont été lancés.
 
-Pourquoi ? Parce que : le darwinisme. Dans une espèce, les individus les moins adaptés à l’environnement disparaissent avant de transmettre leurs gènes et les plus adaptés survivent. Cela devrait être la même chose pour les projets informatiques : il doivent être mortels, sinon les moins aptes survivent également et placent la barre de plus en plus bas.
+Pourquoi ? Parce que : le darwinisme. Dans une espèce, les individus les moins adaptés à l’environnement disparaissent avant de transmettre leurs gènes et les plus adaptés survivent. Cela devrait être la même chose pour les projets informatiques : il doivent être mortels, sinon les moins aptes survivent également et placent la barre de plus en plus bas.
 
 Dans un environnement imprévisible (comme l’est le monde réel), avoir plusieurs projets avec des fonctionnalités similaires est une bonne chose, sous réserve qu’on interrompe les projets les moins bons. Mais à cause du *[sunk cost fallacy](https://fr.wikipedia.org/wiki/Co%C3%BBt_irr%C3%A9cup%C3%A9rable)*, on a tendance à continuer à mettre de l’argent dans un projet qui coule pour essayer de le sauver plutôt que d’arrêter les frais le plus rapidement possible.
 

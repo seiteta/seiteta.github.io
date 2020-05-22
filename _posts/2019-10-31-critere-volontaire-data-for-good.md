@@ -28,6 +28,6 @@ Le formulaire d’inscription, par exemple, comporte treize questions et demande
 
 Autre exemple, lors des journées de lancement, chaque volontaire peut choisir le projet qu’il ou elle préfère, sans limite dans la taille des équipes. Cela génère parfois de grosses équipes, ou des projets qui ne trouvent pas de bénévole. Mais le plus important est que chaque personne qui a choisi de donner de son temps puisse être sur son projet préféré, celui qui le fait vibrer et qui lui parle.
 
-Dans une association où tout le monde est bénévole, quelle est la colle qui peut faire tenir toute une communauté ensemble si ce n’est la motivation ?
+Dans une association où tout le monde est bénévole, quelle est la colle qui peut faire tenir toute une communauté ensemble si ce n’est la motivation ?
 
 > Article publié à l'origine sur [Medium](https://medium.com/@seiteta/critere-volontaire-data-for-good-1b0188689262) le 31 octobre 2019.

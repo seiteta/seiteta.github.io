@@ -32,13 +32,13 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 ### Tables rondes
 
 * « IA et sexisme » – table ronde (2ème journée nationale contre le sexisme, 01/2019)
-* « Monde associatif et innovations technologiques : petits changements ou grande révolution ? » – table ronde (10 ans de Solidatech, 11/2018)
+* « Monde associatif et innovations technologiques : petits changements ou grande révolution ? » – table ronde (10 ans de Solidatech, 11/2018)
 * « _How public interest entrepreneurs build impactful digital products and change public service_ » – table ronde (GovTech Summit, 11/2018)
 * « Éthique des algorithmes publics » – conférence innovation & numérique (ENA, 06/2018)
 * « _[The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr)_ » – table ronde (Forum de l'OCDE, 05/2018)
 * « _Data for Good: creating public value through data_ » – workshop « _Building Impact_ » (Facebook, 06/2017)
 * « Les algorithmes déterminant l’accès à l’information » – colloque « Droits de l'Homme et accès aux contenus sur Internet » (Sorbonne, 05/2017)
-* « Devons-nous vraiment ubériser l’État ? » – cycle de conférence « GovTech » (Liberté Living Lab, 05/2017)
+* « Devons-nous vraiment ubériser l’État ? » – cycle de conférence « GovTech » (Liberté Living Lab, 05/2017)
 
 
 ### Cours
@@ -50,6 +50,6 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 
 ### Autres interventions
-* « [La méthode “start-up d’État”, le remède miracle ?](https://www.acteurspublics.fr/webtv/emissions/numerique-public/la-methode-start-up-detat-le-remede-miracle) » – émission « Numérique public » (Acteurs publics, 10/2019)
-* « [Quelles nouvelles méthodes pour doper l’innovation ?](https://www.acteurspublics.fr/webtv/emissions/aws-summit/debat-quelles-nouvelles-methodes-pour-doper-linnovation) » – émission « AWS summit » (Acteurs publics, 04/2019)
-* « Santé, éducation, justice, emploi : faut-il faire confiance aux algorithmes ? » – Tribunal pour les Générations Futures (Forum du CNRS, 06/2018)
+* « [La méthode “start-up d’État”, le remède miracle ?](https://www.acteurspublics.fr/webtv/emissions/numerique-public/la-methode-start-up-detat-le-remede-miracle) » – émission « Numérique public » (Acteurs publics, 10/2019)
+* « [Quelles nouvelles méthodes pour doper l’innovation ?](https://www.acteurspublics.fr/webtv/emissions/aws-summit/debat-quelles-nouvelles-methodes-pour-doper-linnovation) » – émission « AWS summit » (Acteurs publics, 04/2019)
+* « Santé, éducation, justice, emploi : faut-il faire confiance aux algorithmes ? » – Tribunal pour les Générations Futures (Forum du CNRS, 06/2018)

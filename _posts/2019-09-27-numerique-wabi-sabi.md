@@ -14,10 +14,10 @@ En ce qui concerne le numérique aujourd’hui, il semble que nous soyons encore
 
 Mais si nos applications sont faciles à utiliser, la nature, elle, est plaisante à contempler. Personne ne passe des heures à admirer un site web alors qu’observer les étoiles, regarder le soleil se coucher ou se balader dans la forêt sont encore des activités répandues chez les humains. Face aux infinies variations imprévisibles qu’offre la nature, l’absence d’aspérités du monde de l’écran manque souvent de poésie.
 
-Comment alors rajouter du *wabi-sabi* dans nos produits numériques si policés ? De l’impermanence, de l’imperfection, de l’incomplétion ?
+Comment alors rajouter du *wabi-sabi* dans nos produits numériques si policés ? De l’impermanence, de l’imperfection, de l’incomplétion ?
 
 Le seul *wabi-sabi* visible à l’heure actuel, ce sont ces écrans cassés de *smartphone* qu’ont tous les adolescents. Ces écrans qui accrochent le pouce et rendent invisibles certains pixels. Ces écrans qui nous renvoient au temps qui passe et laisse partout sa marque.
 
-À quand une éclosion de l’esthétique *wabi-sabi* dans le numérique ? Est-elle seulement possible ?
+À quand une éclosion de l’esthétique *wabi-sabi* dans le numérique ? Est-elle seulement possible ?
 
 > Article publié à l'origine sur [Medium](https://medium.com/@seiteta/numerique-wabi-sabi-5b9b67a8fc5c) le 27 septembre 2019.

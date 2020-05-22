@@ -8,13 +8,13 @@ tags: [Innovation, Créativité, Idée, Lâcher-prise, Réalité]
 
 C'est un risque pour toutes celles et ceux qui travaillent plus avec leur cerveau qu'avec leur corps : tomber amoureux de ses idées.
 
-Est-ce de l'ego ? Est-ce de l'attachement ? En tout cas, nous y sommes tous confrontés : cette nouvelle fonctionnalité, ce nouveau service que j'ai imaginé est génial et les gens qui critiquent mon idée m'attaquent personnellement.
+Est-ce de l'ego ? Est-ce de l'attachement ? En tout cas, nous y sommes tous confrontés : cette nouvelle fonctionnalité, ce nouveau service que j'ai imaginé est génial et les gens qui critiquent mon idée m'attaquent personnellement.
 
 Sauf que nous ne sommes pas nos idées. Nous sommes ce que nous faisons.
 
 Les _designers_ ayant travaillé dans des agences où ils ont dû reprendre leurs œuvres des centaines de fois face à des clients girouettes, savent que tout n'est qu'un éternel recommencement. Ils ont appris le lâcher-prise.
 
-Mais comment ne pas s'accrocher à ses idées lorsque nous n'avons pas de clients ?
+Mais comment ne pas s'accrocher à ses idées lorsque nous n'avons pas de clients ?
 
 La première étape est de tester ses idées, de les faire affronter le monde réel. Même si la théorie est parfois séduisante, la pratique est la seule chose qui permet d'avoir une influence sur le monde.
 

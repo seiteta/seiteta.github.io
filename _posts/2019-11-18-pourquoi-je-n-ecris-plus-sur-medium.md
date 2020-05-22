@@ -6,7 +6,7 @@ image: https://images.unsplash.com/photo-1559081045-33125b5afe1d?ixlib=rb-1.2.1&
 tags: [Logiciel libre, Souveraineté, Vie privée, Plateforme, Indicateurs]
 ---
 
-Ça fait un peu plus semaine déjà que j'ai quitté Medium pour publier mes articles sur ce blog à la place. J’adore Medium. Cette décision n'a donc pas été aisée. Sur Medium, tout est simple et facile : écrire, publier et partager se font sans accroc. On ne pense qu'au texte et n'est-ce pas le plus important finalement quand on écrit ?
+Ça fait un peu plus semaine déjà que j'ai quitté Medium pour publier mes articles sur ce blog à la place. J’adore Medium. Cette décision n'a donc pas été aisée. Sur Medium, tout est simple et facile : écrire, publier et partager se font sans accroc. On ne pense qu'au texte et n'est-ce pas le plus important finalement quand on écrit ?
 
 Pas seulement. Car il est indispensable de mettre en adéquation ses paroles et ses actes. Or je prône régulièrement le logiciel libre, la souveraineté numérique et le respect de la vie privée.
 
@@ -16,4 +16,4 @@ La seconde raison de ce changement, c'est la question des plateformes. De la mê
 
 Ma dernière motivation enfin est celle du respect de la vie privée. Sur ce blog, il n'y a aucun traqueur, aucun cookie, que du contenu (s’il en reste, n’hésitez pas à me prévenir). Non seulement cela rend le site très rapide à charger, mais cela limite également la consommation énergétique associée. En naviguant sur ce site, personne ne sait ce que vous faites, ce que vous aimez, quel est votre navigateur ou votre adresse IP. Et de mon côté, je n’ai pas de statistiques d’utilisation et donc pas d’indicateurs futiles, ce qui est plus reposant. Chacun reste le plus libre de son temps possible.
 
-Maintenant que ce blog a déménagé, comment être quand même informé des nouveaux articles ? Rien de plus simple : pour les modernes, envoyez-moi un [courriel](mailto:blog@f14e.fr?subject=Je%20voudrais%20m%27abonner%20%C3%A0%20f14e.fr&body=Merci%20!) et pour les anciens, [abonnez-vous au flux RSS](https://f14e.fr/flux.xml).
+Maintenant que ce blog a déménagé, comment être quand même informé des nouveaux articles ? Rien de plus simple : pour les modernes, envoyez-moi un [courriel](mailto:blog@f14e.fr?subject=Je%20voudrais%20m%27abonner%20%C3%A0%20f14e.fr&body=Merci%20!) et pour les anciens, [abonnez-vous au flux RSS](https://f14e.fr/flux.xml).

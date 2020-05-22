@@ -8,11 +8,11 @@ tags: [Qualité, Administration, Innovation, Design, Produit, Excellence]
 
 Je viens de recevoir la carte de tiers payant de ma mutuelle en ligne. L'emballage est parfait, le *design* de la carte, très sympa. En bonus : des autocollants de super qualité et l'information que je suis désormais remboursé si je m'abonne à une application de méditation.
 
-Pour certains, ce ne sont que des détails. Ce qui compte dans une mutuelle, c’est la manière dont elle nous rembourse, non ? Sauf qu’ici, l’attention aux détails de ma mutuelle est la même que ce soit pour les remboursements ou l’envoi d’une simple carte. Et tout est parfait.
+Pour certains, ce ne sont que des détails. Ce qui compte dans une mutuelle, c’est la manière dont elle nous rembourse, non ? Sauf qu’ici, l’attention aux détails de ma mutuelle est la même que ce soit pour les remboursements ou l’envoi d’une simple carte. Et tout est parfait.
 
 Tout ça ne s'est pas fait tout seul. J'imagine le travail nécessaire pour arriver à cette qualité d’exécution.
 
-Est-ce qu'il existe une seule procédure administrative qui soit aussi bien réalisée ? Pas à ma connaissance.
+Est-ce qu'il existe une seule procédure administrative qui soit aussi bien réalisée ? Pas à ma connaissance.
 
 Pourtant, ce n'est pas une question d'échelle. Beaucoup de procédures administratives ont beaucoup moins d'utilisateurs que ma mutuelle.
 

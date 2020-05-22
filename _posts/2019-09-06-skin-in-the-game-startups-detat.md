@@ -8,7 +8,7 @@ canonical_url: https://medium.com/fabnum/skin-in-the-game-dans-les-startups-d%C3
 
 > « Si tu réussis, je te couvrirai d’or, sinon, je te jetterai au crocodile. » (Cléopâtre à Numérobis)
 
-Qui est responsable du projet ? Qui sera couvert d’or si c’est une réussite ou jeté au crocodile si rien n’est livré ?
+Qui est responsable du projet ? Qui sera couvert d’or si c’est une réussite ou jeté au crocodile si rien n’est livré ?
 
 Dans les administrations les responsabilités des individus sont souvent diluées, notamment à cause de leur taille. De plus, selon le principe de continuité, l’administration doit continuer de fonctionner quoiqu’il arrive. Tout le monde doit donc être facilement remplaçable.
 

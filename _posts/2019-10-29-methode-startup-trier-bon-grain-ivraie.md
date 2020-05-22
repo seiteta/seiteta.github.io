@@ -9,7 +9,7 @@ tags: [Startup, Innovation, Administration, Culture, Design]
 
 Dans « startup d’État », il y a « startup » (merci Captain Obvious). Cela sème parfois la confusion et nous sommes obligés d’expliquer que ce sont seulement les méthodes des startups que nous utilisons, mais que nos produits sont fait par l’État et pour l’État (ou plutôt pour ses concitoyens).
 
-Est-ce que cela veut dire que nous reprenons exactement le fonctionnement des startups ? Évidemment non. Nous nous efforçons de n’en garder que les meilleurs aspects, et d’en retirer les moins bons.
+Est-ce que cela veut dire que nous reprenons exactement le fonctionnement des startups ? Évidemment non. Nous nous efforçons de n’en garder que les meilleurs aspects, et d’en retirer les moins bons.
 
 Ce que nous avons garder :
 
@@ -27,6 +27,6 @@ Nous ne sommes néanmoins pas naïfs et la culture startup peut avoir des aspect
 
 **c/ Le design centré revenu.** Quand une entreprise doit choisir entre ses clients et sa rentabilité, il est très difficile de choisir les premiers au détriment du second. En même temps, il faut bien continuer à payer les salaires. Mais parfois le problème est encore plus complexe : les clients et les usagers du produit ne sont pas les mêmes. Pour toutes les startups sur le crédo de l’économie de l’attention, le client est celui qui achète l’attention alors que l’usager est celui qui la fournit. Du côté du secteur public, même si les bureaucrates veulent évidemment créer des produits qui leur facilite la vie, plutôt que celle des usagers, il est quand même possible de faire du *design* vraiment [centré sur l’utilisateur](https://f14e.fr/2019/03/29/design-d%C3%A9tat-design-%C3%A9thique/).
 
-Comme dans toutes choses, il y a à prendre et à laisser dans la culture et les méthodes des startups. Et qui sait, peut-être qu’un jour ce sont les startups qui s’inspireront de la culture et des méthodes des startups d’État ?
+Comme dans toutes choses, il y a à prendre et à laisser dans la culture et les méthodes des startups. Et qui sait, peut-être qu’un jour ce sont les startups qui s’inspireront de la culture et des méthodes des startups d’État ?
 
 > Article publié à l'origine sur [Medium](https://medium.com/@seiteta/methode-startup-trier-bon-grain-ivraie-4069d3702488) le 29 octobre 2019.

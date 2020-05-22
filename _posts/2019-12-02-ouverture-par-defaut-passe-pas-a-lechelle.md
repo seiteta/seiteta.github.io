@@ -10,11 +10,11 @@ Récemment, [Google a mis fin](https://www.lemonde.fr/economie/article/2019/11/2
 
 Les questions posées aux TGIF ne pourront désormais porter que sur le travail et les employés devront faire des demandes pour accéder aux documents internes qui ne les concernent pas directement en justifiant qu'ils ont le droit d'en connaître. Comme à l'armée quoi...
 
-Est-ce que cela veut dire que toutes les structures sont amenées à aller vers de moins en moins d'ouverture au fur et à mesure qu'elles grossissent ? Sans doute que oui.
+Est-ce que cela veut dire que toutes les structures sont amenées à aller vers de moins en moins d'ouverture au fur et à mesure qu'elles grossissent ? Sans doute que oui.
 
 Tout le problème vient de l'échelle. Gérer une entreprise de 100 000 personnes (comme Google) n'a rien à voir avec gérer une entreprise de 1 000 personnes. La complexité n'est pas linéaire.
 
-Rien qu'en comptant le nombre de relations possibles entre employés, le problème saute aux yeux : il y a environ 500 000 relations possibles entre 1 000 employés ; entre 10 000 employés, 50 millions de relations. 100 000 employés ? Cela représente 5 milliards de relations possibles !
+Rien qu'en comptant le nombre de relations possibles entre employés, le problème saute aux yeux : il y a environ 500 000 relations possibles entre 1 000 employés ; entre 10 000 employés, 50 millions de relations. 100 000 employés ? Cela représente 5 milliards de relations possibles !
 
 Ce simple constat plaide pour une solution évidente : pour rester fluides et ouvertes, les organisations doivent limiter leur taille.
 

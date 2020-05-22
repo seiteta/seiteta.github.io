@@ -14,7 +14,7 @@ Le problème est que plus personne ne semble capable de les changer, comme si el
 
 Dans les petites structures agiles, les règles sont généralement transmises à l'oral, faute de temps sans doute, par crainte de se transformer en bureaucratie peut-être. Des règles existent mais elles ne sont pas documentées. Tout le monde sait par exemple qu'il faut envoyer les justificatifs de ses notes de frais à Georges, même si cela n'est écrit nul part.
 
-Cependant le passage à l'échelle est compliqué. S'il est facile de partager les informations oralement à dix, les problèmes arrivent une fois que les structures comptent plusieurs centaines de personnes ou doublent de taille chaque mois. Et lorsque les règles ne sont pas écrites, comment les changer ?
+Cependant le passage à l'échelle est compliqué. S'il est facile de partager les informations oralement à dix, les problèmes arrivent une fois que les structures comptent plusieurs centaines de personnes ou doublent de taille chaque mois. Et lorsque les règles ne sont pas écrites, comment les changer ?
 
 Il est pourtant possible de créer un système qui rassemble le meilleur des deux mondes en respectant deux impératifs :
 
