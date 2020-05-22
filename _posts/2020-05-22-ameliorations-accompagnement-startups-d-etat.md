@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trois améliorations l'accompagnement des startups d'État "
+title: "Trois améliorations pour l'accompagnement des startups d'État "
 description: "Cela fonctionne : nous avons lancé plusieurs services numériques avec succès. Mais rien n’est jamais parfait et voici quelques-uns des aspects que nous pourrions améliorer :"
 image: https://images.unsplash.com/photo-1548605290-b5712b5e9e2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 tags: [Incubateur, Innovation, Administration, Skin in the game, Préincubation, Autonomie]
