@@ -16,7 +16,7 @@ Si vous n’en faites pas (encore) partie, vous découvrirez qu’il est possibl
 Accéder au podcast sur <a href="https://open.spotify.com/show/17E4Bxj2VOnE4esRGJ5yAg?si=yl3yH7zpQ3ePml-juvNFpw">Spotify</a>, <a href="https://podcasts.apple.com/fr/podcast/hackers-publics/id1498775170">iTunes</a> ou via votre <a href="{{ site.url }}/hackerspublics.rss">application de podcast préférée</a>.
 
 <div class="posts">
-  {% for episode in site.hackerspublics %}
+  {% for episode in site.hackerspublics reversed %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ episode.url }}">
