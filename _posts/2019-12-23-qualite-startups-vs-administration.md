@@ -20,7 +20,7 @@ Ce n'est pas une question d'argent non plus. Le prix de la mutuelle est équival
 
 Deux choses manquent aux administrations pour arriver à un tel niveau de qualité :
 
-1/ la culture *produit*, qui se concentre sur ce dont ont vraiment besoin les usagers, plutôt que ce [dont a besoin l'administration](https://f14e.fr/2019/12/09/administration-ou-usagers/).
+1/ la culture *produit*, qui se concentre sur ce dont ont vraiment besoin les usagers, plutôt que ce [dont a besoin l'administration]({{ site.baseurl }}/2019/12/09/administration-ou-usagers/).
 
 2/ la culture *design*, qui propose de s'attarder sur tous les détails qui font un produit, afin que nous éprouvions une émotion particulière en l'utilisant.
 

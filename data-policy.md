@@ -6,7 +6,7 @@ title: Données personnelles
 Il existe deux moyens d'être informé de la parution des nouveaux articles :
 
 1. M'envoyer un [courriel](mailto:blog@f14e.fr?subject=Je%20voudrais%20m%27abonner%20%C3%A0%20f14e.fr&body=Merci%20!) pour que je vous ajoute à la liste de diffusion.
-2. S'abonner au [flux RSS](https://f14e.fr/flux.xml).
+2. S'abonner au [flux RSS]({{ site.baseurl }}/flux.xml).
 
 ### Que se passe-t-il lorsque je m'abonne par courriel ?
 
@@ -25,7 +25,7 @@ Vous pouvez vous désabonner (ou changer votre adresse) à n'importe quel moment
 
 ### Pourquoi ne pas utiliser tout simplement un formulaire d'abonnement ?
 
-Parce que les formulaires de Mailjet installent des traqueurs sur le site. Or sur ce blog, il n'y a [aucun traqueur, aucun cookie, que du contenu](https://f14e.fr/2019/11/18/pourquoi-je-n-ecris-plus-sur-medium/) 🍰
+Parce que les formulaires de Mailjet installent des traqueurs sur le site. Or sur ce blog, il n'y a [aucun traqueur, aucun cookie, que du contenu]({{ site.baseurl }}/2019/11/18/pourquoi-je-n-ecris-plus-sur-medium/) 🍰
 
 
 ### Autre chose ?

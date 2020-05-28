@@ -19,7 +19,7 @@ Au sein de [Data for Good](dataforgood.fr/) par exemple, plus de 1400 personnes 
 
 Les startups ont bien compris ce phénomène et sont nombreuses à promettre que leur mission est de « créer un monde meilleur », comme l’a si bien parodié la série [Silicon Valley](https://www.youtube.com/watch?v=B8C5sjjhsso). Or il est parfois difficile de comprendre comment optimiser le nombre de clics sur une publicité améliore le sort de l’espèce humaine.
 
-Au contraire, l’objectif premier de l’État est de faire prévaloir l’intérêt général et les administrations remplissent toutes des missions de service public. Cette finalité change tout quand il s’agit de créer des produits numériques car le [but est vraiment d’apporter le meilleur service possible aux utilisateurs](https://f14e.fr/2019/03/29/design-d%C3%A9tat-design-%C3%A9thique/).
+Au contraire, l’objectif premier de l’État est de faire prévaloir l’intérêt général et les administrations remplissent toutes des missions de service public. Cette finalité change tout quand il s’agit de créer des produits numériques car le [but est vraiment d’apporter le meilleur service possible aux utilisateurs]({{ site.baseurl }}/2019/03/29/design-d%C3%A9tat-design-%C3%A9thique/).
 
 Au sein de la fonction publique, les équipes des ressources humaines ne s’imaginent pas l’avantage déloyal qu’elles possèdent par rapport au secteur privé.
 

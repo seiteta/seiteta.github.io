@@ -23,4 +23,4 @@ Comment faire alors ?
 
 Trouver un sponsor. Une personne qui croit au projet et suffisamment haut placée pour dire : « cette équipe sera autonome et prendra ses décisions seulement en fonction des usagers du service qu'elle développe. ».
 
-Reste alors à l'équipe le plus compliqué : [aller parler à celles et ceux](https://f14e.fr/2019/09/30/sortez-batiment-pour-tester-produit/) qui vont utiliser le produit au quotidien et écouter leurs retours, encore et toujours.
+Reste alors à l'équipe le plus compliqué : [aller parler à celles et ceux]({{ site.baseurl }}/2019/09/30/sortez-batiment-pour-tester-produit/) qui vont utiliser le produit au quotidien et écouter leurs retours, encore et toujours.
