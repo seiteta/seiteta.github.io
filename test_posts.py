@@ -31,11 +31,4 @@ class TestPosts(unittest.TestCase):
                 self.fail(f"L'image de `{file}` semble invalide : {post['image']}")
 
             self.assertEquals(post["layout"], "post")
-
-            twitter = post["twitter"]
-            if twitter is not None and (
-                twitter.startswith("https://") or twitter.startswith("@")
-            ):
-                self.fail(
-                    f"Le Twitter `{file}` semble invalide, il faut indiquer uniquement le nom d'utilisateur : {post['twitter']}"
-                )
+            
