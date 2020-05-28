@@ -6,8 +6,7 @@ class TestPosts(unittest.TestCase):
     REQUIRED_KEYS = [
         "layout",
         "title",
-        "description",
-        "tags"
+        "description"
     ]
 
     def test_posts(self):
@@ -31,4 +30,3 @@ class TestPosts(unittest.TestCase):
                 self.fail(f"L'image de `{file}` semble invalide : {post['image']}")
 
             self.assertEquals(post["layout"], "post")
-            
