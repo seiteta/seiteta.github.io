@@ -4,13 +4,10 @@ import frontmatter
 
 class TestPosts(unittest.TestCase):
     REQUIRED_KEYS = [
-        "author",
-        "description",
-        "image",
         "layout",
         "title",
-        "twitter",
-        "tags",
+        "description",
+        "tags"
     ]
 
     def test_posts(self):
