@@ -21,7 +21,7 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: Prepare repo
-    - uses: actions/checkout@v2
+      uses: actions/checkout@v2
 
     - name: Test
-    - uses: seiteta/jekyll_test_action
+      uses: seiteta/jekyll_test_action
