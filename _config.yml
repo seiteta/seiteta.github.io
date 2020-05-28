@@ -15,13 +15,13 @@ collections:
 
 # Podcast parameters
 podcast_title:    Hackers publics
-podcast_url:      {{ site.baseurl }}/hackerspublics/
+podcast_url:      https://f14e.fr/hackerspublics/
 podcast_description:  Avec Hackers publics, partez à la rencontre celles et ceux qui transforment la culture numérique de l’administration. Prenez une grande bouffée d’inspiration et découvrez l’avant-garde de l’innovation publique. Si vous êtes dans l’administration, vous verrez que vous n’êtes pas seul à essayer de changer les choses. Si vous n’en faites pas (encore) partie, vous découvrirez qu’il est possible d’innover tout en ayant un travail qui a du sens ! Et qui sait, ça vous donnera peut-être envie de nous rejoindre pour nous donner un coup de main ?
 
 #SEO tag
 title:            Frédéric Bardolle
 description:      Innovation publique, éthique & IA
-url:              {{ site.baseurl }}
+url:              https://f14e.fr
 author:
   name:           'Frédéric Bardolle'
   twitter:        seiteta
