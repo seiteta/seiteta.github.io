@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Numérique et wabi-sabi"
 description: "L'histoire du wabi-sabi est liée à la cérémonie du thé japonaise et au zen. Au seizième siècle, des maîtres commencent à utiliser…"
 image: https://miro.medium.com/max/1200/1*JrKmTF9Y1Y2teXiS4cRggw.jpeg

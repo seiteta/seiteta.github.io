@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fluidifier l’administration, à l’âge de l’écran"
 description: "Comment des bonnes pratiques issues du monde du développement pourraient fluidifier l'administration."
 image: https://miro.medium.com/max/1200/1*9ARq5lR-zg-uWr-lAqsY9g.jpeg

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Design d’État : design éthique ?"
 description: "Toutes les entreprises tech affirment créer des produits « centrés sur les utilisateurs ». Toutefois la manière dont sont conçues certaines fonctionnalités pourrait nous en faire douter."
 image: https://miro.medium.com/max/1200/1*1FArUUMvY0Gtm9CM8lNATQ.jpeg

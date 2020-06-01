@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "L’authenticité des politiques sur les réseaux sociaux"
 description: "Quels points communs existe-t-il entre le républicain Donald J. Trump et la démocrate Alexandria Ocasio-Cortez ? Peu au niveau politique. Mais beaucoup quant à leur image publique et leur parole sans filtre."
 image: https://images.unsplash.com/photo-1531875909331-5c13fb705721?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80

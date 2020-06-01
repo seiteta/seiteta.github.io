@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Au secours, un algorithme gère la cantine !"
 description: "La nouvelle est tombée à la rentrée : c'est désormais un algorithme qui choisit les menus de la cantine de vos enfants."
 image: https://images.unsplash.com/photo-1525518392674-39ba1fca2ec2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80

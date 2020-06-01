@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "La méthode « startup » : trier le bon grain de l’ivraie"
 description: "Dans « startup d’État », il y a « startup » (merci Captain Obvious). Cela sème parfois la confusion et nous sommes obligés d’expliquer que ce sont seulement les méthodes des startups que nous utilisons, mais que nos produits sont fait par l’État et pour l’État (ou plutôt pour ses concitoyens)."
 image: https://miro.medium.com/max/1200/1*4Lxhox1uoASsJ90MZWcReA.jpeg

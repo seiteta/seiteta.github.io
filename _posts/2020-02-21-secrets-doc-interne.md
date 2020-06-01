@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Les secrets d'une documentation interne réussie"
 description: "Dans toutes les structures, il existe un ensemble de règles qui déterminent ce que nous pouvons faire ou non, et comment nous devons le faire."
 image: https://images.unsplash.com/photo-1457524461416-8796b6d23efb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80

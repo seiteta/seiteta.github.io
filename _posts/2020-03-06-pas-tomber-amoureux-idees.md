@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ne pas tomber amoureux de ses idées"
 description: "C'est un risque pour toutes celles et ceux qui travaillent avec leur cerveau plus qu'avec leur corps : tomber amoureux de ses idées."
 image: https://images.unsplash.com/photo-1515518679833-bd591c22149e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=60

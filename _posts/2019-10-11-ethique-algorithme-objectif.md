@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Éthique et algorithme : une question d’objectif"
 description: "Qu’est-ce qu’une éthique ? La proposition de se rapprocher d’un objectif de vie, en suivant une certaine voie. Les éthiques antiques par exemple se concentrent souvent sur la recherche du bonheur."
 image: https://miro.medium.com/max/1200/1*YbJfuacegI35184A6UUTwA.jpeg

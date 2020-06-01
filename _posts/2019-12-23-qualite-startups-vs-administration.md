@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Qualité : startups vs administration"
 description: "Je viens de recevoir la carte de tiers payant de ma mutuelle en ligne. L'emballage est parfait, le design de la carte, très sympa."
 image: https://images.unsplash.com/photo-1416949929422-a1d9c8fe84af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Aucun projet ne devrait être immortel"
 description: "En tant qu'innovateur public, vous avez forcément déjà rencontré cette situation : une personne a identifié un irritant au sein de votre"
 image: https://miro.medium.com/max/1200/1*NQOwtP8OKjCjSV6S0yo43g.jpeg

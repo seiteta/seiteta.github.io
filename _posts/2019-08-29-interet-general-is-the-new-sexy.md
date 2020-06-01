@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "« Intérêt général » is the new sexy"
 description: "La fonction publique possède un avantage déloyal pour recruter."
 image: https://miro.medium.com/max/1200/1*YAcpemWgZry086IgqSyUow.jpeg

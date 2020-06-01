@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trouver un problème avant de chercher une solution"
 description: "« On veut faire un projet basé sur de la blockchain. »"
 image: https://miro.medium.com/max/1200/1*_SfNRV4T3tlnfgaP5GYYdA.jpeg

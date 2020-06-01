@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sortez du bâtiment pour tester votre produit"
 description: "Si cette simple question était posée de manière systématique, la majorité des problèmes posés par les produits développés par les administrations seraient résolus."
 image: https://miro.medium.com/max/1200/1*hiA9edFz53WEYTHeV3DYKQ.jpeg

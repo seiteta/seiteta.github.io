@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Se lire et se voir en télétravail"
 description: "À la Fabrique numérique, 80 % des équipes travaillaient déjà à distance avant le confinement donc assez peu de choses ont changé pour nous."
 image: https://images.unsplash.com/photo-1571821440269-9eaa1e75f315?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Who are the maddest?"
 description: "La série Mad Men tourne autour d'une agence de publicité new-yorkaise dans les années 60. Régulièrement ont lieu des scènes assez ressemblantes à ce que nous pouvons vivre de nos jours dans l'informatique, pardon le numérique."
 image: https://images.unsplash.com/photo-1512850183-6d7990f42385?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80

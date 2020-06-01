@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trouver la bonne distance pour un département d'innovation"
 description: "La bonne distance est celle où le département d'innovation est en orbite autour de la grande organisation. Assez loin pour qu'une culture"
 image: https://miro.medium.com/max/1200/1*0YAOgQQ8VYcNX8ny7Q2a7w.jpeg

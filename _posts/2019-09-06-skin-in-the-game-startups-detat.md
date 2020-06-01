@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "“Skin in the game” dans les startups d’État"
 description: "« Si tu réussis, je te couvrirai d'or, sinon, je te jetterai au crocodile. » (Cléopâtre à Numérobis)"
 image: https://miro.medium.com/max/14962/1*cPLRye6qFm9uNXQsWluMew.jpeg

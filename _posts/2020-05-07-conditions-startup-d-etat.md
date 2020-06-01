@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trois conditions pour lancer une startup d'État"
 description: "Après un an et demi à lancer de nouveaux services numériques dans l’administration, nous avons beaucoup appris. À force de voir les mêmes problèmes surgir, nous imposons par exemple désormais trois conditions à chaque nouvelle startup d’État."
 image: https://images.unsplash.com/photo-1512284125381-bdb1f3a77338?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80

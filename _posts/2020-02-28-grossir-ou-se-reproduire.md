@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Grossir ou se reproduire ?"
 description: "Pourquoi est-ce que les êtres humains ne mesurent pas 20 mètres ?"
 image: https://images.unsplash.com/photo-1485468935663-831e33cf812d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80

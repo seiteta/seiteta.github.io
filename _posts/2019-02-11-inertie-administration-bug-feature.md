@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Inertie et administration : it’s not a bug, it’s a feature"
 description: "Imaginez un énorme vaisseau spatial, un des croiseurs interstellaires de Star Wars par exemple. Imaginez ce vaisseau lancé dans le vide sidéral"
 image: https://miro.medium.com/max/1200/1*XCQgtL62KfZlvnGDwKFBmQ.jpeg

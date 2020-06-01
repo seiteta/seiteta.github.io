@@ -4,7 +4,6 @@ import frontmatter
 
 class TestPosts(unittest.TestCase):
     REQUIRED_KEYS = [
-        "layout",
         "title",
         "description"
     ]
@@ -34,7 +33,6 @@ class TestPosts(unittest.TestCase):
 
 class TestPodcastPosts(unittest.TestCase):
     REQUIRED_KEYS = [
-        "layout",
         "title",
         "description",
         "date",

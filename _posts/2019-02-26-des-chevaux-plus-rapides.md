@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Des chevaux plus rapides"
 description: "Lorsque nous développons une solution numérique censée résoudre un problème administratif sans changer les processus, le risque est"
 image: https://miro.medium.com/max/1200/1*JspzG0Iv6mXCZKTPT8kvLw.jpeg

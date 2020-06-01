@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pourquoi je n'écris plus sur Medium"
 description: "Ça fait un peu plus semaine déjà que j'ai quitté Medium pour publier mes articles sur ce blog à la place. J’adore Medium. Cette décision n'a donc pas été simple. "
 image: https://images.unsplash.com/photo-1559081045-33125b5afe1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1641&q=80

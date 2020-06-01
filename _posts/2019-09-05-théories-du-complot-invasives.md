@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Des théories du complot invasives"
 description: "En 1859, un britannique importe des lapins en Australie pour le lol et parce qu'il aimait bien chasser. Sauf que des lapins se sont"
 image: https://miro.medium.com/max/1200/1*nMz4GEX2X52G3-T2gmCqkQ.jpeg

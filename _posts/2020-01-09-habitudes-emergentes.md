@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Des habitudes émergentes"
 description: "Depuis la grève des transports, le nombre de vélos roulants chaque jour à Paris a été multiplié par 3. Aucun cycliste n'a l'habitude de rouler avec autant de comparses. C'est donc un joyeux bordel sur les pistes cyclables car personne ne sait vraiment comment agir dans ce genre de situation."
 image: https://images.unsplash.com/photo-1547238198-846091cf48ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "La fabministration : une administration qui fabrique"
 description: "Dans la fonction publique, la majeure partie du développement informatique est sous-traitée. Soit disant que ça coûte moins cher et que"
 image: https://miro.medium.com/max/1200/1*hh2GXO51kooDHDoFDHViWg.jpeg

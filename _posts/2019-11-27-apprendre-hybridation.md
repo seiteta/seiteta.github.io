@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Apprendre par l'hybridation"
 description: "Lors d'une table ronde au sommet des Govtech, une question très pertinente a été posé : comment les administrations peuvent-elles acquérir des technologies dont elles ne connaissent même pas l'existence ?"
 image: https://images.unsplash.com/photo-1543162033-ff9eed8df958?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60

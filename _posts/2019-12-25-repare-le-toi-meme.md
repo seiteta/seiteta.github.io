@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Répare-le toi-même !"
 description: "Sur les réseaux sociaux, on croise régulièrement des développeurs qui râlent à propos de logiciels open source qui ne marchent pas bien ou auxquels il manque des fonctionnalités."
 image: https://images.unsplash.com/photo-1523568114750-b593de7df18f?auto=format&fit=crop&w=1200&q=80

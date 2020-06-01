@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Quelle est la culture que nous voulons ?"
 description: "Trois piliers : la confiance, l'ouverture et l'empathie par défaut"
 image: https://miro.medium.com/max/1200/1*UvnkO0QBfQkz6EdhVotlzQ.jpeg

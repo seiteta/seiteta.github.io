@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "L'ouverture par défaut ne passe pas à l'échelle"
 description: "Récemment, Google a mis fin à deux politiques internes qui faisaient jusqu'alors figure de ruptures par rapport au management traditionnel."
 image: https://images.unsplash.com/photo-1472257606461-b659f3d080aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80
