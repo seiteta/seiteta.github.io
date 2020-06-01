@@ -28,8 +28,6 @@ class TestPosts(unittest.TestCase):
             if not (image.startswith("/img/") or image.startswith("http")):
                 self.fail(f"L'image de `{file}` semble invalide : {post['image']}")
 
-            self.assertEquals(post["layout"], "post")
-
 
 class TestPodcastPosts(unittest.TestCase):
     REQUIRED_KEYS = [
@@ -61,5 +59,3 @@ class TestPodcastPosts(unittest.TestCase):
             image = post["image"]
             if not (image.startswith("/img/") or image.startswith("http")):
                 self.fail(f"L'image de `{file}` semble invalide : {post['image']}")
-
-            self.assertEquals(post["layout"], "episode")
