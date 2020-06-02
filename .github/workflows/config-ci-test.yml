@@ -29,24 +29,15 @@ jobs:
   lighthouse-test:
     runs-on: ubuntu-latest
     steps:
-    - name: Prepare repo
-      uses: actions/checkout@master
-
-    - name: Install npm
-      run: npm install
-
-    - name: Run Lighthouse
-      uses: foo-software/lighthouse-check-action@master
-      id: lighthouseCheck
-      with:
-        urls: 'https://f14e.fr/,https://f14e.fr/hackerspublics/,https://f14e.fr/data-policy/,https://f14e.fr/2017/10/02/etat-plateforme-fournisseur-de-services-publics-ouverts/,https://f14e.fr/hackerspublics/ep1_mathilde_bras/'
-
-    - name: Check results
-      uses: foo-software/lighthouse-check-status-action@master
-      with:
-        lighthouseCheckResults: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults }}
-        minAccessibilityScore: "100"
-        minBestPracticesScore: "100"
-        minPerformanceScore: "80"
-        minProgressiveWebAppScore: "0"
-        minSeoScore: "90"
+      - name: Prepare repo
+        uses: actions/checkout@v2
+      - name: Run Lighthouse on urls and validate with lighthouserc
+        uses: treosh/lighthouse-ci-action@v3
+        with:
+          urls: |
+          https://f14e.fr/
+          https://f14e.fr/hackerspublics/
+          https://f14e.fr/data-policy/
+          https://f14e.fr/2017/10/02/etat-plateforme-fournisseur-de-services-publics-ouverts/
+          https://f14e.fr/hackerspublics/ep1_mathilde_bras/
+          configPath: 'lighthouserc.json'
