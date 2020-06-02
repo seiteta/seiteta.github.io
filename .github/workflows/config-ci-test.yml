@@ -31,13 +31,11 @@ jobs:
     steps:
       - name: Prepare repo
         uses: actions/checkout@v2
+
+      - name: Build Jekyll site
+        uses: fabacab/jekyll-builder-for-github-pages-action@v1
+
       - name: Run Lighthouse on urls and validate with lighthouserc
         uses: treosh/lighthouse-ci-action@v3
         with:
-          urls: |
-            https://f14e.fr/
-            https://f14e.fr/hackerspublics/
-            https://f14e.fr/data-policy/
-            https://f14e.fr/2017/10/02/etat-plateforme-fournisseur-de-services-publics-ouverts/
-            https://f14e.fr/hackerspublics/ep1_mathilde_bras/
           configPath: 'lighthouserc.json'
