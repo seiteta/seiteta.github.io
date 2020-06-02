@@ -36,10 +36,10 @@ jobs:
           - 4000:4000
     steps:
       - name: Restart nginx
-      uses: docker://docker
-      with:
-        args: docker restart jekyll
-        
+        uses: docker://docker
+        with:
+          args: docker restart jekyll
+
       - name: Prepare repo
         uses: actions/checkout@v2
 
