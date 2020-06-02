@@ -38,5 +38,5 @@ jobs:
       - name: Run Lighthouse on urls and validate with lighthouserc
         uses: treosh/lighthouse-ci-action@v3
         with:
-          url: "http://localhost"
+          urls: "http://localhost"
           configPath: 'lighthouserc.json'
