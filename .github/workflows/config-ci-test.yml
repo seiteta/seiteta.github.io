@@ -27,7 +27,6 @@ jobs:
         run: nosetests .
 
   lighthouse-test:
-    jekyll-container:
       runs-on: ubuntu-latest
       container: jekyll/jekyll:3.8
       services:
