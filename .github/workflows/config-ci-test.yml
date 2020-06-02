@@ -40,7 +40,7 @@ jobs:
         run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
 
       - name: Build Jekyll site
-        run: jekyll build --config _config.yml
+        run: jekyll serve --config _config.yml
 
       - name: Run Lighthouse on urls and validate with lighthouserc
         uses: treosh/lighthouse-ci-action@v3
