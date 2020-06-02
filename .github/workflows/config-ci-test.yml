@@ -36,11 +36,14 @@ jobs:
       - name: Prepare repo
         uses: actions/checkout@v2
 
-      - name: Make build destination directory
+      - name: Make directory
         run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
 
       - name: Build Jekyll site
-        run: jekyll serve --config _config.yml
+        run: jekyll build --config _config.yml
+
+      - name: Print directory
+        run: ls -l /__w/seiteta.github.io/seiteta.github.io/_site
 
       - name: Run Lighthouse on urls and validate with lighthouserc
         uses: treosh/lighthouse-ci-action@v3
