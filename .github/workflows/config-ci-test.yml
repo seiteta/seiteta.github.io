@@ -26,7 +26,17 @@ jobs:
     - name: Test with nose [python-test 3/3]
       run: nosetests .
 
-    - name: Run Lighthouse
+    - name: Run Lighthouse [lighthouse-test 1/2]
       uses: foo-software/lighthouse-check-action@master
       with:
-        urls: 'https://f14e.fr/,https://f14e.fr/data-policy/,https://f14e.fr/2017/10/02/etat-plateforme-fournisseur-de-services-publics-ouverts/,https://f14e.fr/hackerspublics/ep1_mathilde_bras/'
+        urls: 'https://f14e.fr/,https://f14e.fr/hackerspublics/,https://f14e.fr/data-policy/,https://f14e.fr/2017/10/02/etat-plateforme-fournisseur-de-services-publics-ouverts/,https://f14e.fr/hackerspublics/ep1_mathilde_bras/'
+
+    - name: Check results [lighthouse-test 2/2]
+      uses: foo-software/lighthouse-check-status-action@master
+      with:
+        lighthouseCheckResults: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults }}
+        minAccessibilityScore: "100"
+        minBestPracticesScore: "100"
+        minPerformanceScore: "90"
+        minProgressiveWebAppScore: "0"
+        minSeoScore: "90"
