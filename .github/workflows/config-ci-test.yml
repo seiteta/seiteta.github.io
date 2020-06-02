@@ -31,7 +31,7 @@ jobs:
     services:
       jekyll:
         image: jekyll/jekyll:3.8
-        options: -v ${{ github.workspace }}:/srv/jekyll
+        options: -v ${{ github.workspace }}/vendor/bundle:/usr/local/bundle
         ports:
           - 4000:4000
     steps:
