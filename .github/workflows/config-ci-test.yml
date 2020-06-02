@@ -28,7 +28,10 @@ jobs:
 
   lighthouse-test:
     runs-on: ubuntu-latest
-    container: jekyll/builder:3.8
+    container:
+      image: jekyll/builder:3.8
+      volumes:
+        - ${{ GITHUB_WORKSPACE }}:/srv/jekyll
 
     steps:
       - name: Prepare repo
