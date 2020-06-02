@@ -28,12 +28,18 @@ jobs:
 
   lighthouse-test:
     runs-on: ubuntu-latest
+    services:
+      jekyll:
+        image: jekyll/jekyll:3.8
+        options: -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/vendor/bundle:/usr/local/bundle
+        port:
+          -4000:4000
     steps:
       - name: Prepare repo
         uses: actions/checkout@v2
 
       - name: Build Jekyll site
-        uses: seiteta/jekyll_test_action@master
+        run: jekyll serve --config _config.yml,_config-dev.yml
 
       - name: Run Lighthouse on urls and validate with lighthouserc
         uses: treosh/lighthouse-ci-action@v3
