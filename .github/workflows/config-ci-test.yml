@@ -30,18 +30,13 @@ jobs:
     runs-on: ubuntu-latest
     services:
       jekyll:
-        image: jekyll/jekyll:3.8
+        image: jekyll
         options: >-
           -v ${{ github.workspace }}:/srv/jekyll
           --name jekyll
         ports:
           - 4000:4000
     steps:
-      - name: Restart Jekyll
-        uses: docker://docker
-        with:
-          args: docker restart jekyll
-
       - name: Prepare repo
         uses: actions/checkout@v2
 
