@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: jekyll/builder:3.8
-      option: -v /__w/seiteta.github.io/seiteta.github.io:/srv/jekyll/:rw
+      options: -v /__w/seiteta.github.io/seiteta.github.io:/srv/jekyll/:rw
 
     steps:
       - name: Prepare repo
