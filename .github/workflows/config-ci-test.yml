@@ -32,6 +32,8 @@ jobs:
     services:
       jekyll:
         image: jekyll/jekyll:3.8
+        options: -v ${{ github.workspace }}:/srv/jekyll
+
     steps:
       - name: Prepare repo
         uses: actions/checkout@v2
