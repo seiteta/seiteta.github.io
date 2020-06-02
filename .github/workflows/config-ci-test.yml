@@ -31,10 +31,15 @@ jobs:
     services:
       jekyll:
         image: jekyll/jekyll:3.8
-        options: -v ${{ github.workspace }}/vendor/bundle:/usr/local/bundle
+        options: -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/vendor/bundle:/usr/local/bundle
         ports:
           - 4000:4000
     steps:
+      - name: Restart nginx
+      uses: docker://docker
+      with:
+        args: docker restart jekyll
+        
       - name: Prepare repo
         uses: actions/checkout@v2
 
