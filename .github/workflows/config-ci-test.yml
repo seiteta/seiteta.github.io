@@ -30,8 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: jekyll/builder:3.8
-      volumes:
-        - ${{ github.workspace }}:/srv/jekyll
+
 
     steps:
       - name: Prepare repo
