@@ -27,20 +27,19 @@ jobs:
         run: nosetests .
 
   lighthouse-test:
-    runs-on: ubuntu-latest
-    services:
-      jekyll:
-        image: jekyll/jekyll:3.8
+    jekyll-container:
+      runs-on: ubuntu-latest
+      container: jekyll/jekyll:3.8
 
-    steps:
-      - name: Prepare repo
-        uses: actions/checkout@v2
+        steps:
+          - name: Prepare repo
+            uses: actions/checkout@v2
 
-      - name: Build Jekyll site
-        run: jekyll serve --config _config.yml,_config-dev.yml
+          - name: Build Jekyll site
+            run: jekyll serve --config _config.yml,_config-dev.yml
 
-      - name: Run Lighthouse on urls and validate with lighthouserc
-        uses: treosh/lighthouse-ci-action@v3
-        with:
-          urls: "http://localhost:4000"
-          configPath: 'lighthouserc.json'
+          - name: Run Lighthouse on urls and validate with lighthouserc
+            uses: treosh/lighthouse-ci-action@v3
+            with:
+              urls: "http://localhost:4000"
+              configPath: 'lighthouserc.json'
