@@ -34,7 +34,7 @@ jobs:
         options: >-
           -v ${{ github.workspace }}:/srv/jekyll
           -v ${{ github.workspace }}/vendor/bundle:/usr/local/bundle
-          -- name jekyll
+          --name jekyll
         ports:
           - 4000:4000
     steps:
