@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     services:
       jekyll:
-        image: jekyll
+        image: jekyll/jekyll
         options: >-
           -v ${{ github.workspace }}:/srv/jekyll
           --name jekyll
