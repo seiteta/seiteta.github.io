@@ -30,12 +30,8 @@ jobs:
     runs-on: ubuntu-latest
     services:
       jekyll:
-        image: jekyll/jekyll
-        options: >-
-          -v ${{ github.workspace }}:/srv/jekyll
-          --name jekyll
-        ports:
-          - 4000:4000
+        image: jekyll/jekyll:3.8
+
     steps:
       - name: Prepare repo
         uses: actions/checkout@v2
