@@ -30,7 +30,9 @@ jobs:
     jekyll-container:
       runs-on: ubuntu-latest
       container: jekyll/jekyll:3.8
-
+      services:
+        jekyll:
+          image: jekyll/jekyll:3.8
       steps:
         - name: Prepare repo
           uses: actions/checkout@v2
