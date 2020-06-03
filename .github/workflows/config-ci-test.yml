@@ -45,5 +45,7 @@ jobs:
 
       - name: Run Lighthouse
         uses: foo-software/lighthouse-check-action@master
+        env:
+          CHROME_PATH: $(which google-chrome-stable) 
         with:
           urls: 'https://example.com/'
