@@ -31,8 +31,8 @@ jobs:
     # container:
     #   image: jekyll/builder:3.8
     steps:
-      # - name: Prepare repo
-      #   uses: actions/checkout@v2
+      - name: Prepare repo
+        uses: actions/checkout@v2
       #
       # - name: Make directory
       #   run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
