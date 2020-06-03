@@ -1,8 +1,9 @@
 module.exports = {
   ci: {
     collect: {
-      staticDistDir: '/__w/seiteta.github.io/seiteta.github.io/_site',
-      // chromePath: '/'
+      url: 'https://f14e.fr'
+      // staticDistDir: '/__w/seiteta.github.io/seiteta.github.io/_site',
+      //  chromePath: '/'
     }
   }
 }
