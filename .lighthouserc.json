@@ -1,0 +1,9 @@
+{
+  "ci": {
+    "collect": {
+      "url": {
+        "https://example.com/"
+      }
+    }
+  }
+}
