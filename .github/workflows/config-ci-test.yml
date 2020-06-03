@@ -34,14 +34,14 @@ jobs:
       - name: Prepare repo
         uses: actions/checkout@v2
 
-      # - name: Make directory
-      #   run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
-      #
-      # - name: Build Jekyll site
-      #   run: jekyll build --config _config.yml
-      #
-      # - name: Check directory content
-      #   run: ls -l -a
+      - name: Make directory
+        run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
+
+      - name: Build Jekyll site
+        run: jekyll build --config _config.yml
+
+      - name: Check directory content
+        run: ls -l -a
 
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v3
