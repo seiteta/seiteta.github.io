@@ -28,34 +28,22 @@ jobs:
 
   lighthouse-test:
     runs-on: ubuntu-latest
-    # container:
-    #   image: jekyll/builder:3.8
+    container:
+      image: jekyll/builder:3.8
     steps:
       - name: Prepare repo
         uses: actions/checkout@v2
-      #
-      # - name: Make directory
-      #   run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
-      #
-      # - name: Build Jekyll site
-      #   run: jekyll build --config _config.yml
-      #
-      # - name: Check directory content
-      #   run: ls -l -a
-      #
-      # - name: Print environment variables
-      #   run: printenv
 
-      - name: Audit URLs using Lighthouse
-        uses: treosh/lighthouse-ci-action@v3
+      - name: Make directory
+        run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
+
+      - name: Build Jekyll site
+        run: jekyll build --config _config.yml
+
+      - name: Check directory content
+        run: ls -l -a
+
+      - name: Run Lighthouse
+        uses: foo-software/lighthouse-check-action@master
         with:
-          configPath: '.lighthouserc.json'
-
-      - name: Find where is the mysterious CHROME_PATH
-        run: printenv
-
-      - name: Find where is the mysterious CHROME_PATH part 2
-        run: export CHROME_PATH=$(which google-chrome-stable)
-
-      - name: Find where is the mysterious CHROME_PATH part 3
-        run: printenv
+          urls: 'https://example.com/'
