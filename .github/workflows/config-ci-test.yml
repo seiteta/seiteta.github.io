@@ -30,7 +30,6 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: jekyll/builder:3.8
-      options: -v /__w/seiteta.github.io/seiteta.github.io:/srv/jekyll/:rw
     steps:
       - name: Prepare repo
         uses: actions/checkout@v2
@@ -40,6 +39,9 @@ jobs:
 
       - name: Build Jekyll site
         run: jekyll build --config _config.yml
+
+      - name: Check directory content
+        run: ls -l -a
 
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v3
