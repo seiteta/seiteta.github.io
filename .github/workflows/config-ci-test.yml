@@ -40,8 +40,8 @@ jobs:
       # - name: Build Jekyll site
       #   run: jekyll build --config _config.yml
       #
-      - name: Check directory content
-        run: ls -l -a
+      # - name: Check directory content
+      #   run: ls -l -a
 
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v3
