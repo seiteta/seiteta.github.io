@@ -27,39 +27,23 @@ jobs:
         run: nosetests .
 
   lighthouse-test:
-    name: Lighthouse
     runs-on: ubuntu-latest
+    container:
+      image: jekyll/builder:3.8
+      options: -v /__w/seiteta.github.io/seiteta.github.io:/srv/jekyll/:rw
     steps:
-      - uses: actions/checkout@v2
+      - name: Prepare repo
+        uses: actions/checkout@v2
+
+      - name: Make directory
+        run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
+
       - name: Use Node.js 10.x
         uses: actions/setup-node@v1
         with:
           node-version: 10.x
-      - name: npm install, build
-        run: |
-          npm install
-          npm run build
+
       - name: run Lighthouse CI
         run: |
           npm install -g @lhci/cli@0.4.x
           lhci autorun
-    # runs-on: ubuntu-latest
-    # container:
-    #   image: jekyll/builder:3.8
-    #   options: -v /__w/seiteta.github.io/seiteta.github.io:/srv/jekyll/:rw
-    #
-    # steps:
-    #   - name: Prepare repo
-    #     uses: actions/checkout@v2
-    #
-    #   # - name: Make directory
-    #   #   run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
-    #   #
-    #   # - name: Build Jekyll site
-    #   #   run: jekyll build --config _config.yml
-    #   #
-    #   # - name: Print directory
-    #   #   run: ls -l /__w/seiteta.github.io/seiteta.github.io/_site
-    #
-    #   - name:
-    #     uses: treosh/lighthouse-ci-action@v3
