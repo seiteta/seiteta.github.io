@@ -43,3 +43,5 @@ jobs:
 
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v3
+        with:
+          configPath: './lighthouserc.js'
