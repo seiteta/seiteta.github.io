@@ -54,5 +54,5 @@ jobs:
       - name: Find where is the mysterious CHROME_PATH
         run: printenv
 
-      - name: Find where is the mysterious CHROME_PATH
+      - name: Find where is the mysterious CHROME_PATH part 2
         run: export CHROME_PATH=$(which google-chrome-stable)
