@@ -38,5 +38,8 @@ jobs:
       - name: Make directory
         run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
 
+      - name: Build Jekyll site
+        run: jekyll build --config _config.yml
+
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v3
