@@ -28,7 +28,7 @@ layout: null
       <pubDate>{{ episode.date | date_to_xmlschema }}</pubDate>
       <itunes:order>1</itunes:order>
       <itunes:duration>{{ episode.duration }}</itunes:duration>
-      <enclosure url="{{ site.url }}/public/mp3/{{ episode.file }}" type="audio/mpeg" />
+      <enclosure url="https://hackerspublics.s3.fr-par.scw.cloud/{{ episode.file }}" type="audio/mpeg" />
       <guid>{{ episode.guid }}</guid>
     </item>
     {% endfor %}
