@@ -4,7 +4,7 @@ date: 2020-06-04
 file: hackers_publics_3_paul_duan.mp3
 duration: "1:05:17"
 guid: "EDEDFF6D-8EEA-415B-B40F-AB0A5433636C"
-spotify_url:
+spotify_url: https://open.spotify.com/episode/5YXDLYk4A64a1xOTCyta9B?si=aKg3ZPZiSHSFC4GYNDTUZg
 itunes_url:
 description: "Paul Duan est le fondateur de Bayes Impact, une association qui construit des services publics citoyens. Il nous raconte son parcours, à l’intersection de la science des données et de l’intérêt général, et comment il essaie d’avoir de l’impact au quotidien. Paul nous explique également comment la technologie et le design peuvent permettre de construire des produits qui aident les gens à prendre en main leur destin et à gagner en autonomie. Bonne écoute !"
 ---
