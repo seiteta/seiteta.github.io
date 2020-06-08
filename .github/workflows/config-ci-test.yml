@@ -40,6 +40,9 @@ jobs:
       - name: Build Jekyll site
         run: jekyll build --config _config.yml
 
+      - name: Check directory
+        run: pwd
+
       - name: Upload built website
         uses: actions/upload-artifact@v1
         with:
