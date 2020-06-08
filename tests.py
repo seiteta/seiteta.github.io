@@ -32,15 +32,13 @@ class TestPosts(unittest.TestCase):
 class TestPodcastPosts(unittest.TestCase):
     PODCAST_REQUIRED_KEYS = [
         "title",
-        "description",
         "date",
         "file",
         "duration",
         "guid",
         "spotify_url",
         "itunes_url",
-        "description",
-        "image"
+        "description"
     ]
 
     def test_podcast_posts(self):
