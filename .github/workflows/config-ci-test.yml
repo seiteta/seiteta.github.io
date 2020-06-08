@@ -43,14 +43,16 @@ jobs:
       - name: Check directory
         run: pwd
 
+      - name: Check directory content
+        run: ls -l -a
+
       - name: Upload built website
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
           name: website
-          path: /__w/seiteta.github.io/seiteta.github.io
+          path: ~
 
-      # - name: Check directory content
-      #   run: ls -l -a
+
       #
       # - name: Run Lighthouse
       #   uses: foo-software/lighthouse-check-action@master
