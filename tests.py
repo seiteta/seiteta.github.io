@@ -3,7 +3,7 @@ import unittest
 import frontmatter
 
 class TestPosts(unittest.TestCase):
-    REQUIRED_KEYS = [
+    POST_REQUIRED_KEYS = [
         "title",
         "description"
     ]
@@ -18,7 +18,7 @@ class TestPosts(unittest.TestCase):
             with open(file) as f:
                 post = frontmatter.load(f)
 
-            for key in self.REQUIRED_KEYS:
+            for key in self.POST_REQUIRED_KEYS:
                 if key not in post:
                     self.fail(
                         f"La clé `{key}` est absente de `{file}` et est obligatoire"
@@ -30,7 +30,7 @@ class TestPosts(unittest.TestCase):
 
 
 class TestPodcastPosts(unittest.TestCase):
-    REQUIRED_KEYS = [
+    PODCAST_REQUIRED_KEYS = [
         "title",
         "description",
         "date",
@@ -50,7 +50,7 @@ class TestPodcastPosts(unittest.TestCase):
             with open(file) as f:
                 post = frontmatter.load(f)
 
-            for key in self.REQUIRED_KEYS:
+            for key in self.PODCAST_REQUIRED_KEYS:
                 if key not in post:
                     self.fail(
                         f"La clé `{key}` est absente de `{file}` et est obligatoire"
