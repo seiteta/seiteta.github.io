@@ -47,7 +47,7 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: website
-          path: /
+          path: ~/www/
 
       # - name: Check directory content
       #   run: ls -l -a
