@@ -53,7 +53,3 @@ class TestPodcastPosts(unittest.TestCase):
                     self.fail(
                         f"La clé `{key}` est absente de `{file}` et est obligatoire"
                     )
-
-            image = post["image"]
-            if not (image.startswith("/img/") or image.startswith("http")):
-                self.fail(f"L'image de `{file}` semble invalide : {post['image']}")
