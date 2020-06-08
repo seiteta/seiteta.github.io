@@ -44,7 +44,7 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: website
-          path: /__w/seiteta.github.io/seiteta.github.io/_site
+          path: ~/www/seiteta.github.io
 
       # - name: Check directory content
       #   run: ls -l -a
