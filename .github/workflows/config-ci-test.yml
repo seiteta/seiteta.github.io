@@ -57,12 +57,6 @@ jobs:
     - name: Keep only Lighthouse config file
       run: find . \! -name '.lighthouserc.js' -delete
 
-    - name: LS
-      run: ls -R -a
-
-    - name: PWD
-      run: pwd
-
     - name: Download built site
       uses: actions/download-artifact@v2
 
@@ -70,10 +64,11 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 10.x
+
     - name: run Lighthouse CI
       run: |
         npm install -g @lhci/cli@0.4.x
-        lhci autorun --config ~/.lighthouserc.js
+        lhci autorun --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
 
     - name: LS
       run: ls -R /home/runner/work
