@@ -1,7 +1,7 @@
 module.exports = {
   ci: {
     collect: {
-      staticDistDir: ['/']
+      staticDistDir: ['/home/runner/work/seiteta.github.io/seiteta.github.io/index.html']
     }
   }
 }
