@@ -52,11 +52,18 @@ jobs:
           name: site
           path: /__w/seiteta.github.io/seiteta.github.io/_site
 
-      #
+
+  lighthouse-test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - uses: actions/download-artifact@v2
+
+    - name: Display structure of downloaded files
+      run: ls -R
       #
       # - name: Run Lighthouse
       #   uses: foo-software/lighthouse-check-action@master
-      #   env:
-      #     CHROME_PATH: /usr/bin/google-chrome
       #   with:
       #     urls: 'https://example.com/'
