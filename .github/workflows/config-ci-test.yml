@@ -59,6 +59,11 @@ jobs:
 
     - name: Download built site
       uses: actions/download-artifact@v2
+      with:
+        path: /home/runner/work/seiteta.github.io/seiteta.github.io
+
+    - name: LS
+      run: ls -R -l /home/runner/work/seiteta.github.io/seiteta.github.io
 
     - name: Use Node.js 10.x
       uses: actions/setup-node@v1
@@ -73,9 +78,6 @@ jobs:
         npm install -g @lhci/cli@0.4.x
         lhci collect --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
         lhci upload --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
-
-    - name: LS
-      run: ls -R -l /home/runner/work/lhci_results
 
     - name: Upload LHCI results
       uses: actions/upload-artifact@v2
