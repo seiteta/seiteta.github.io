@@ -16,7 +16,7 @@ La bonne distance est celle où le département d’innovation est en orbite aut
 
 La recette idéale pour qu’un département d’innovation soit situé à la bonne distance ? Des processus adaptés, des équipes mixtes et un lieu dédié.
 
-### 1/ Des processus adaptés
+## 1/ Des processus adaptés
 
 Pendant des décennies, l’organisation mère a certainement établi des règlements pour faire ce que font de mieux les grandes organisations de l’ère industrielle : optimiser leur productivité. Ces règlements qui définissent précisément comment chaque chose doit être faite risquent d’étouffer les projets d’innovation. C’est leur rôle.
 
@@ -26,7 +26,7 @@ Pour nos [startups d’État](https://beta.gouv.fr/incubateurs/fabnumdef.html), 
 
 Ces deux méthodes ne sont d’ailleurs pas incompatibles car une fois les projets suffisamment matures, nous repassons sur ce mode plus classique.
 
-### 2/ Des équipes mixtes
+## 2/ Des équipes mixtes
 
 Concernant les ressources humaines, il est fondamental d’avoir une partie de l’équipe qui ne viennent pas de la maison mère afin d’avoir une vision fraîche et naïve, car même avec une dérogation, certaines règles restent ancrées dans notre tête. Ces personnes venant de l’extérieur sont aussi une garantie d’être à l’état de l’art, par rapport à ce qui se fait dans l’univers des startups ou des entreprises technologiques.
 
@@ -36,7 +36,7 @@ Les startups d’État sont basées sur ce concept : les équipes sont composée
 
 Nous évitons par contre les consultants car nous voulons que tout le monde fasse partie de la même équipe et se sente impliqué. Et cela n’est possible qu’avec des intrapreneurs ou des indépendants qui ont leur réputation en jeu #skininthegame.
 
-### 3/ Un lieu dédié
+## 3/ Un lieu dédié
 
 Même si nous travaillons sur des projets numériques, en tant qu’humain nous avons besoin d’un espace physique pour vivre et travailler. Ici encore, pour qu’un département d’innovation fonctionne, il ne doit être ni trop loin, ni trop près. *In medio stat virtus*, la vertu est au milieu, comme disent les Anciens.
 

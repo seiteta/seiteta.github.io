@@ -5,7 +5,7 @@ title: Interventions
 
 Je partage régulièrement mon expérience sur l'innovation publique, l'utilisation de la science des données pour le bien commun et l'éthique des algorithmes :
 
-### Conférences
+## Conférences
 
 * « _Open data and public code: a field report from the French administration._ » – Conférence « _Data Driven Nation_ » (_Latvian Open Technology Association_, 01/2020)
 * « De l'attention à l'apprentissage automatique » – Conférence « IA, algorithme et éthique » (Commissariat général au développement durable, 04/2019)
@@ -15,7 +15,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 * « _Stories of data science for social good_ » – Forum Mondial Convergences (Hôtel de Ville de Paris, 09/2016)
 
 
-### Interviews
+## Interviews
 
 * « [Rétablir l'équilibre](https://medium.com/opencollectiveparis/rétablir-léquilibre-a278dcda6795) » – OpenCollective (04/2019)
 * « [À la base, les algorithmes sont plutôt neutres](https://www.soonsoonsoon.com/le-monde-de-demain-selon-Frederic-Bardolle) » – Soon Soon Soon (03/2019)
@@ -23,13 +23,13 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 * « [On cherche à éveiller la conscience éthique des développeurs et data scientists](https://tgf.usbeketrica.com/article/on-cherche-a-eveiller-la-conscience-ethique-des-developpeurs-et-data-scientists) » – Usbek et Rica (06/2018)
 
 
-### Radio
+## Radio
 
 * « [L'emprise des algorithmes et des CGU sur notre vie numérique](http://www.rfi.fr/fr/emission/20190531-emprise-algorithmes-cgu-notre-vie-numerique) » – émission « L'Atelier des médias » (RFI, 05/2019)
 * « [Éthique numérique, des datas sous serment](https://www.franceculture.fr/emissions/la-methode-scientifique/ethique-numerique-des-datas-sous-serment) » – émission « La Méthode scientifique » (France Culture, 10/2018)
 
 
-### Tables rondes
+## Tables rondes
 
 * « IA et sexisme » – table ronde (2ème journée nationale contre le sexisme, 01/2019)
 * « Monde associatif et innovations technologiques : petits changements ou grande révolution ? » – table ronde (10 ans de Solidatech, 11/2018)
@@ -41,7 +41,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 * « Devons-nous vraiment ubériser l’État ? » – cycle de conférence « GovTech » (Liberté Living Lab, 05/2017)
 
 
-### Cours
+## Cours
 
 * « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
 * « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
@@ -49,7 +49,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 * « _Toward algorithmic transparency and accountability_ » – séminaire « _Technology, Government and Society_ » (Sciences Po Saint-Germain-en-Laye, 02/2018)
 
 
-### Autres interventions
+## Autres interventions
 * « [La méthode “start-up d’État”, le remède miracle ?](https://www.acteurspublics.fr/webtv/emissions/numerique-public/la-methode-start-up-detat-le-remede-miracle) » – émission « Numérique public » (Acteurs publics, 10/2019)
 * « [Quelles nouvelles méthodes pour doper l’innovation ?](https://www.acteurspublics.fr/webtv/emissions/aws-summit/debat-quelles-nouvelles-methodes-pour-doper-linnovation) » – émission « AWS summit » (Acteurs publics, 04/2019)
 * « Santé, éducation, justice, emploi : faut-il faire confiance aux algorithmes ? » – Tribunal pour les Générations Futures (Forum du CNRS, 06/2018)

@@ -9,19 +9,19 @@ Alors que 9,3 milliards d’euros du [Grand plan d’investissement](http://www.
 
 Les infrastructures publiques sont en effet censées bénéficier à l’ensemble de la société : les villes font par exemple construire des bibliothèques accessibles à tous. Certes, les plans des bâtiments ne sont pas rendus publics mais l’intérêt serait limité car les infrastructures physiques sont très spécifiques. En revanche, partager les « plans » qui permettent de construire les logiciels (ce qu’on appelle les codes sources) présente de nombreux avantages.
 
-### Tirer parti de la multitude
+## Tirer parti de la multitude
 
 Les logiciels propriétaires sont des boîtes noires dont il est illégal de chercher les failles, comme un contrat inaccessible dont seuls les effets seraient visibles. À l’inverse, les logiciels libres font le pari de la transparence car leur code source est exposé publiquement. Lorsque des développeurs identifient un problème, ils modifient le code source puis le partagent afin que tout le monde bénéficie de la correction. Les plus aguerris peuvent également ajouter les fonctionnalités dont ils ont besoin et les partager.
 
 Les outils numériques publics pourraient ainsi être développés une seule fois et adaptés selon les spécificités, au lieu d’être achetés encore et encore pour des besoins similaires. Un logiciel de paie créé par une administration pourrait être réutilisé par une autre, qui a son tour l’améliorerait et en ferait profiter la multitude. On imagine le gain d’efficacité si cette politique était déployée sur l’ensemble du territoire.
 
-### L’ouverture a commencé
+## L’ouverture a commencé
 
 La France est déjà avancée sur ces sujets. La mission [Etalab](https://www.etalab.gouv.fr/qui-sommes-nous), chargée de coordonner la politique open data, a déjà ouvert le code source derrière la plateforme de partage de données [data.gouv.fr](http://www.data.gouv.fr/fr/). Résultat : le Luxembourg l’a reprise pour diffuser ses données publiques et la Cour des comptes est en train de l’adapter pour partager ses données en interne. Si l’État est loin de publier tous ses logiciels en licence libre, des initiatives encourageantes apparaissent comme le ministère de l’Éducation Supérieur qui [étudie les conditions d’ouverture](https://www.etalab.gouv.fr/openapb-remise-et-publication-du-rapport-detalab-sur-les-conditions-douverture-dadmission-post-bac) du système Admission Post-Bac (APB).
 
 Outre-Manche, l’association mySociety à développé [FixMyStreet](https://www.fixmystreet.com/), un service qui propose aux habitants de déclarer leurs problèmes locaux — trottoirs abîmés, éclairage public défaillant, etc. — afin que leur ville intervienne. Ce logiciel libre est utilisé aujourd’hui dans plus d’une dizaine de pays, mais nécessite à chaque fois des ressources humaines et matérielles pour installer et administrer la plateforme. Ces contraintes freinent les collectivités qui ne disposent pas des moyens nécessaires. Pour que ce genre d’initiative soit diffusé à plus grande échelle, il faut réfléchir à de nouvelles stratégies de déploiement.
 
-### Vers un État plateforme
+## Vers un État plateforme
 
 Une solution est de proposer des « [logiciels en tant que service](https://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service) », aussi appelés *SaaS* pour *Software as as Service*. Des services comme Google Mail ou Hotmail sont des *SaaS* : inutile d’être expert pour les configurer, il suffit de s’inscrire en ligne pour bénéficier d’une messagerie complètement paramétrée. [Les logiciels créés par l’État pourrait suivre la même logique](https://medium.com/l-%C3%A2ge-de-la-multitude/num%C3%A9rique-et-administration-l-effondrement-des-cath%C3%A9drales-670ee583ddd) : une administration ayant besoin d’un logiciel de paie ouvrirait un compte sur paie.gouv.fr pour accéder à un service configurable maintenu par le gouvernement. L’infrastructure ne serait gérée que par un seul opérateur, et si par exemple une loi changeait les taux de prélèvements, un seul changement mettrait tout le système à jour.
 
