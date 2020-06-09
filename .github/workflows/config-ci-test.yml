@@ -7,62 +7,66 @@ on:
     branches: [ master ]
 
 jobs:
-  python-test:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Prepare repo
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.6'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Test with nose
-        run: nosetests .
-
-  jekyll-build-test:
-    runs-on: ubuntu-latest
-    container:
-      image: jekyll/builder:3.8
-    steps:
-      - name: Prepare repo
-        uses: actions/checkout@v2
-
-      - name: Make directory
-        run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
-
-      - name: Build Jekyll site
-        run: jekyll build --config _config.yml
-
-      - name: Upload built site
-        uses: actions/upload-artifact@v2
-        with:
-          name: site
-          path: /__w/seiteta.github.io/seiteta.github.io/_site
+  # python-test:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Prepare repo
+  #       uses: actions/checkout@v2
+  #
+  #     - name: Set up Python
+  #       uses: actions/setup-python@v2
+  #       with:
+  #         python-version: '3.6'
+  #
+  #     - name: Install dependencies
+  #       run: |
+  #         python -m pip install --upgrade pip
+  #         pip install -r requirements.txt
+  #
+  #     - name: Test with nose
+  #       run: nosetests .
+  #
+  # jekyll-build-test:
+  #   runs-on: ubuntu-latest
+  #   container:
+  #     image: jekyll/builder:3.8
+  #   steps:
+  #     - name: Prepare repo
+  #       uses: actions/checkout@v2
+  #
+  #     - name: Make directory
+  #       run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
+  #
+  #     - name: Build Jekyll site
+  #       run: jekyll build --config _config.yml
+  #
+  #     - name: Upload built site
+  #       uses: actions/upload-artifact@v2
+  #       with:
+  #         name: site
+  #         path: /__w/seiteta.github.io/seiteta.github.io/_site
 
 
   lighthouse-test:
-    needs: jekyll-build-test
+    # needs: jekyll-build-test
     runs-on: ubuntu-latest
     steps:
-
-    - uses: actions/download-artifact@v2
-      with:
-        name: site
+    - uses: actions/checkout@v2
 
     - name: Display structure of downloaded files
       run: ls -R
 
-    - name: Check directory
-      run: pwd
-
-    - name: Audit URLs using Lighthouse
-      uses: treosh/lighthouse-ci-action@v3
-      with:
-        configPath: '.lighthouserc.js'
+    # - uses: actions/download-artifact@v2
+    #   with:
+    #     name: site
+    #
+    # - name: Display structure of downloaded files
+    #   run: ls -R
+    #
+    # - name: Check directory
+    #   run: pwd
+    #
+    # - name: Audit URLs using Lighthouse
+    #   uses: treosh/lighthouse-ci-action@v3
+    #   with:
+    #     configPath: '.lighthouserc.js'
