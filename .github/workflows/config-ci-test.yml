@@ -38,7 +38,7 @@ jobs:
         run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
 
       - name: Build Jekyll site
-        run: jekyll build --config _config.yml
+        run: jekyll build --config _config.yml --destination workspace/_site
 
       - name: Check directory
         run: pwd
@@ -46,11 +46,11 @@ jobs:
       - name: Check directory content
         run: ls -l -a
 
-      - name: Upload built website
+      - name: Upload built site
         uses: actions/upload-artifact@v2
         with:
-          name: website
-          path: ~
+          name: site
+          path: workspace/_site
 
 
       #
