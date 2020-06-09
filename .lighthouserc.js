@@ -17,6 +17,7 @@ module.exports = {
       },
     },
     upload: {
+      target: 'filesystem',
       outputDir: '/home/runner/work/lhci_results'
     },
   },
