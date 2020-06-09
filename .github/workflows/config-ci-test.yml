@@ -58,7 +58,10 @@ jobs:
       run: find . \! -name '.lighthouserc.js' -delete
 
     - name: LS
-      run: ls -R
+      run: ls -R -a
+
+    - name: PWD
+      run: pwd
 
     - name: Download built site
       uses: actions/download-artifact@v2
@@ -70,7 +73,7 @@ jobs:
     - name: run Lighthouse CI
       run: |
         npm install -g @lhci/cli@0.4.x
-        lhci autorun --config
+        lhci autorun --config ~/.lighthouserc.js
 
     - name: LS
       run: ls -R /home/runner/work
