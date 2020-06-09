@@ -7,26 +7,26 @@ on:
     branches: [ master ]
 
 jobs:
-  # python-test:
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - name: Prepare repo
-  #       uses: actions/checkout@v2
-  #
-  #     - name: Set up Python
-  #       uses: actions/setup-python@v2
-  #       with:
-  #         python-version: '3.6'
-  #
-  #     - name: Install dependencies
-  #       run: |
-  #         python -m pip install --upgrade pip
-  #         pip install -r requirements.txt
-  #
-  #     - name: Test with nose
-  #       run: nosetests .
+  python-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Prepare repo
+        uses: actions/checkout@v2
 
-  jekyll-build-test:
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.6'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Test with nose
+        run: nosetests .
+
+  jekyll-build:
     runs-on: ubuntu-latest
     container:
       image: jekyll/builder:3.8
@@ -38,7 +38,7 @@ jobs:
         run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
 
       - name: Build Jekyll site
-        run: jekyll build --config _config.yml
+        run: jekyll build --config _config.yml,_config-dev.yml
 
       - name: Upload built site
         uses: actions/upload-artifact@v2
@@ -48,19 +48,19 @@ jobs:
 
 
   lighthouse-test:
-    needs: jekyll-build-test
+    needs: jekyll-build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - name: Prepare repo
+      uses: actions/checkout@v2
 
-    - name: Delete useless file
+    - name: Keep only Lighthouse config file
       run: find . \! -name '.lighthouserc.js' -delete
 
-    - uses: actions/download-artifact@v2
-      with:
-        name: site
+    - name: Download built site
+      uses: actions/download-artifact@v2
 
-    - name: Audit URLs using Lighthouse
+    - name: Audit HTML pages using Lighthouse
       uses: treosh/lighthouse-ci-action@v3
       with:
         configPath: '.lighthouserc.js'
