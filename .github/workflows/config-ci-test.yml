@@ -54,7 +54,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Delete useless file
-      run: rm -r !(.lighthouserc.js)
+      run: find . \! -name '.lighthouserc.js' -delete
 
     - name: Display structure of downloaded files
       run: ls -R -a
