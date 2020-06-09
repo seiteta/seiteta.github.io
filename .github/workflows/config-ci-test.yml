@@ -76,7 +76,7 @@ jobs:
     - name: run Lighthouse CI
       run: |
         npm install -g @lhci/cli@0.4.x
-        lhci collect --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js --emulated-form-factor "desktop"
+        lhci collect --emulated-form-factor "desktop" --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
         lhci upload --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
 
     - name: Upload LHCI results
