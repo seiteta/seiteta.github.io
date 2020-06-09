@@ -35,33 +35,33 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Make directory
-        run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
+        run: mkdir -vp /github/_site
+
+      - name: Build Jekyll site
+        run: jekyll build --config _config.yml --destination /github/_site
+
+      # - name: Check directory
+      #   run: pwd
       #
-      # - name: Build Jekyll site
-      #   run: jekyll build --config _config.yml --destination /workspace/_site
-
-      - name: Check directory
-        run: pwd
-
-      - name: Check directory content
-        run: ls -l -a
-
-      - name: Check directory content
-        run: ls -l -a ~
-
-      - name: Check directory content
-        run: ls -l -a /github
-
-      - name: Check directory content
-        run: ls -l -a ${{ github.workspace }}
-
+      # - name: Check directory content
+      #   run: ls -l -a
       #
-      # - name: Upload built site
-      #   uses: actions/upload-artifact@v2
-      #   with:
-      #     name: site
-      #     path: workspace/_site
+      # - name: Check directory content
+      #   run: ls -l -a ~
       #
+      # - name: Check directory content
+      #   run: ls -l -a /github
+      #
+      # - name: Check directory content
+      #   run: ls -l -a ${{ github.workspace }}
+
+
+      - name: Upload built site
+        uses: actions/upload-artifact@v2
+        with:
+          name: site
+          path: /github/_site
+
       #
       #
       # - name: Run Lighthouse
