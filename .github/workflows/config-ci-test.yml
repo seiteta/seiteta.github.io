@@ -25,30 +25,30 @@ jobs:
   #
   #     - name: Test with nose
   #       run: nosetests .
-  #
-  # jekyll-build-test:
-  #   runs-on: ubuntu-latest
-  #   container:
-  #     image: jekyll/builder:3.8
-  #   steps:
-  #     - name: Prepare repo
-  #       uses: actions/checkout@v2
-  #
-  #     - name: Make directory
-  #       run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
-  #
-  #     - name: Build Jekyll site
-  #       run: jekyll build --config _config.yml
-  #
-  #     - name: Upload built site
-  #       uses: actions/upload-artifact@v2
-  #       with:
-  #         name: site
-  #         path: /__w/seiteta.github.io/seiteta.github.io/_site
+
+  jekyll-build-test:
+    runs-on: ubuntu-latest
+    container:
+      image: jekyll/builder:3.8
+    steps:
+      - name: Prepare repo
+        uses: actions/checkout@v2
+
+      - name: Make directory
+        run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
+
+      - name: Build Jekyll site
+        run: jekyll build --config _config.yml
+
+      - name: Upload built site
+        uses: actions/upload-artifact@v2
+        with:
+          name: site
+          path: /__w/seiteta.github.io/seiteta.github.io/_site
 
 
   lighthouse-test:
-    # needs: jekyll-build-test
+    needs: jekyll-build-test
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -56,20 +56,11 @@ jobs:
     - name: Delete useless file
       run: find . \! -name '.lighthouserc.js' -delete
 
-    - name: Display structure of downloaded files
-      run: ls -R -a
+    - uses: actions/download-artifact@v2
+      with:
+        name: site
 
-    # - uses: actions/download-artifact@v2
-    #   with:
-    #     name: site
-    #
-    # - name: Display structure of downloaded files
-    #   run: ls -R
-    #
-    # - name: Check directory
-    #   run: pwd
-    #
-    # - name: Audit URLs using Lighthouse
-    #   uses: treosh/lighthouse-ci-action@v3
-    #   with:
-    #     configPath: '.lighthouserc.js'
+    - name: Audit URLs using Lighthouse
+      uses: treosh/lighthouse-ci-action@v3
+      with:
+        configPath: '.lighthouserc.js'
