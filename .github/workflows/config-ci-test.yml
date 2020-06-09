@@ -40,12 +40,6 @@ jobs:
       - name: Build Jekyll site
         run: jekyll build --config _config.yml
 
-      - name: Check directory
-        run: pwd
-
-      - name: Check directory content
-        run: ls -l -a /__w/seiteta.github.io/seiteta.github.io/_site
-
       - name: Upload built site
         uses: actions/upload-artifact@v2
         with:
@@ -62,6 +56,12 @@ jobs:
 
     - name: Display structure of downloaded files
       run: ls -R
+
+    - name: Check directory
+      run: pwd
+
+    - name: Audit URLs using Lighthouse
+      uses: treosh/lighthouse-ci-action@v3
       #
       # - name: Run Lighthouse
       #   uses: foo-software/lighthouse-check-action@master
