@@ -65,10 +65,19 @@ jobs:
       with:
         node-version: 10.x
 
+    - name: Create a folder for LHCI lhci_results
+      run: mkdir -vp /home/runner/work/lhci_results
+
     - name: run Lighthouse CI
       run: |
         npm install -g @lhci/cli@0.4.x
         lhci autorun --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
 
     - name: LS
-      run: ls -R /home/runner/work
+      run: ls -R -l /home/runner/work/lhci_results
+
+    - name: Upload LHCI results
+      uses: actions/upload-artifact@v2
+      with:
+        name: lhci_results
+        path: /home/runner/work/lhci_results

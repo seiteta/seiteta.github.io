@@ -16,7 +16,7 @@ module.exports = {
       },
     },
     upload: {
-      outputDir: '/home/runner/work'
+      outputDir: '/home/runner/work/lhci_results'
     },
   },
 };
