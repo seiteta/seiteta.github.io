@@ -15,5 +15,8 @@ module.exports = {
         "categories:seo": ["error", {"minScore": 0.8}],
       },
     },
+    upload: {
+      outputDir: '/home/runner/work'
+    },
   },
 };
