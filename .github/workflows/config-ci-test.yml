@@ -60,7 +60,16 @@ jobs:
     - name: Download built site
       uses: actions/download-artifact@v2
 
-    - name: Audit HTML pages using Lighthouse
-      uses: treosh/lighthouse-ci-action@v3
+
+    - name: Use Node.js 10.x
+      uses: actions/setup-node@v1
       with:
-        configPath: '.lighthouserc.js'
+        node-version: 10.x
+    - name: npm install, build
+      run: |
+        npm install
+        npm run build
+    - name: run Lighthouse CI
+      run: |
+        npm install -g @lhci/cli@0.4.x
+        lhci autorun
