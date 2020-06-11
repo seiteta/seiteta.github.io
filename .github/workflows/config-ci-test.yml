@@ -40,6 +40,11 @@ jobs:
       - name: Build Jekyll site
         run: jekyll build --config _config.yml,_config-lhci.yml
 
+      - name: Check HTML
+              uses: chabad360/htmlproofer@master
+              with:
+                directory: "/__w/seiteta.github.io/seiteta.github.io/_site"
+
       - name: Upload built site
         uses: actions/upload-artifact@v2
         with:
