@@ -72,7 +72,7 @@ jobs:
   #
   #
   lighthouse-test:
-    needs: jekyll-build
+    # needs: jekyll-build
     runs-on: ubuntu-latest
     steps:
     - name: Prepare repo
