@@ -18,6 +18,13 @@ jobs:
         with:
           python-version: '3.6'
 
+      - uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -26,83 +33,75 @@ jobs:
       - name: Test with nose
         run: nosetests .
 
-  jekyll-build:
-    runs-on: ubuntu-latest
-    container:
-      image: jekyll/jekyll:3.8
-    steps:
-      - name: Prepare repo
-        uses: actions/checkout@v2
-
-      - name: Load cached Ruby gems
-        uses: actions/cache@v1
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-
-      - name: Make directory
-        run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
-
-      - name: Build Jekyll site
-        run: jekyll build --config _config.yml,_config-lhci.yml
-
-      - name: Upload built site
-        uses: actions/upload-artifact@v2
-        with:
-          name: site
-          path: /__w/seiteta.github.io/seiteta.github.io/_site
-
-
-  htmlproofer-test:
-    needs: jekyll-build
-    runs-on: ubuntu-latest
-    steps:
-
-    - name: Download built site
-      uses: actions/download-artifact@v2
-      with:
-        path: /home/runner/work/seiteta.github.io/seiteta.github.io
-
-    - name: Check HTML
-      uses: chabad360/htmlproofer@master
-      with:
-        directory: "/home/runner/work/seiteta.github.io/seiteta.github.io"
-        arguments: --external_only
-
-
-  lighthouse-test:
-    needs: jekyll-build
-    runs-on: ubuntu-latest
-    steps:
-    - name: Prepare repo
-      uses: actions/checkout@v2
-
-    - name: Keep only Lighthouse config file
-      run: find . \! -name '.lighthouserc.js' -delete
-
-    - name: Download built site
-      uses: actions/download-artifact@v2
-      with:
-        path: /home/runner/work/seiteta.github.io/seiteta.github.io
-
-    - name: Use Node.js 10.x
-      uses: actions/setup-node@v1
-      with:
-        node-version: 10.x
-
-    - name: Create a folder for LHCI lhci_results
-      run: mkdir -vp /home/runner/work/lhci_results
-
-    - name: run Lighthouse CI
-      run: |
-        npm install -g @lhci/cli@0.4.x
-        lhci collect --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
-        lhci upload --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
-
-    - name: Upload LHCI results
-      uses: actions/upload-artifact@v2
-      with:
-        name: lhci_results
-        path: /home/runner/work/lhci_results
+  # jekyll-build:
+  #   runs-on: ubuntu-latest
+  #   container:
+  #     image: jekyll/jekyll:3.8
+  #   steps:
+  #     - name: Prepare repo
+  #       uses: actions/checkout@v2
+  #
+  #     - name: Make directory
+  #       run: mkdir -vp /__w/seiteta.github.io/seiteta.github.io/_site
+  #
+  #     - name: Build Jekyll site
+  #       run: jekyll build --config _config.yml,_config-lhci.yml
+  #
+  #     - name: Upload built site
+  #       uses: actions/upload-artifact@v2
+  #       with:
+  #         name: site
+  #         path: /__w/seiteta.github.io/seiteta.github.io/_site
+  #
+  #
+  # htmlproofer-test:
+  #   needs: jekyll-build
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #
+  #   - name: Download built site
+  #     uses: actions/download-artifact@v2
+  #     with:
+  #       path: /home/runner/work/seiteta.github.io/seiteta.github.io
+  #
+  #   - name: Check HTML
+  #     uses: chabad360/htmlproofer@master
+  #     with:
+  #       directory: "/home/runner/work/seiteta.github.io/seiteta.github.io"
+  #       arguments: --external_only
+  #
+  #
+  # lighthouse-test:
+  #   needs: jekyll-build
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #   - name: Prepare repo
+  #     uses: actions/checkout@v2
+  #
+  #   - name: Keep only Lighthouse config file
+  #     run: find . \! -name '.lighthouserc.js' -delete
+  #
+  #   - name: Download built site
+  #     uses: actions/download-artifact@v2
+  #     with:
+  #       path: /home/runner/work/seiteta.github.io/seiteta.github.io
+  #
+  #   - name: Use Node.js 10.x
+  #     uses: actions/setup-node@v1
+  #     with:
+  #       node-version: 10.x
+  #
+  #   - name: Create a folder for LHCI lhci_results
+  #     run: mkdir -vp /home/runner/work/lhci_results
+  #
+  #   - name: run Lighthouse CI
+  #     run: |
+  #       npm install -g @lhci/cli@0.4.x
+  #       lhci collect --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
+  #       lhci upload --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
+  #
+  #   - name: Upload LHCI results
+  #     uses: actions/upload-artifact@v2
+  #     with:
+  #       name: lhci_results
+  #       path: /home/runner/work/lhci_results
