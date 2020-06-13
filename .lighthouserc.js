@@ -2,6 +2,7 @@ module.exports = {
   ci: {
     collect: {
       staticDistDir: '/home/runner/work/seiteta.github.io/seiteta.github.io',
+      url: ['http://localhost/site/index.html'],
       numberOfRuns: 1
     },
     assert: {
