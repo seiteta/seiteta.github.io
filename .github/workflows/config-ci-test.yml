@@ -100,6 +100,7 @@ jobs:
         npm install -g @lhci/cli@0.4.x
         lhci collect --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
         lhci upload --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
+        lhci assert --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
 
     - name: Upload LHCI results
       uses: actions/upload-artifact@v2
