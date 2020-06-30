@@ -7,6 +7,7 @@
     position: absolute;
   }
   .b-nav a {
+    color: black;
     color: rgba(0, 0, 0, 0.84);
     list-style-type: none;
     padding-right: 1rem;
@@ -43,6 +44,7 @@
   }
 
   .b-bun {
+    background: black;
     background: rgba(0, 0, 0, 0.84);
     position: relative;
     transition: all 0.4s ease;
@@ -75,6 +77,7 @@
     background: white;
   }
   .b-container.open .b-bun--top {
+    background: black;
     background: rgba(0, 0, 0, 0.84);
     top: 9px;
     -webkit-transform: rotate(45deg);
@@ -84,12 +87,14 @@
     opacity: 0;
   }
   .b-container.open .b-bun--bottom {
+    background: black;
     background: rgba(0, 0, 0, 0.84);
     top: 5px;
     -webkit-transform: rotate(-45deg);
             transform: rotate(-45deg);
   }
   .b-container.open {
+    color: black;
     color: rgba(0, 0, 0, 0.84);
   }
 }
