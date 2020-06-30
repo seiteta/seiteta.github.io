@@ -58,6 +58,7 @@ html {
 }
 
 body {
+  color: black;
   color: rgba(0, 0, 0, 0.84);
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -66,12 +67,14 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
+  color: black;
   color: rgba(0, 0, 0, 0.84);
 }
 @media (prefers-color-scheme: dark) {
   a {
     color: #93a1a1;
   }
+}
 h1 a {
   text-decoration: none;
 }
@@ -79,6 +82,7 @@ h1 a {
   h1 a {
     color: #93a1a1;
   }
+}
 
 a strong {
   color: inherit;
@@ -101,6 +105,7 @@ h1, h2, h3, h4, h5, h6 {
   h1, h2, h3, h4, h5, h6 {
     color: #93a1a1;
   }
+}
 h1 {
   font-size: 2rem;
 }
@@ -126,6 +131,7 @@ strong {
   strong {
     color: #93a1a1;
   }
+}
 
 /* Lists */
 ul, ol, dl {
@@ -375,12 +381,14 @@ tbody tr:nth-child(odd) th {
   .post-title a {
     color: #93a1a1;
   }
+}
 
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  margin-top: 1.1em;
   margin-bottom: 1rem;
+  color: black;
   color: rgba(0, 0, 0, 0.84);
   border-top:1px;
   border-top-style: solid;
@@ -389,7 +397,6 @@ tbody tr:nth-child(odd) th {
   font-family: 'Source Sans Pro',sans-serif;
   font-size: .7em;
   font-weight: 600;
-  margin-top: 1.1em;
 }
 @media (prefers-color-scheme: dark) {
   .post-date {
@@ -425,7 +432,8 @@ tbody tr:nth-child(odd) th {
   }
 }
 .related-posts li a:hover {
-  color: #rgba(0, 0, 0, 0.84);
+  color: black;
+  color: rgba(0, 0, 0, 0.84);
 }
 .related-posts li a:hover small {
   color: inherit;
@@ -498,7 +506,8 @@ a.pagination-item:hover {
   .twitter{
     fill: #93a1a1;
   }
-}@media (prefers-color-scheme: dark) {
+}
+@media (prefers-color-scheme: dark) {
   .linkedin{
     fill: #93a1a1;
   }
@@ -516,7 +525,6 @@ a.pagination-item:hover {
 
 .share-buttons  >div {
   position: relative;
-  text-align: left;
   height: 36px;
   width: 32px;
   float: left;
