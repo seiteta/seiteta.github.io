@@ -97,4 +97,13 @@
   .b-nav a {
     color: #93a1a1;
   }
+  .b-bun {
+    background: #93a1a1;
+  }
+  .b-container.open .b-bun--top {
+    background: #93a1a1;
+  }
+  .b-container.open .b-bun--bottom {
+    background: #93a1a1;
+  }
 }
