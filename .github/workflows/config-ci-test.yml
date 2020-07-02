@@ -107,5 +107,5 @@ jobs:
         name: lhci_results
         path: /home/runner/work/lhci_results
 
-    - name: Run Lighthouse CI
+    - name: Assert Lighthouse CI
       run: lhci assert --config /home/runner/work/seiteta.github.io/seiteta.github.io/.lighthouserc.js
