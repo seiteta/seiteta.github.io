@@ -1,5 +1,5 @@
 ---
-title: "Résumé du livre « Accelerate » (1/x)"
+title: "Résumé du livre « Accelerate » (1/n)"
 description: "Dans cette première partie, vous apprendrez comment mesurer la performance de production de logiciel et quelle est la culture des équipes les plus performantes. Bonne lecture !"
 image: https://images.unsplash.com/photo-1476725994324-6f6833ea0631?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 tags: [Résumé, DevOps, Performance, Cutlure, Développement, Logiciel]
