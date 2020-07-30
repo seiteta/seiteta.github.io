@@ -42,9 +42,10 @@ Comment faire alors pour améliorer la performance en livraison logicielle ? Cer
 ## Chapitre 3 - mesurer et changer la culture
 
 Le sociologue Ron Westrum a développé une typologie pour classer les [cultures organisationnelles](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) :
-Pathologique (axé sur le pouvoir) : l'organisation est basée sur la peur et les menaces. Les individus font de la rétention d'informations.
-Bureaucratique (axé sur les règles) : l'organisation protège les départements. Ces départements défendent leur pré carré et agissent selon leur propres règles.
-Générative (axé sur la performance) : l'organisation de concentre sur sa mission. Tout est subordonné à la performance et sur la raison d'être.
+
+* Pathologique (axé sur le pouvoir) : l'organisation est basée sur la peur et les menaces. Les individus font de la rétention d'informations.
+* Bureaucratique (axé sur les règles) : l'organisation protège les départements. Ces départements défendent leur pré carré et agissent selon leur propres règles.
+* Générative (axé sur la performance) : l'organisation de concentre sur sa mission. Tout est subordonné à la performance et sur la raison d'être.
 
 Afin d’estimer où se positionnaient les différentes organisations dans ce continuum culturel, les auteurs ont posés des questions pour savoir notamment si les responsabilités étaient partagés, si le travail inter-équipe était encouragé et si les échecs entraînaient une enquête pour améliorer les processus plutôt que pour désigner un coupable.
 
