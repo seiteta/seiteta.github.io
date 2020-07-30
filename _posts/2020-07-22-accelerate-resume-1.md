@@ -25,10 +25,11 @@ La question qui se pose alors est : sur quelles capacités se concentrer ? À tr
 Avant toute chose, il faut définir ce qu’est la performance pour une équipe qui produit des logiciels. Les méthodes classiques de mesure de cette performance ont deux problèmes : elles se concentrent sur la production (**output**) plutôt que sur le résultat (**outcome**), et sur des mesures individuelles plutôt qu’en équipe. Pour éviter ces écueils, il faut donc chercher des indicateurs qui se concentrent sur le résultat, et mesurés de manière collective.
 
 Les auteurs ont sélectionnés quatre indicateurs qui possèdent ces caractéristiques :
-Le délai de livraison (**delivery lead time**) : le temps qu’il faut pour passer du code archivé (**committed**) au code mis en production avec succès ;
-La fréquence de déploiement : la fréquence à laquelle le code est déployé en production ou dans un magasin d’applications ;
-Le délai de restauration moyen : le temps moyen nécessaire pour restaurer le service suite à un incident ;
-Le taux d’échec de changement : le pourcentage de changement de code qui entraîne une dégradation du service ou exige une réparation comme un retour en arrière (**rollback**).
+
+* Le délai de livraison (**delivery lead time**) : le temps qu’il faut pour passer du code archivé (**committed**) au code mis en production avec succès ;
+* La fréquence de déploiement : la fréquence à laquelle le code est déployé en production ou dans un magasin d’applications ;
+* Le délai de restauration moyen : le temps moyen nécessaire pour restaurer le service suite à un incident ;
+* Le taux d’échec de changement : le pourcentage de changement de code qui entraîne une dégradation du service ou exige une réparation comme un retour en arrière (**rollback**).
 
 Pour récolter leurs données, les auteurs ont organisé un sondage annuel de 2014 à 2017 pour savoir comment les organisations se situaient par rapport à ces quatre indicateurs. Ils ont ensuite réalisé une analyse par partitionnement (**cluster analysis**) pour séparer les organisations en trois groupes en fonction de leur performance : bonne, moyenne et mauvaise.
 
