@@ -7,7 +7,7 @@ tags: [Résumé, DevOps, Performance, Cutlure, Développement, Logiciel]
 
 > Parce que certaines idées méritent d’être diffusées, je teste un nouveau format d’article : le résumé de livre.
 >
-> Pour ce premier résumé, j’ai choisi **[Accelerate: Building and Scaling High-Performing Technology Organizations](https://itrevolution.com/book/accelerate/)** que l’on m’a plusieurs fois conseillé. L’idée principale de ce livre est que les organisations ont intérêt à accélérer la livraison de leurs produits numériques car cela améliore leur performance à tous les niveaux. Cette accélération est accompagnée d’une amélioration de la qualité, rendue possible par des changements organisationnels et méthodologiques, regroupés sous le terme DevOps.
+> Pour ce premier résumé, j’ai choisi _[Accelerate: Building and Scaling High-Performing Technology Organizations](https://itrevolution.com/book/accelerate/)_ que l’on m’a plusieurs fois conseillé. L’idée principale de ce livre est que les organisations ont intérêt à accélérer la livraison de leurs produits numériques car cela améliore leur performance à tous les niveaux. Cette accélération est accompagnée d’une amélioration de la qualité, rendue possible par des changements organisationnels et méthodologiques, regroupés sous le terme DevOps.
 >
 > Dans cette première partie, vous apprendrez comment mesurer la performance de production de logiciel et quelle est la culture des équipes les plus performantes. Bonne lecture !
 
@@ -22,16 +22,16 @@ La question qui se pose alors est : sur quelles capacités se concentrer ? À tr
 
 ## Chapitre 2 - mesurer la performance
 
-Avant toute chose, il faut définir ce qu’est la performance pour une équipe qui produit des logiciels. Les méthodes classiques de mesure de cette performance ont deux problèmes : elles se concentrent sur la production (**output**) plutôt que sur le résultat (**outcome**), et sur des mesures individuelles plutôt qu’en équipe. Pour éviter ces écueils, il faut donc chercher des indicateurs qui se concentrent sur le résultat, et mesurés de manière collective.
+Avant toute chose, il faut définir ce qu’est la performance pour une équipe qui produit des logiciels. Les méthodes classiques de mesure de cette performance ont deux problèmes : elles se concentrent sur la production (_output_) plutôt que sur le résultat (_outcome_), et sur des mesures individuelles plutôt qu’en équipe. Pour éviter ces écueils, il faut donc chercher des indicateurs qui se concentrent sur le résultat, et mesurés de manière collective.
 
 Les auteurs ont sélectionnés quatre indicateurs qui possèdent ces caractéristiques :
 
-* Le délai de livraison (**delivery lead time**) : le temps qu’il faut pour passer du code archivé (**committed**) au code mis en production avec succès ;
+* Le délai de livraison (_delivery lead time_) : le temps qu’il faut pour passer du code archivé (_committed_) au code mis en production avec succès ;
 * La fréquence de déploiement : la fréquence à laquelle le code est déployé en production ou dans un magasin d’applications ;
 * Le délai de restauration moyen : le temps moyen nécessaire pour restaurer le service suite à un incident ;
-* Le taux d’échec de changement : le pourcentage de changement de code qui entraîne une dégradation du service ou exige une réparation comme un retour en arrière (**rollback**).
+* Le taux d’échec de changement : le pourcentage de changement de code qui entraîne une dégradation du service ou exige une réparation comme un retour en arrière (_rollback_).
 
-Pour récolter leurs données, les auteurs ont organisé un sondage annuel de 2014 à 2017 pour savoir comment les organisations se situaient par rapport à ces quatre indicateurs. Ils ont ensuite réalisé une analyse par partitionnement (**cluster analysis**) pour séparer les organisations en trois groupes en fonction de leur performance : bonne, moyenne et mauvaise.
+Pour récolter leurs données, les auteurs ont organisé un sondage annuel de 2014 à 2017 pour savoir comment les organisations se situaient par rapport à ces quatre indicateurs. Ils ont ensuite réalisé une analyse par partitionnement (_cluster analysis_) pour séparer les organisations en trois groupes en fonction de leur performance : bonne, moyenne et mauvaise.
 
 Un point intéressant : les organisations qui sont performantes sont bonnes sur les quatre indicateurs. Il n'y a donc pas de dilemme entre qualité et rapidité ; plus on va vite, plus on fait du bon code. À noter que l’écart de performance entre les organisations se creuse d’année en année.
 
