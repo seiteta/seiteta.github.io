@@ -43,6 +43,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 ## Cours
 
+* « Données, éthique et algorithmes » – Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020)
 * « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
 * « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
 * « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
@@ -50,6 +51,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 
 ## Autres interventions
+
 * « [La méthode “start-up d’État”, le remède miracle ?](https://www.acteurspublics.fr/webtv/emissions/numerique-public/la-methode-start-up-detat-le-remede-miracle) » – émission « Numérique public » (Acteurs publics, 10/2019)
 * « [Quelles nouvelles méthodes pour doper l’innovation ?](https://www.acteurspublics.fr/webtv/emissions/aws-summit/debat-quelles-nouvelles-methodes-pour-doper-linnovation) » – émission « AWS summit » (Acteurs publics, 04/2019)
 * « Santé, éducation, justice, emploi : faut-il faire confiance aux algorithmes ? » – Tribunal pour les Générations Futures (Forum du CNRS, 06/2018)
