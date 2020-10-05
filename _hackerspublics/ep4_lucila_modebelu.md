@@ -17,4 +17,4 @@ Liens évoqués dans l'épisode :
 
 * [Fonction Publique du 21e siècle](http://fp21.fr/)
 * [Revenu Québec](https://www.revenuquebec.ca/)
-* 📘 [Sorcières – La puissance invaincue des femmes, de Mona Chollet](https://editionsladecouverte.fr/catalogue/index-Sorci__res-9782355221224.html)
+* 📘 [Sorcières – La puissance invaincue des femmes, de Mona Chollet](https://fr.wikipedia.org/wiki/Mona_Chollet#Sorci%C3%A8res,_la_puissance_invaincue_des_femmes)
