@@ -13,7 +13,7 @@ title: Accueil
     </h1>
     {{ post.content }}
     <span class="post-date">{% include date-fr.html date=post.date %}</span>
-    <span class="post-tags">Catégories : {{ page.tags | sort | join: ", " }}</span>
+    <span class="post-tags">Catégories : {{ post.tags | sort | join: ", " }}</span>
     {% include share-buttons.html %}
   </div>
   {% endfor %}
