@@ -6,11 +6,12 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   {{ content }}
   <span class="post-date">{% include date-fr.html date=page.date %}</span>
+  <span class="post-date">Catégories {{ post.tags | sort | join: ", " }}</span>
   {% include share-buttons.html %}
 </div>
 
 <div class="related">
-  <h2>Autres articles</h2>
+  <h2>Autres articles :</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
