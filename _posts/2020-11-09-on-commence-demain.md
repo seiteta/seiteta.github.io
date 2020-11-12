@@ -1,8 +1,8 @@
 ---
 title: "On commence demain"
-description: ""
+description: "Aujourd'hui, nous avons rendu deux personnes heureuses dans l'administration avec cette simple réponse : « on commence demain ! »."
 image: https://images.unsplash.com/photo-1596994591981-0f6ce0adef26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
-tags: []
+tags: [Innovation, Administration, Incubateur, DevOps]
 ---
 
 Aujourd'hui, nous avons rendu deux personnes heureuses dans l'administration avec cette simple réponse : « on commence demain ! ».
@@ -13,6 +13,6 @@ Ce soir, des agents d'un autre ministère nous appellent. Ils veulent réutilise
 
 Passer par un incubateur ministériel n'est pas la panacée. Pour des petits projets, pour des logiciels dont les spécifications sont déjà écrites, quand il n'y pas d'incertitude, mieux vaut trouver un autre partenaire.
 
-Mais s'il faut faire vite et bien ([car la rapidité et la qualité vont de paire](https://f14e.fr/2020/07/22/accelerate-resume-1/) dans le monde logiciel), nous sommes là. Grâce au devops, à nos équipes interdisciplinaires, à notre indépendance (qui nous confère une plus grande responsabilité), nous sommes capables d'être au rendez-vous plus vite que quiconque.
+Mais s'il faut faire vite et bien ([car la rapidité et la qualité vont de paire](https://f14e.fr/2020/07/22/accelerate-resume-1/) dans le monde logiciel), nous sommes là. Grâce au devops, à nos équipes interdisciplinaires, à notre indépendance (qui nous confère une grande responsabilité), nous sommes capables d'être au rendez-vous plus vite que quiconque.
 
 On commence demain ?
