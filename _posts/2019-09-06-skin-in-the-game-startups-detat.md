@@ -3,6 +3,7 @@ title: "“Skin in the game” dans les startups d’État"
 description: "« Si tu réussis, je te couvrirai d'or, sinon, je te jetterai au crocodile. » (Cléopâtre à Numérobis)"
 image: https://miro.medium.com/max/14962/1*cPLRye6qFm9uNXQsWluMew.jpeg
 canonical_url: https://medium.com/fabnum/skin-in-the-game-dans-les-startups-d%C3%A9tat-40afa6446eaf
+tags: [Skin in the Game, Administration, Responsabilité, Autonomie]
 ---
 
 > « Si tu réussis, je te couvrirai d’or, sinon, je te jetterai au crocodile. » (Cléopâtre à Numérobis)

@@ -3,6 +3,7 @@ title: "La fabministration : une administration qui fabrique"
 description: "Dans la fonction publique, la majeure partie du développement informatique est sous-traitée. Soit disant que ça coûte moins cher et que"
 image: https://miro.medium.com/max/1200/1*hh2GXO51kooDHDoFDHViWg.jpeg
 canonical_url: https://medium.com/@seiteta/la-fabministration-quand-ladministration-fabrique-c2e4dba1b9b0
+tags: [Développement, Administration, Open source, Recrutement]
 ---
 
 Dans la fonction publique, la majeure partie du développement informatique est sous-traitée. Il paraît que cela coûterait moins cher et que les données seraient mieux protégées. Je doute qu’[Hertz](https://mobile.twitter.com/faris/status/1121008118475972608) ou la [gendarmerie nationale](https://mobile.twitter.com/CesarLizurey/status/1168610854847184896) soient de cet avis. Un autre argument qui revient souvent est que ce n’est pas notre cœur de métier de développer des logiciels. Quel est notre cœur de métier alors ? Passer des marchés et écrire des contrats ? La fonction publique serait-elle un cabinet d’avocat ? (_no offence_ aux amis juristes, vous nous sauvez souvent la mise)

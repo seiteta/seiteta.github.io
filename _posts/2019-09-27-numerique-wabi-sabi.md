@@ -3,6 +3,7 @@ title: "Numérique et wabi-sabi"
 description: "L'histoire du wabi-sabi est liée à la cérémonie du thé japonaise et au zen. Au seizième siècle, des maîtres commencent à utiliser…"
 image: https://miro.medium.com/max/1200/1*JrKmTF9Y1Y2teXiS4cRggw.jpeg
 canonical_url: https://medium.com/@seiteta/numerique-wabi-sabi-5b9b67a8fc5c
+tags: [Wabi-sabi, Esthétique, Numérique, UX design]
 ---
 
 Publié en 1994, l’essai « [Wabi-Sabi: for Artists, Designers, Poets & Philosophers](http://www.leonardkoren.com/lkwa.html) » de Leonard Koren a contribué à populariser le terme de *wabi-sabi* (侘寂) en Occident. Il s’agit d’un concept esthétique japonais renvoyant à la simplicité, à la terre, à l’imperfection, aux marques laissées par le temps qui passe…

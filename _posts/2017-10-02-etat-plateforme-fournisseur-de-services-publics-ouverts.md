@@ -3,6 +3,7 @@ title: "L’État plateforme : un fournisseur de services publics ouverts ?"
 description: "Alors que 9,3 milliards d’euros du Grand plan d’investissement (GPI) du gouvernement sont consacrés à la numérisation de l’administration, l’association Free Software Foundation Europe démarre une campagne intitulée « Public Money, Public Code »."
 image: https://miro.medium.com/max/1200/1*RPTj5PqxPveyMIorkZUf8g.png
 canonical_url: https://medium.com/@seiteta/l%C3%A9tat-plateforme-un-fournisseur-de-services-publics-ouverts-7d9a5f87c4ba
+tags: [Licence libre, SaaS, État plateforme, Open data, Service public]
 ---
 
 Alors que 9,3 milliards d’euros du [Grand plan d’investissement](http://www.gouvernement.fr/grand-plan-d-investissement-57-milliards-d-euros-d-investissement-public-sur-le-quinquennat) (GPI) du gouvernement sont consacrés à la numérisation de l’administration, l’association [Free Software Foundation Europe](https://fsfe.org/) démarre une campagne intitulée « *[Public Money, Public Code](https://publiccode.eu/fr/)* ». Son objectif ? Que les logiciels financés par le contribuable soient publiés sous licence libre. Grâce à ces licences libres, les logiciels peuvent être personnalisés et réutilisés, contrairement aux licences propriétaires habituellement choisies par les administrations qui interdisent toute modification.

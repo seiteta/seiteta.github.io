@@ -2,6 +2,7 @@
 title: "Le poids de la transformation"
 description: "Vous commencez à peser un ananas sur une balance à plateau. L’ananas est sur un des plateaux, en bas à cause de la gravité. Vous ajoutez au fur et à mesure des poids sur l’autre plateau."
 image: https://images.unsplash.com/photo-1573157225530-283b4e06f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1639&q=80
+tags: [Transformation, Numérique, Culture, Inspiration]
 ---
 
 Vous commencez à peser un ananas sur une balance à plateau. L’ananas est sur un des plateaux, en bas à cause de la gravité. Vous ajoutez au fur et à mesure des poids sur l’autre plateau. Au début rien ne se passe. Puis l’ananas commence à monter. Jusqu'à atteindre l'équilibre. Jusqu’à ce que la masse de vos poids soit égale à celle de l’ananas.

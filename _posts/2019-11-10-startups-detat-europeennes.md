@@ -2,6 +2,7 @@
 title: "Et si nous faisions des startups d'État européennes ?"
 description: "Je reviens d'un voyage de quelques jours en Lettonie où j'ai eu la chance de pouvoir parler de mes deux sujets préférés : l'innovation publique et les questions d'éthique liées aux algorithmes d'apprentissage automatique."
 image: https://images.unsplash.com/photo-1516611327872-fc8c49ac2231?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+tags: [Éthique, Algorithme, Administration, Innovation, Service public]
 ---
 
 Je reviens d'un voyage de quelques jours en Lettonie où j'ai eu la chance de pouvoir parler de mes deux sujets préférés : l'innovation publique et les questions d'éthique liées aux algorithmes d'apprentissage automatique. Deux choses m'ont marqué par rapport à ces thèmes.
