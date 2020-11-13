@@ -2,7 +2,7 @@
 title: "Commencer avec des bouts de ficelle"
 description: "Lors d'un hackathon organisé la semaine dernière par l'établissement public territorial Plaine Commune, une des équipes présentait un projet de mise en relation d’agents voulant apprendre quelque chose, avec des agents connaissant ce quelque chose."
 image: https://images.unsplash.com/photo-1456428746267-a1756408f782?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80
-tags: [Innovation, Lean, UX Design, Administration, Ficelle]
+tags: [Innovation, Lean startup, UX design, Administration, Ficelle]
 ---
 
 Lors d'un hackathon organisé la semaine dernière par l'établissement public territorial Plaine Commune, une des équipes présentait un projet de mise en relation d’agents voulant apprendre quelque chose, avec des agents connaissant ce quelque chose. Leur présentation incluait évidemment une application numérique facilitant ces rencontres apprenantes. Sauf que dans leur plan de lancement, avant de développer une application, ils souhaitaient tester l'idée avec… un simple tableau en liège. On adore !

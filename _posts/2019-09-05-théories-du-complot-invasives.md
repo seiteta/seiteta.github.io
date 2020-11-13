@@ -3,7 +3,7 @@ title: "Des théories du complot invasives"
 description: "En 1859, un britannique importe des lapins en Australie pour le lol et parce qu'il aimait bien chasser. Sauf que des lapins se sont"
 image: https://miro.medium.com/max/1200/1*nMz4GEX2X52G3-T2gmCqkQ.jpeg
 canonical_url: https://medium.com/@seiteta/des-th%C3%A9ories-du-complot-invasives-c148acb96f32
-tags: [Évolution, Algorithmes, Complot, Plateforme]
+tags: [Évolution, Algorithme, Complot, Plateforme]
 ---
 
 > En 1859, un britannique importe des lapins en Australie pour le lol et parce qu’il aimait bien chasser. Sauf que des lapins se sont échappés et qu’en l’absence de prédateurs, il y en avait 600 millions sur le continent cinquante ans plus tard. Moins lol.

@@ -2,7 +2,7 @@
 title: "L’administration ou les usagers ?"
 description: "Le premier point du manifeste du réseau des incubateurs publics beta.gouv.fr est clair : considérer les besoins des usagers avant ceux de l’administration"
 image: https://images.unsplash.com/photo-1429743305873-d4065c15f93e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1947&q=80
-tags: [Innovation, Administration, UX Design, Sponsor, Incubateur]
+tags: [Innovation, Administration, UX design, Sponsor, Incubateur]
 ---
 
 Le premier point du [manifeste](https://beta.gouv.fr/incubateurs) du réseau des incubateurs publics beta.gouv.fr est limpide :

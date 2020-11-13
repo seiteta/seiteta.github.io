@@ -3,7 +3,7 @@ title: "« Intérêt général » is the new sexy"
 description: "La fonction publique possède un avantage déloyal pour recruter."
 image: https://miro.medium.com/max/1200/1*YAcpemWgZry086IgqSyUow.jpeg
 canonical_url: https://medium.com/fabnum/interet-general-is-the-new-sexy-e16a04d17c6a
-tags: [Transformation Numérique, Recrutement, Administration, Intérêt Général, Fonction Publique]
+tags: [Transformation numérique, Recrutement, Administration, Intérêt général, Fonction publique]
 ---
 
 Il y a quelques semaines, je postais [ce tweet](https://twitter.com/seiteta/status/1149670864012447744) pour recruter au sein de ma nouvelle équipe.

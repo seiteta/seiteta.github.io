@@ -3,7 +3,7 @@ title: "Trouver un problème avant de chercher une solution"
 description: "« On veut faire un projet basé sur de la blockchain. »"
 image: https://miro.medium.com/max/1200/1*_SfNRV4T3tlnfgaP5GYYdA.jpeg
 canonical_url: https://medium.com/@seiteta/trouver-un-probl%C3%A8me-avant-de-chercher-une-solution-d3e8e5ebf496
-tags: [Innovation, Technologie, UX Design, Blockchain]
+tags: [Innovation, Technologie, UX design, Blockchain]
 ---
 
 > « On veut faire un projet basé sur de la blockchain.

@@ -2,7 +2,7 @@
 title: "Vous n'êtes pas seuls"
 description: "La clef pour réussir à faire cela : rendre ces communautés ouvertes et facilement accessibles."
 image: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-tags: [Culture, Administration, Communauté, Ouverture, Data for Good]
+tags: [Culture, Administration, Communauté, Ouverture, Data for Good, EIG]
 ---
 
 Hier soir avait lieu la restitution de la troisième promotion du programme « Entrepreneurs d'intérêt général » au ministère de la Transition écologique et solidaire. Au delà de la présentation des projets (incroyable ce qu'ils ont [fait en 10 mois](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html)) et d’une table-ronde sur un sujet inhabituel (le code fait-il vraiment loi ?), c'était surtout une belle occasion de se retrouver avec une partie de la communauté des innovateurs publics.
