@@ -6,21 +6,22 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   {{ content }}
   <span class="post-date">{% include date-fr.html date=page.date %}</span>
-  <span class="post-tags">Tags : {{ page.tags | sort | join: ", " }}</span>
+  <span class="post-tags">Tags :
+    {% assign sortedTags = page.tags | sort%}
+    {% for tag in sortedTags %}
+      <a href="/tag/{{ tag }}">{{ tag }}</a>
+    {% endfor %}
+  </span>
   {% include share-buttons.html %}
 </div>
 
 <div class="related">
   <h2>Autres articles :</h2>
-  <ul class="related-posts">
+  <ul>
     {% for post in site.related_posts limit:3 %}
       <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{% include date-fr.html date=post.date %}</small>
-          </a>
-        </h3>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <small> ({% include date-fr.html date=post.date %})</small>
       </li>
     {% endfor %}
   </ul>

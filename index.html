@@ -13,7 +13,12 @@ title: Accueil
     </h1>
     {{ post.content }}
     <span class="post-date">{% include date-fr.html date=post.date %}</span>
-    <span class="post-tags">Tags : {{ post.tags | sort | join: ", " }}</span>
+    <span class="post-tags">Tags :
+      {% assign sortedTags = post.tags | sort%}
+      {% for tag in sortedTags %}
+        <a href="/tag/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+    </span>
     {% include share-buttons.html %}
   </div>
   {% endfor %}

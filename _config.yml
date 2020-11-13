@@ -12,6 +12,8 @@ paginate:         500
 collections:
   hackerspublics:
     output:       true
+  category:
+    output:       true
 
 # Podcast parameters
 podcast_title:    Hackers publics
@@ -33,6 +35,12 @@ defaults:
       type: "posts"
     values:
       layout: post
+  -
+    scope:
+      path: ""
+      type: "category"
+    values:
+      layout: tag
 
 #SEO tag
 title:            Frédéric Bardolle
