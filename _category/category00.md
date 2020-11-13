@@ -1,4 +1,4 @@
 ---
 tag: Accessibilité
-permalink: "/tag/Accessibilité""
+permalink: "/tag/Accessibilité"
 ---

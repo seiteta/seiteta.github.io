@@ -1,4 +1,4 @@
 ---
 tag: Recommandation
-permalink: "/tag/Recommandation""
+permalink: "/tag/Recommandation"
 ---

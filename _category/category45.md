@@ -1,4 +1,4 @@
 ---
 tag: Hybridation
-permalink: "/tag/Hybridation""
+permalink: "/tag/Hybridation"
 ---

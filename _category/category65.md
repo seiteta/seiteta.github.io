@@ -1,4 +1,4 @@
 ---
 tag: Machine
-permalink: "/tag/Machine""
+permalink: "/tag/Machine"
 ---

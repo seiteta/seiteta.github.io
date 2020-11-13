@@ -1,4 +1,4 @@
 ---
 tag: Réalité
-permalink: "/tag/Réalité""
+permalink: "/tag/Réalité"
 ---

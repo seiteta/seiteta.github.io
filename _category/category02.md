@@ -1,4 +1,4 @@
 ---
 tag: Agile
-permalink: "/tag/Agile""
+permalink: "/tag/Agile"
 ---

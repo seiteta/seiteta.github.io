@@ -1,4 +1,4 @@
 ---
 tag: Créativité
-permalink: "/tag/Créativité""
+permalink: "/tag/Créativité"
 ---

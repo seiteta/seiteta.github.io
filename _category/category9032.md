@@ -1,4 +1,4 @@
 ---
 tag: Écran
-permalink: "/tag/Écran""
+permalink: "/tag/Écran"
 ---

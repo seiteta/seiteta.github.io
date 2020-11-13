@@ -1,4 +1,4 @@
 ---
 tag: Égo
-permalink: "/tag/Égo""
+permalink: "/tag/Égo"
 ---

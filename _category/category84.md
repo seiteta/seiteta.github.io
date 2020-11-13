@@ -1,4 +1,4 @@
 ---
 tag: Politique
-permalink: "/tag/Politique""
+permalink: "/tag/Politique"
 ---

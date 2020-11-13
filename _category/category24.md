@@ -1,4 +1,4 @@
 ---
 tag: DIY
-permalink: "/tag/DIY""
+permalink: "/tag/DIY"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Génétique
-permalink: "/tag/Génétique""
+permalink: "/tag/Génétique"
 ---

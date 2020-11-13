@@ -1,4 +1,4 @@
 ---
 tag: Histoire
-permalink: "/tag/Histoire""
+permalink: "/tag/Histoire"
 ---

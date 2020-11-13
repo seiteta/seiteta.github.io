@@ -1,4 +1,4 @@
 ---
 tag: Développement
-permalink: "/tag/Développement""
+permalink: "/tag/Développement"
 ---

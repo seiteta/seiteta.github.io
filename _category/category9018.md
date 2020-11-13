@@ -1,4 +1,4 @@
 ---
 tag: Structure
-permalink: "/tag/Structure""
+permalink: "/tag/Structure"
 ---

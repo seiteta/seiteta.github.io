@@ -1,4 +1,4 @@
 ---
 tag: Idée
-permalink: "/tag/Idée""
+permalink: "/tag/Idée"
 ---

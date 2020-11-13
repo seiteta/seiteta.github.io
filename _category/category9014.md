@@ -1,4 +1,4 @@
 ---
 tag: Souveraineté
-permalink: "/tag/Souveraineté""
+permalink: "/tag/Souveraineté"
 ---

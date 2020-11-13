@@ -1,4 +1,4 @@
 ---
 tag: Métier
-permalink: "/tag/Métier""
+permalink: "/tag/Métier"
 ---

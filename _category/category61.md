@@ -1,4 +1,4 @@
 ---
 tag: Logiciel
-permalink: "/tag/Logiciel""
+permalink: "/tag/Logiciel"
 ---

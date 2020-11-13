@@ -1,4 +1,4 @@
 ---
 tag: Numérique
-permalink: "/tag/Numérique""
+permalink: "/tag/Numérique"
 ---

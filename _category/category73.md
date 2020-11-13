@@ -1,4 +1,4 @@
 ---
 tag: Nouveauté
-permalink: "/tag/Nouveauté""
+permalink: "/tag/Nouveauté"
 ---

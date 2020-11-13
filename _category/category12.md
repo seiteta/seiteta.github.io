@@ -1,4 +1,4 @@
 ---
 tag: Bricolage
-permalink: "/tag/Bricolage""
+permalink: "/tag/Bricolage"
 ---

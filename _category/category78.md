@@ -1,4 +1,4 @@
 ---
 tag: Ouverture
-permalink: "/tag/Ouverture""
+permalink: "/tag/Ouverture"
 ---

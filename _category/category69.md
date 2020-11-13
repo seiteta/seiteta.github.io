@@ -1,4 +1,4 @@
 ---
 tag: Motivation
-permalink: "/tag/Motivation""
+permalink: "/tag/Motivation"
 ---

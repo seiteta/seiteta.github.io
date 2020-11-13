@@ -1,4 +1,4 @@
 ---
 tag: Technologie
-permalink: "/tag/Technologie""
+permalink: "/tag/Technologie"
 ---

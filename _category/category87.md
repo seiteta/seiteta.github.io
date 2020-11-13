@@ -1,4 +1,4 @@
 ---
 tag: Préincubation
-permalink: "/tag/Préincubation""
+permalink: "/tag/Préincubation"
 ---

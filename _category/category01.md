@@ -1,4 +1,4 @@
 ---
 tag: Administration
-permalink: "/tag/Administration""
+permalink: "/tag/Administration"
 ---

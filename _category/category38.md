@@ -1,4 +1,4 @@
 ---
 tag: Formation
-permalink: "/tag/Formation""
+permalink: "/tag/Formation"
 ---

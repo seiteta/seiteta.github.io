@@ -1,4 +1,4 @@
 ---
 tag: Govtech
-permalink: "/tag/Govtech""
+permalink: "/tag/Govtech"
 ---

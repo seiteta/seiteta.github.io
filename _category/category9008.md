@@ -1,4 +1,4 @@
 ---
 tag: Résumé
-permalink: "/tag/Résumé""
+permalink: "/tag/Résumé"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Blockchain
-permalink: "/tag/Blockchain""
+permalink: "/tag/Blockchain"
 ---

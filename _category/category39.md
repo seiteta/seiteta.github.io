@@ -1,4 +1,4 @@
 ---
 tag: Furtif
-permalink: "/tag/Furtif""
+permalink: "/tag/Furtif"
 ---

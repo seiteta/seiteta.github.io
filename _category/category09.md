@@ -1,4 +1,4 @@
 ---
 tag: Autonomie
-permalink: "/tag/Autonomie""
+permalink: "/tag/Autonomie"
 ---

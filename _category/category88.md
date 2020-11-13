@@ -1,4 +1,4 @@
 ---
 tag: Psychédélique
-permalink: "/tag/Psychédélique""
+permalink: "/tag/Psychédélique"
 ---

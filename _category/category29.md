@@ -1,4 +1,4 @@
 ---
 tag: Documentation
-permalink: "/tag/Documentation""
+permalink: "/tag/Documentation"
 ---

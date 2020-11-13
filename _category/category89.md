@@ -1,4 +1,4 @@
 ---
 tag: Qualité
-permalink: "/tag/Qualité""
+permalink: "/tag/Qualité"
 ---

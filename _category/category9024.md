@@ -1,4 +1,4 @@
 ---
 tag: Travail
-permalink: "/tag/Travail""
+permalink: "/tag/Travail"
 ---

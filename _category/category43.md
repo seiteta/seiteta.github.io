@@ -1,4 +1,4 @@
 ---
 tag: Horizontalité
-permalink: "/tag/Horizontalité""
+permalink: "/tag/Horizontalité"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Papier
-permalink: "/tag/Papier""
+permalink: "/tag/Papier"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Algorithme
-permalink: "/tag/Algorithme""
+permalink: "/tag/Algorithme"
 ---

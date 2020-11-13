@@ -1,4 +1,4 @@
 ---
 tag: Plateforme
-permalink: "/tag/Plateforme""
+permalink: "/tag/Plateforme"
 ---

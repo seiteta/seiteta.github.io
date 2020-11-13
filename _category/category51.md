@@ -1,4 +1,4 @@
 ---
 tag: Information
-permalink: "/tag/Information""
+permalink: "/tag/Information"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Introversion
-permalink: "/tag/Introversion""
+permalink: "/tag/Introversion"
 ---

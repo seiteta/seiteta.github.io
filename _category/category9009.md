@@ -1,4 +1,4 @@
 ---
 tag: SaaS
-permalink: "/tag/SaaS""
+permalink: "/tag/SaaS"
 ---

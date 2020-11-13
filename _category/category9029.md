@@ -1,4 +1,4 @@
 ---
 tag: Vélo
-permalink: "/tag/Vélo""
+permalink: "/tag/Vélo"
 ---

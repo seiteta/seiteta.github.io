@@ -1,4 +1,4 @@
 ---
 tag: Indicateurs
-permalink: "/tag/Indicateurs""
+permalink: "/tag/Indicateurs"
 ---

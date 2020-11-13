@@ -1,4 +1,4 @@
 ---
 tag: Artisanat
-permalink: "/tag/Artisanat""
+permalink: "/tag/Artisanat"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Prospective
-permalink: "/tag/Prospective""
+permalink: "/tag/Prospective"
 ---

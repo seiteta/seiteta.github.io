@@ -1,4 +1,4 @@
 ---
 tag: Jeu
-permalink: "/tag/Jeu""
+permalink: "/tag/Jeu"
 ---

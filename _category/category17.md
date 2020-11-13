@@ -1,4 +1,4 @@
 ---
 tag: Complot
-permalink: "/tag/Complot""
+permalink: "/tag/Complot"
 ---

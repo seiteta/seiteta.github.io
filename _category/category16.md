@@ -1,4 +1,4 @@
 ---
 tag: Communauté
-permalink: "/tag/Communauté""
+permalink: "/tag/Communauté"
 ---

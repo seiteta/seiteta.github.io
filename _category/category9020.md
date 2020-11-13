@@ -1,4 +1,4 @@
 ---
 tag: Systèmes
-permalink: "/tag/Systèmes""
+permalink: "/tag/Systèmes"
 ---

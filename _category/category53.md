@@ -1,4 +1,4 @@
 ---
 tag: Inspiration
-permalink: "/tag/Inspiration""
+permalink: "/tag/Inspiration"
 ---

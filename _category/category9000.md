@@ -1,4 +1,4 @@
 ---
 tag: Recherche
-permalink: "/tag/Recherche""
+permalink: "/tag/Recherche"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Échelle
-permalink: "/tag/Échelle""
+permalink: "/tag/Échelle"
 ---

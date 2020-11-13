@@ -1,4 +1,4 @@
 ---
 tag: Réplication
-permalink: "/tag/Réplication""
+permalink: "/tag/Réplication"
 ---

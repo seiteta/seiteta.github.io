@@ -1,4 +1,4 @@
 ---
 tag: Client
-permalink: "/tag/Client""
+permalink: "/tag/Client"
 ---

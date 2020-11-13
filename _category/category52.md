@@ -1,4 +1,4 @@
 ---
 tag: Innovation
-permalink: "/tag/Innovation""
+permalink: "/tag/Innovation"
 ---

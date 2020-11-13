@@ -1,4 +1,4 @@
 ---
 tag: Produit
-permalink: "/tag/Produit""
+permalink: "/tag/Produit"
 ---

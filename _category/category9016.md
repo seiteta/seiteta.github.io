@@ -1,4 +1,4 @@
 ---
 tag: Startup
-permalink: "/tag/Startup""
+permalink: "/tag/Startup"
 ---

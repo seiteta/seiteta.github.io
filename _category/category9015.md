@@ -1,4 +1,4 @@
 ---
 tag: Sponsor
-permalink: "/tag/Sponsor""
+permalink: "/tag/Sponsor"
 ---

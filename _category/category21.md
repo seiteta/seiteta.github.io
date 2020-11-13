@@ -1,4 +1,4 @@
 ---
 tag: Croyance
-permalink: "/tag/Croyance""
+permalink: "/tag/Croyance"
 ---

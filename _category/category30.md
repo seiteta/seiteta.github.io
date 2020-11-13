@@ -1,4 +1,4 @@
 ---
 tag: Décentralisation
-permalink: "/tag/Décentralisation""
+permalink: "/tag/Décentralisation"
 ---

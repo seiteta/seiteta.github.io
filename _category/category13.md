@@ -1,4 +1,4 @@
 ---
 tag: Bénévole
-permalink: "/tag/Bénévole""
+permalink: "/tag/Bénévole"
 ---

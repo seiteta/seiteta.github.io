@@ -1,4 +1,4 @@
 ---
 tag: Antifragile
-permalink: "/tag/Antifragile""
+permalink: "/tag/Antifragile"
 ---

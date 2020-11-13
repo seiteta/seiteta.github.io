@@ -1,4 +1,4 @@
 ---
 tag: Cantine
-permalink: "/tag/Cantine""
+permalink: "/tag/Cantine"
 ---

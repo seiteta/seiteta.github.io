@@ -1,4 +1,4 @@
 ---
 tag: Équipes
-permalink: "/tag/Équipes""
+permalink: "/tag/Équipes"
 ---

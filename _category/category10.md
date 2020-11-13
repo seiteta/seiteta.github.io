@@ -1,4 +1,4 @@
 ---
 tag: Biais
-permalink: "/tag/Biais""
+permalink: "/tag/Biais"
 ---

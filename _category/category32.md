@@ -1,4 +1,4 @@
 ---
 tag: EIG
-permalink: "/tag/EIG""
+permalink: "/tag/EIG"
 ---

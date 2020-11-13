@@ -1,4 +1,4 @@
 ---
 tag: Authenticité
-permalink: "/tag/Authenticité""
+permalink: "/tag/Authenticité"
 ---

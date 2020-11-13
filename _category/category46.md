@@ -1,4 +1,4 @@
 ---
 tag: Hypothèse
-permalink: "/tag/Hypothèse""
+permalink: "/tag/Hypothèse"
 ---

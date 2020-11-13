@@ -1,4 +1,4 @@
 ---
 tag: Minitel
-permalink: "/tag/Minitel""
+permalink: "/tag/Minitel"
 ---

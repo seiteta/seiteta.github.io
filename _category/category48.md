@@ -1,4 +1,4 @@
 ---
 tag: Incubateur
-permalink: "/tag/Incubateur""
+permalink: "/tag/Incubateur"
 ---

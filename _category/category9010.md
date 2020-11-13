@@ -1,4 +1,4 @@
 ---
 tag: Score
-permalink: "/tag/Score""
+permalink: "/tag/Score"
 ---

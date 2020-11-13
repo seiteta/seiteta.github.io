@@ -1,4 +1,4 @@
 ---
 tag: Culture
-permalink: "/tag/Culture""
+permalink: "/tag/Culture"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Règlement
-permalink: "/tag/Règlement""
+permalink: "/tag/Règlement"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Design
-permalink: "/tag/Design""
+permalink: "/tag/Design"
 ---

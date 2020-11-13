@@ -1,4 +1,4 @@
 ---
 tag: Éthique
-permalink: "/tag/Éthique""
+permalink: "/tag/Éthique"
 ---

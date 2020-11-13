@@ -1,4 +1,4 @@
 ---
 tag: Entraide
-permalink: "/tag/Entraide""
+permalink: "/tag/Entraide"
 ---

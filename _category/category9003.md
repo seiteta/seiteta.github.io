@@ -1,4 +1,4 @@
 ---
 tag: Responsabilité
-permalink: "/tag/Responsabilité""
+permalink: "/tag/Responsabilité"
 ---

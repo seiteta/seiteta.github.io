@@ -1,4 +1,4 @@
 ---
 tag: Esthétique
-permalink: "/tag/Esthétique""
+permalink: "/tag/Esthétique"
 ---

@@ -1,4 +1,4 @@
 ---
 tag: Performance
-permalink: "/tag/Performance""
+permalink: "/tag/Performance"
 ---

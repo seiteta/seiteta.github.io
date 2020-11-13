@@ -1,4 +1,4 @@
 ---
 tag: Excellence
-permalink: "/tag/Excellence""
+permalink: "/tag/Excellence"
 ---

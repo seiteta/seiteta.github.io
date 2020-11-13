@@ -1,4 +1,4 @@
 ---
 tag: Média
-permalink: "/tag/Média""
+permalink: "/tag/Média"
 ---

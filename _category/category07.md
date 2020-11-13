@@ -1,4 +1,4 @@
 ---
 tag: Attention
-permalink: "/tag/Attention""
+permalink: "/tag/Attention"
 ---

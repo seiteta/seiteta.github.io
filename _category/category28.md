@@ -1,4 +1,4 @@
 ---
 tag: DevOps
-permalink: "/tag/DevOps""
+permalink: "/tag/DevOps"
 ---

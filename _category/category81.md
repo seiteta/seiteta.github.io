@@ -1,4 +1,4 @@
 ---
 tag: Pivot
-permalink: "/tag/Pivot""
+permalink: "/tag/Pivot"
 ---

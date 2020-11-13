@@ -1,4 +1,4 @@
 ---
 tag: Podcast
-permalink: "/tag/Podcast""
+permalink: "/tag/Podcast"
 ---

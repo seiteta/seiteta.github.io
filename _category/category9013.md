@@ -1,4 +1,4 @@
 ---
 tag: Sortir
-permalink: "/tag/Sortir""
+permalink: "/tag/Sortir"
 ---

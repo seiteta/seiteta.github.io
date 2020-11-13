@@ -1,4 +1,4 @@
 ---
 tag: Émotion
-permalink: "/tag/Émotion""
+permalink: "/tag/Émotion"
 ---

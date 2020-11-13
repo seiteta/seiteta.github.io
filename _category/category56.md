@@ -1,4 +1,4 @@
 ---
 tag: Intrapreneur
-permalink: "/tag/Intrapreneur""
+permalink: "/tag/Intrapreneur"
 ---

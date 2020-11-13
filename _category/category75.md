@@ -1,4 +1,4 @@
 ---
 tag: Objectif
-permalink: "/tag/Objectif""
+permalink: "/tag/Objectif"
 ---
