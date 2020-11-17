@@ -1,5 +1,5 @@
 ---
-title: "#5 - Sébastien Soriano : Ce qui fonctionne c’est la permaculture managériale : une rencontre inattendue entre des gens différents"
+title: "#5 - Sébastien Soriano : Ce qui fonctionne c’est la permaculture managériale ; une rencontre inattendue entre des gens différents"
 date: 2020-11-17
 file: hackers_publics_5_sebastien_soriano.mp3
 duration: "01:09:49"
