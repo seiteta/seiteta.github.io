@@ -5,7 +5,7 @@ title: Tous les épisodes
 
 <h1 class="post-title">Hackers publics</h1>
 
-Avec Hackers publics, partez à la rencontre celles et ceux qui transforment la culture numérique de l’administration.
+Avec le podcast Hackers publics, partez à la rencontre celles et ceux qui transforment la culture numérique de l’administration.
 
 Prenez une grande bouffée d’inspiration et découvrez l’avant-garde de l’innovation publique.
 
