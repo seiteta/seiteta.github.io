@@ -4,7 +4,7 @@ date: 2020-11-17
 file: hackers_publics_5_sebastien_soriano.mp3
 duration: "01:09:49"
 guid: "0272B080-A25D-4F2B-99FD-9C639000453A"
-spotify_url:
+spotify_url: https://open.spotify.com/episode/3yXl6YrOVZhidC1TrBJTCD?si=DlSxB6KPQZifRyz0_wq5Yg
 itunes_url:
 description: "Sébastien Soriano est le président de l’ARCEP, l’autorité de régulation des communications électroniques et des Postes. Il nous partage sa vision des communs, appliquée au monde numérique qui nous entoure et nous explique la culture managériale qu’il a mis en place à l’ARCEP. Nous évoquons également la 5G, la régulation des GAFA et la question de la soutenabilité du numérique. Bonne écoute !"
 ---
