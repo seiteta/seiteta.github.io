@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tous les épisodes
+title: Podcast
 ---
 
 <h1 class="post-title">Hackers publics</h1>
