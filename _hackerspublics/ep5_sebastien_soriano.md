@@ -17,7 +17,7 @@ Liens évoqués dans l'épisode :
 
 * [Laurent Schwartz](https://fr.wikipedia.org/wiki/Laurent_Schwartz_(math%C3%A9maticien))
 * [Elinor Ostrom](https://fr.wikipedia.org/wiki/Elinor_Ostrom)
-* 📘 [Commun, de Pierre Dardot et Christian Laval](https://www.cairn.info/commun--9782707186737.htm)
+* 📘 [Commun, de Pierre Dardot et Christian Laval](https://www.cairn.info/commun--9782707186737.html)
 * 📘 [L'Age de la multitude, de Nicolas Colin et Henri Verdier](https://www.armand-colin.com/lage-de-la-multitude-2e-ed-entreprendre-et-gouverner-apres-la-revolution-numerique-9782200601447)
 * 📘 [Reinventing Organizations, de Frédéric Laloux](https://www.reinventingorganizations.com/)
 * 📘 [Découvrir un sens à sa vie, de Viktor Frankl](https://fr.wikipedia.org/wiki/Trotzdem_Ja_zum_Leben_sagen:_Ein_Psychologe_erlebt_das_Konzentrationslager)
