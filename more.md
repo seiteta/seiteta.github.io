@@ -31,6 +31,8 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 ## Tables rondes
 
+* « La transformation des usages numériques » – table ronde (Forum Innovation Défense 2020, 11/2020)
+* « La culture d'innovation au sein de l'Etat » – table ronde (Forum de l’emploi tech de l’État 2020, 11/2020)
 * « IA et sexisme » – table ronde (2ème journée nationale contre le sexisme, 01/2019)
 * « Monde associatif et innovations technologiques : petits changements ou grande révolution ? » – table ronde (10 ans de Solidatech, 11/2018)
 * « _How public interest entrepreneurs build impactful digital products and change public service_ » – table ronde (GovTech Summit, 11/2018)
@@ -43,7 +45,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 ## Cours
 
-* « Données, éthique et algorithmes » – Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020)
+* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020)
 * « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
 * « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
 * « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
