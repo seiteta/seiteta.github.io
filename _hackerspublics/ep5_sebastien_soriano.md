@@ -19,6 +19,7 @@ Liens évoqués dans l'épisode :
 * [Elinor Ostrom](https://fr.wikipedia.org/wiki/Elinor_Ostrom)
 * 📘 [Commun, de Pierre Dardot et Christian Laval](https://www.cairn.info/commun--9782707186737.html)
 * 📘 [L'Age de la multitude, de Nicolas Colin et Henri Verdier](https://www.armand-colin.com/lage-de-la-multitude-2e-ed-entreprendre-et-gouverner-apres-la-revolution-numerique-9782200601447)
+* 📘 [La Cathédrale et le Bazar, de Eric Raymond](https://fr.wikipedia.org/wiki/La_Cath%C3%A9drale_et_le_Bazar)
 * 📘 [Reinventing Organizations, de Frédéric Laloux](https://www.reinventingorganizations.com/)
 * 📘 [Découvrir un sens à sa vie, de Viktor Frankl](https://fr.wikipedia.org/wiki/Trotzdem_Ja_zum_Leben_sagen:_Ein_Psychologe_erlebt_das_Konzentrationslager)
 * [Enacting the commons](http://enactingthecommons.la27eregion.fr/)
