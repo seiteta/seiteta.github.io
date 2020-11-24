@@ -17,7 +17,7 @@ Liens évoqués dans l'épisode :
 
 * [Laurent Schwartz](https://fr.wikipedia.org/wiki/Laurent_Schwartz_(math%C3%A9maticien))
 * [Elinor Ostrom](https://fr.wikipedia.org/wiki/Elinor_Ostrom)
-* 📘 [Commun, de Pierre Dardot et Christian Laval](https://www.cairn.info/commun--9782707186737.html)
+* 📘 [Commun, de Pierre Dardot et Christian Laval](https://www.cairn.info/commun--9782707186737.htm)
 * 📘 [L'Age de la multitude, de Nicolas Colin et Henri Verdier](https://www.armand-colin.com/lage-de-la-multitude-2e-ed-entreprendre-et-gouverner-apres-la-revolution-numerique-9782200601447)
 * 📘 [La Cathédrale et le Bazar, de Eric Raymond](https://fr.wikipedia.org/wiki/La_Cath%C3%A9drale_et_le_Bazar)
 * 📘 [Reinventing Organizations, de Frédéric Laloux](https://www.reinventingorganizations.com/)
