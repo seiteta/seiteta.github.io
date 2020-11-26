@@ -1,4 +1,5 @@
 ---
-tag: Sortir
-permalink: "/tag/Sortir"
+title: Score
+tag: Score
+permalink: "/tag/Score"
 ---

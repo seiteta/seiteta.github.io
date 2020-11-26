@@ -1,4 +1,5 @@
 ---
-tag: Réseaux sociaux
-permalink: "/tag/Réseaux sociaux"
+title: Règlement
+tag: Règlement
+permalink: "/tag/Règlement"
 ---

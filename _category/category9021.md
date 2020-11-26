@@ -1,4 +1,5 @@
 ---
-tag: Technologie
-permalink: "/tag/Technologie"
+title: Structure
+tag: Structure
+permalink: "/tag/Structure"
 ---

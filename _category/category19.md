@@ -1,4 +1,5 @@
 ---
-tag: Coûts irrécupérables
-permalink: "/tag/Coûts irrécupérables"
+title: Comportements émergents
+tag: Comportements émergents
+permalink: "/tag/Comportements émergents"
 ---

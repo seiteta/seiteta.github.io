@@ -1,4 +1,5 @@
 ---
-tag: Startups d'État
-permalink: "/tag/Startups d'État"
+title: Souveraineté
+tag: Souveraineté
+permalink: "/tag/Souveraineté"
 ---

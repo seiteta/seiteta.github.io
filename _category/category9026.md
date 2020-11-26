@@ -1,4 +1,5 @@
 ---
-tag: UX design
-permalink: "/tag/UX design"
+title: Transformation numérique
+tag: Transformation numérique
+permalink: "/tag/Transformation numérique"
 ---

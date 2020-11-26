@@ -1,4 +1,5 @@
 ---
-tag: Score
-permalink: "/tag/Score"
+title: Réseaux sociaux
+tag: Réseaux sociaux
+permalink: "/tag/Réseaux sociaux"
 ---

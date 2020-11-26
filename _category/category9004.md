@@ -1,4 +1,5 @@
 ---
-tag: Règlement
-permalink: "/tag/Règlement"
+title: Recommandation
+tag: Recommandation
+permalink: "/tag/Recommandation"
 ---

@@ -1,4 +1,5 @@
 ---
-tag: Lâcher-prise
-permalink: "/tag/Lâcher-prise"
+title: Logiciel
+tag: Logiciel
+permalink: "/tag/Logiciel"
 ---

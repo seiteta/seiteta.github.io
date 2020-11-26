@@ -1,4 +1,5 @@
 ---
-tag: Recommandation
-permalink: "/tag/Recommandation"
+title: Psychédélique
+tag: Psychédélique
+permalink: "/tag/Psychédélique"
 ---

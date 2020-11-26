@@ -1,4 +1,5 @@
 ---
-tag: Influence
-permalink: "/tag/Influence"
+title: Idée
+tag: Idée
+permalink: "/tag/Idée"
 ---

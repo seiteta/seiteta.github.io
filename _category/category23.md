@@ -1,4 +1,5 @@
 ---
-tag: Culture
-permalink: "/tag/Culture"
+title: Croyance
+tag: Croyance
+permalink: "/tag/Croyance"
 ---

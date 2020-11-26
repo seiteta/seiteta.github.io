@@ -1,4 +1,5 @@
 ---
-tag: Éthique
-permalink: "/tag/Éthique"
+title: Égo
+tag: Égo
+permalink: "/tag/Égo"
 ---

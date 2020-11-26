@@ -1,4 +1,5 @@
 ---
-tag: Décentralisation
-permalink: "/tag/Décentralisation"
+title: DevOps
+tag: DevOps
+permalink: "/tag/DevOps"
 ---

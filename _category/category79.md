@@ -1,4 +1,5 @@
 ---
-tag: Papier
-permalink: "/tag/Papier"
+title: Open data
+tag: Open data
+permalink: "/tag/Open data"
 ---

@@ -1,4 +1,5 @@
 ---
-tag: Plateforme
-permalink: "/tag/Plateforme"
+title: Papier
+tag: Papier
+permalink: "/tag/Papier"
 ---

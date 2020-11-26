@@ -1,4 +1,5 @@
 ---
-tag: Résumé
-permalink: "/tag/Résumé"
+title: Réalité
+tag: Réalité
+permalink: "/tag/Réalité"
 ---

@@ -1,4 +1,5 @@
 ---
-tag: Data Science
-permalink: "/tag/Data Science"
+title: Culture
+tag: Culture
+permalink: "/tag/Culture"
 ---

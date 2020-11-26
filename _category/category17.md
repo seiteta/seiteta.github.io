@@ -1,4 +1,5 @@
 ---
-tag: Complot
-permalink: "/tag/Complot"
+title: Communauté
+tag: Communauté
+permalink: "/tag/Communauté"
 ---

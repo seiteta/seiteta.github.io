@@ -1,4 +1,5 @@
 ---
-tag: Qualité
-permalink: "/tag/Qualité"
+title: Prospective
+tag: Prospective
+permalink: "/tag/Prospective"
 ---

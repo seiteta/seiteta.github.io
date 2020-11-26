@@ -1,4 +1,5 @@
 ---
-tag: Recrutement
-permalink: "/tag/Recrutement"
+title: Qualité
+tag: Qualité
+permalink: "/tag/Qualité"
 ---

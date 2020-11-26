@@ -1,4 +1,5 @@
 ---
-tag: Logiciel libre
-permalink: "/tag/Logiciel libre"
+title: Jeu
+tag: Jeu
+permalink: "/tag/Jeu"
 ---

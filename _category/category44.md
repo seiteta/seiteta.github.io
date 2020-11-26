@@ -1,4 +1,5 @@
 ---
-tag: Humanité
-permalink: "/tag/Humanité"
+title: Histoire
+tag: Histoire
+permalink: "/tag/Histoire"
 ---

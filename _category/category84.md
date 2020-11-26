@@ -1,4 +1,5 @@
 ---
-tag: Politique
-permalink: "/tag/Politique"
+title: Pivot
+tag: Pivot
+permalink: "/tag/Pivot"
 ---

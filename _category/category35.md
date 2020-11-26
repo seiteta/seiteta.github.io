@@ -1,4 +1,5 @@
 ---
-tag: Excellence
-permalink: "/tag/Excellence"
+title: Entraide
+tag: Entraide
+permalink: "/tag/Entraide"
 ---

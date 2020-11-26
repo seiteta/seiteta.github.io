@@ -1,4 +1,5 @@
 ---
-tag: DIY
-permalink: "/tag/DIY"
+title: Créativité
+tag: Créativité
+permalink: "/tag/Créativité"
 ---

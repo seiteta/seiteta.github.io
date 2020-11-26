@@ -1,4 +1,5 @@
 ---
-tag: Structure
-permalink: "/tag/Structure"
+title: Sponsor
+tag: Sponsor
+permalink: "/tag/Sponsor"
 ---

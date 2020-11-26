@@ -1,4 +1,5 @@
 ---
-tag: Startup
-permalink: "/tag/Startup"
+title: Sortir
+tag: Sortir
+permalink: "/tag/Sortir"
 ---

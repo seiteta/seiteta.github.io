@@ -1,4 +1,5 @@
 ---
-tag: Idée
-permalink: "/tag/Idée"
+title: Humilité
+tag: Humilité
+permalink: "/tag/Humilité"
 ---

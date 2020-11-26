@@ -1,4 +1,5 @@
 ---
-tag: Intelligence artificielle
-permalink: "/tag/Intelligence artificielle"
+title: Information
+tag: Information
+permalink: "/tag/Information"
 ---

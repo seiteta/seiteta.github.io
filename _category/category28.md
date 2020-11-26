@@ -1,4 +1,5 @@
 ---
-tag: DevOps
-permalink: "/tag/DevOps"
+title: Data for Good
+tag: Data for Good
+permalink: "/tag/Data for Good"
 ---

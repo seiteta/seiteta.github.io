@@ -1,4 +1,5 @@
 ---
-tag: Machine
-permalink: "/tag/Machine"
+title: Logiciel libre
+tag: Logiciel libre
+permalink: "/tag/Logiciel libre"
 ---

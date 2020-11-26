@@ -1,4 +1,5 @@
 ---
-tag: Introversion
-permalink: "/tag/Introversion"
+title: Intelligence artificielle
+tag: Intelligence artificielle
+permalink: "/tag/Intelligence artificielle"
 ---

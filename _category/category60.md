@@ -1,4 +1,5 @@
 ---
-tag: Lean startup
-permalink: "/tag/Lean startup"
+title: Introversion
+tag: Introversion
+permalink: "/tag/Introversion"
 ---

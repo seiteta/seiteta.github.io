@@ -1,4 +1,5 @@
 ---
-tag: Psychédélique
-permalink: "/tag/Psychédélique"
+title: Produit
+tag: Produit
+permalink: "/tag/Produit"
 ---

@@ -1,4 +1,5 @@
 ---
-tag: Télétravail
-permalink: "/tag/Télétravail"
+title: Transformation
+tag: Transformation
+permalink: "/tag/Transformation"
 ---

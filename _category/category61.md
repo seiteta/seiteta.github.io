@@ -1,4 +1,5 @@
 ---
-tag: Logiciel
-permalink: "/tag/Logiciel"
+title: Intérêt général
+tag: Intérêt général
+permalink: "/tag/Intérêt général"
 ---

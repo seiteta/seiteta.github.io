@@ -1,4 +1,5 @@
 ---
-tag: Croissance
-permalink: "/tag/Croissance"
+title: Confiance
+tag: Confiance
+permalink: "/tag/Confiance"
 ---

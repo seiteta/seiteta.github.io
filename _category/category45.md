@@ -1,4 +1,5 @@
 ---
-tag: Hybridation
-permalink: "/tag/Hybridation"
+title: Horizontalité
+tag: Horizontalité
+permalink: "/tag/Horizontalité"
 ---

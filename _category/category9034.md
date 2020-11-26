@@ -1,4 +1,5 @@
 ---
-tag: Émotion
-permalink: "/tag/Émotion"
+title: Zen
+tag: Zen
+permalink: "/tag/Zen"
 ---

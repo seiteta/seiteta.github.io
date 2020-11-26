@@ -1,4 +1,5 @@
 ---
-tag: Ficelle
-permalink: "/tag/Ficelle"
+title: Esthétique
+tag: Esthétique
+permalink: "/tag/Esthétique"
 ---

@@ -1,4 +1,5 @@
 ---
-tag: Hypothèse
-permalink: "/tag/Hypothèse"
+title: Humanité
+tag: Humanité
+permalink: "/tag/Humanité"
 ---

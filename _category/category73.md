@@ -1,4 +1,5 @@
 ---
-tag: Nouveauté
-permalink: "/tag/Nouveauté"
+title: Média
+tag: Média
+permalink: "/tag/Média"
 ---

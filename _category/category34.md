@@ -1,4 +1,5 @@
 ---
-tag: Esthétique
-permalink: "/tag/Esthétique"
+title: EIG
+tag: EIG
+permalink: "/tag/EIG"
 ---

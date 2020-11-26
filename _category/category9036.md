@@ -1,4 +1,5 @@
 ---
-tag: État plateforme
-permalink: "/tag/État plateforme"
+title: Écran
+tag: Écran
+permalink: "/tag/Écran"
 ---

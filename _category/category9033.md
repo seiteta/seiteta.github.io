@@ -1,4 +1,5 @@
 ---
-tag: Égo
-permalink: "/tag/Égo"
+title: Wabi-sabi
+tag: Wabi-sabi
+permalink: "/tag/Wabi-sabi"
 ---

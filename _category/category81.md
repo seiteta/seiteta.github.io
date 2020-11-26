@@ -1,4 +1,5 @@
 ---
-tag: Pivot
-permalink: "/tag/Pivot"
+title: Ouverture
+tag: Ouverture
+permalink: "/tag/Ouverture"
 ---

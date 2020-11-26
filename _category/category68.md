@@ -1,4 +1,5 @@
 ---
-tag: Modification
-permalink: "/tag/Modification"
+title: Machine
+tag: Machine
+permalink: "/tag/Machine"
 ---

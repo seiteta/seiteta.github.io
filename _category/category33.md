@@ -1,4 +1,5 @@
 ---
-tag: Entraide
-permalink: "/tag/Entraide"
+title: Développement
+tag: Développement
+permalink: "/tag/Développement"
 ---

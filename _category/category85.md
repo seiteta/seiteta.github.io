@@ -1,4 +1,5 @@
 ---
-tag: Produit
-permalink: "/tag/Produit"
+title: Plateforme
+tag: Plateforme
+permalink: "/tag/Plateforme"
 ---

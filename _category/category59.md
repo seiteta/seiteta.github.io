@@ -1,4 +1,5 @@
 ---
-tag: Jeu
-permalink: "/tag/Jeu"
+title: Intrapreneur
+tag: Intrapreneur
+permalink: "/tag/Intrapreneur"
 ---

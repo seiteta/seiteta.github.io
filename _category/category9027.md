@@ -1,4 +1,5 @@
 ---
-tag: Vanity metrics
-permalink: "/tag/Vanity metrics"
+title: Travail
+tag: Travail
+permalink: "/tag/Travail"
 ---

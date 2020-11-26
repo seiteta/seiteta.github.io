@@ -1,4 +1,5 @@
 ---
-tag: Open data
-permalink: "/tag/Open data"
+title: Nouveauté
+tag: Nouveauté
+permalink: "/tag/Nouveauté"
 ---

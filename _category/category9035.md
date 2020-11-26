@@ -1,4 +1,5 @@
 ---
-tag: Équipes
-permalink: "/tag/Équipes"
+title: Échelle
+tag: Échelle
+permalink: "/tag/Échelle"
 ---

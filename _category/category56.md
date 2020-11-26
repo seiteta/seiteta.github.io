@@ -1,4 +1,5 @@
 ---
-tag: Intrapreneur
-permalink: "/tag/Intrapreneur"
+title: Inspiration
+tag: Inspiration
+permalink: "/tag/Inspiration"
 ---

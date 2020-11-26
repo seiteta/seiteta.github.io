@@ -1,4 +1,5 @@
 ---
-tag: Travail
-permalink: "/tag/Travail"
+title: Technologie
+tag: Technologie
+permalink: "/tag/Technologie"
 ---

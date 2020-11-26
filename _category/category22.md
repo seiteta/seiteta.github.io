@@ -1,4 +1,5 @@
 ---
-tag: Créativité
-permalink: "/tag/Créativité"
+title: Croissance
+tag: Croissance
+permalink: "/tag/Croissance"
 ---

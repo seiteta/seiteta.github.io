@@ -1,4 +1,5 @@
 ---
-tag: Réplication
-permalink: "/tag/Réplication"
+title: Responsabilité
+tag: Responsabilité
+permalink: "/tag/Responsabilité"
 ---

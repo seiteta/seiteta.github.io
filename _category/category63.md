@@ -1,4 +1,5 @@
 ---
-tag: Long terme
-permalink: "/tag/Long terme"
+title: Lean startup
+tag: Lean startup
+permalink: "/tag/Lean startup"
 ---

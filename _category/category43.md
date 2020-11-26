@@ -1,4 +1,5 @@
 ---
-tag: Horizontalité
-permalink: "/tag/Horizontalité"
+title: Génétique
+tag: Génétique
+permalink: "/tag/Génétique"
 ---

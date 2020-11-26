@@ -1,4 +1,5 @@
 ---
-tag: Motivation
-permalink: "/tag/Motivation"
+title: Minitel
+tag: Minitel
+permalink: "/tag/Minitel"
 ---

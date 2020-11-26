@@ -1,4 +1,5 @@
 ---
-tag: Mise à jour
-permalink: "/tag/Mise à jour"
+title: Lâcher-prise
+tag: Lâcher-prise
+permalink: "/tag/Lâcher-prise"
 ---

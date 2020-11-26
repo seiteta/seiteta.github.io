@@ -1,4 +1,5 @@
 ---
-tag: Service public
-permalink: "/tag/Service public"
+title: Résumé
+tag: Résumé
+permalink: "/tag/Résumé"
 ---

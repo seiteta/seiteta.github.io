@@ -1,4 +1,5 @@
 ---
-tag: Responsabilité
-permalink: "/tag/Responsabilité"
+title: Recherche
+tag: Recherche
+permalink: "/tag/Recherche"
 ---

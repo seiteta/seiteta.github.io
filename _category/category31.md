@@ -1,4 +1,5 @@
 ---
-tag: Développement
-permalink: "/tag/Développement"
+title: Documentation
+tag: Documentation
+permalink: "/tag/Documentation"
 ---

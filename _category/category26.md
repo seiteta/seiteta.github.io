@@ -1,4 +1,5 @@
 ---
-tag: Data for Good
-permalink: "/tag/Data for Good"
+title: DIY
+tag: DIY
+permalink: "/tag/DIY"
 ---

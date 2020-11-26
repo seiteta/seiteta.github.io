@@ -1,4 +1,5 @@
 ---
-tag: Communauté
-permalink: "/tag/Communauté"
+title: Client
+tag: Client
+permalink: "/tag/Client"
 ---

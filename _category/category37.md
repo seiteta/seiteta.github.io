@@ -1,4 +1,5 @@
 ---
-tag: Fonction publique
-permalink: "/tag/Fonction publique"
+title: Excellence
+tag: Excellence
+permalink: "/tag/Excellence"
 ---

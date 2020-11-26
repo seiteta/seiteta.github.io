@@ -1,4 +1,5 @@
 ---
-tag: Open source
-permalink: "/tag/Open source"
+title: Numérique
+tag: Numérique
+permalink: "/tag/Numérique"
 ---

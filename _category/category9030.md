@@ -1,4 +1,5 @@
 ---
-tag: Wabi-sabi
-permalink: "/tag/Wabi-sabi"
+title: Vanity metrics
+tag: Vanity metrics
+permalink: "/tag/Vanity metrics"
 ---

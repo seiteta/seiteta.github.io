@@ -1,4 +1,5 @@
 ---
-tag: Préincubation
-permalink: "/tag/Préincubation"
+title: Politique
+tag: Politique
+permalink: "/tag/Politique"
 ---

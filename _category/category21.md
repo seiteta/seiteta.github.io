@@ -1,4 +1,5 @@
 ---
-tag: Croyance
-permalink: "/tag/Croyance"
+title: Coûts irrécupérables
+tag: Coûts irrécupérables
+permalink: "/tag/Coûts irrécupérables"
 ---
