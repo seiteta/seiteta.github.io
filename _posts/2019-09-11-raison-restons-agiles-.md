@@ -3,7 +3,7 @@ title: "La raison pour laquelle nous restons agiles"
 description: "« Tout le monde a un plan, jusqu'à ce qu'il se prenne un poing dans la tronche » (Mike Tyson)"
 image: https://miro.medium.com/max/1400/1*h3s6E-P6teT7tmRhk90l8A.jpeg
 canonical_url: https://medium.com/fabnum/la-raison-pour-laquelle-nous-restons-agiles-510a06d4bd30
-tags: [Agile, Administration, Innovation, Hypothèse, Pivot]
+tags: [Agile, Administration, Innovation, Hypothèse, Pivot, Changement]
 ---
 
 > « Tout le monde a un plan, jusqu’à ce qu’il se prenne un poing dans la tronche » (Mike Tyson)
