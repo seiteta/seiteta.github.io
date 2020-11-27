@@ -69,7 +69,7 @@ jobs:
       uses: chabad360/htmlproofer@master
       with:
         directory: "/home/runner/work/seiteta.github.io/seiteta.github.io"
-        arguments: --external_only --url_ignore [https://lavolte.net/livres/les-furtifs-alain-damasio/, https://www.cairn.info/commun--9782707186737.htm]
+        arguments: --external_only --url_ignore [https://www.cairn.info/commun--9782707186737.htm]
 
 
   lighthouse-test:
