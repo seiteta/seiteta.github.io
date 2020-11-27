@@ -32,7 +32,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 ## Tables rondes
 
 * « La transformation des usages numériques » – table ronde (Forum Innovation Défense 2020, 11/2020)
-* « La culture d'innovation au sein de l'Etat » – table ronde (Forum de l’emploi tech de l’État 2020, 11/2020)
+* « [La culture d'innovation au sein de l'Etat](https://www.dailymotion.com/video/x7xqmsa) » – table ronde (Forum de l’emploi tech de l’État 2020, 11/2020)
 * « IA et sexisme » – table ronde (2ème journée nationale contre le sexisme, 01/2019)
 * « Monde associatif et innovations technologiques : petits changements ou grande révolution ? » – table ronde (10 ans de Solidatech, 11/2018)
 * « _How public interest entrepreneurs build impactful digital products and change public service_ » – table ronde (GovTech Summit, 11/2018)
