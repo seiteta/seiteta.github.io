@@ -5,7 +5,9 @@ import frontmatter
 class TestPosts(unittest.TestCase):
     POST_REQUIRED_KEYS = [
         "title",
-        "description"
+        "description",
+        "image",
+        "tags"
     ]
 
     def test_posts(self):
