@@ -5,7 +5,7 @@ image: https://miro.medium.com/max/1400/1*jhHz9oUU5_IGX9V7iuAOaw.jpeg
 canonical_url: https://medium.com/@seiteta/quand-sarr%C3%AAte-l-innovation-acaf119ee3d9
 blog_tags: [Innovation, Administration, Transformation, Incubateur, Parachute]
 ---
-> « La mauvaise nouvelle, c’est que vous êtes en train de tomber dans le vide, Il n’y a rien à quoi vous raccrocher, pas de parachute. La bonne nouvelle, c’est qu’il n’y a pas de sol. » (Chögyam Trungpa)
+> « La mauvaise nouvelle, c’est que vous êtes en train de tomber dans le vide, Il n’y a rien à quoi vous raccrocher, pas de parachute. La bonne nouvelle, c’est qu’il n’y a pas de sol. » (Chögyam Trungpa)
 
 Que ce soit au sein de l’[incubateur de services numériques](https://beta.gouv.fr/incubateurs/fabnumdef.html) ou dans chacune de nos startups d’État, nous ressentons souvent cette impression de tomber sans parachute.
 

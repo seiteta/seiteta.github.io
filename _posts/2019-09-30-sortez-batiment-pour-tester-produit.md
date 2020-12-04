@@ -6,7 +6,7 @@ canonical_url: https://medium.com/@seiteta/sortir-batiment-tester-produit-36666d
 tags: [Innovation, UX design, Culture, Introversion, Sortir]
 ---
 
-> « Et qu’en disent les utilisateurs ? »
+> « Et qu’en disent les utilisateurs ? »
 
 Si cette simple question était posée de manière systématique, la majorité des problèmes posés par les produits développés par les administrations seraient résolus.
 

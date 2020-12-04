@@ -15,7 +15,7 @@ tags: [Résumé, DevOps, Performance, Culture, Développement, Logiciel]
 
 Aujourd’hui, tous les secteurs ont tendance à accélérer. Cette accélération est principalement dûe au développement logiciel, qui évolue grâce à des nouvelles pratiques comme le mouvement  [DevOps](https://fr.wikipedia.org/wiki/Devops). Le DevOps est né pour répondre à cette question : comment construire des systèmes sûrs, résilients, évolutifs et distribués, à grande échelle ?
 
-Certaines organisations pratiquent ces méthodes de développement modernes mais beaucoup ne se sont pas ou peu transformées. Une telle transformation nécessite de se concentrer sur ses capacités (i.e. « _comment j'améliore mes résultats clés grâce à mes capacités ?_ ») plutôt que sur sa maturité (i.e. « _où j'en suis dans ma transformation ?_ »). Une organisation ne peut jamais se considérer comme mature : l'environnement change continuellement et livrer rapidement des logiciels fiables est une quête perpétuelle.
+Certaines organisations pratiquent ces méthodes de développement modernes mais beaucoup ne se sont pas ou peu transformées. Une telle transformation nécessite de se concentrer sur ses capacités (i.e. « _comment j'améliore mes résultats clés grâce à mes capacités ?_ ») plutôt que sur sa maturité (i.e. « _où j'en suis dans ma transformation ?_ »). Une organisation ne peut jamais se considérer comme mature : l'environnement change continuellement et livrer rapidement des logiciels fiables est une quête perpétuelle.
 
 La question qui se pose alors est : sur quelles capacités se concentrer ? À travers leurs recherches, les auteurs en ont identifié vingt-quatre, qui seront détaillées dans les chapitres suivants.
 

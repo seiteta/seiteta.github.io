@@ -6,7 +6,7 @@ canonical_url: https://medium.com/@seiteta/rester-humain-meme-au-travail-6bde846
 tags: [Culture, Humanité, Design, Travail, Administration]
 ---
 
-Le terme de _dominant design_ signifie qu’à un instant et dans une culture donnés, il existe une représentation dominante d’un concept, un standard qui s’impose de lui-même. Au mot « voiture », vous associez sans doute une carcasse métallique posées sur quatre roues en caoutchouc et du gaz qui sort du pot d’échappement. Même si les voitures ont pendant longtemps été de grosses boîtes en bois tractées par des chevaux.
+Le terme de _dominant design_ signifie qu’à un instant et dans une culture donnés, il existe une représentation dominante d’un concept, un standard qui s’impose de lui-même. Au mot « voiture », vous associez sans doute une carcasse métallique posées sur quatre roues en caoutchouc et du gaz qui sort du pot d’échappement. Même si les voitures ont pendant longtemps été de grosses boîtes en bois tractées par des chevaux.
 
 De la même manière, il existe un _dominant design_ sur la manière dont nous sommes censés nous comporter au travail. Cette culture dominante, c’est mettre de côté tout ce qui nous rend humain. Éviter les contacts physiques, cacher nos émotions, remplir des tableaux de _reporting_. Ne pas dire de gros mots, se désinfecter les mains. Bref, retirer la vie.
 

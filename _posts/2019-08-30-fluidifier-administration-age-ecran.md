@@ -6,7 +6,7 @@ canonical_url: https://medium.com/@seiteta/fluidifier-ladministration-%C3%A0-l-%
 tags: [Administration, Furtif, Logiciel, Développement, Transformation]
 ---
 
-> Dans son dernier livre intitulé « [Les furtifs](https://lavolte.net/livres/les-furtifs-alain-damasio/) », Alain Damasio fait l’éloge du mouvement et de la métamorphose permanente. Ses furtifs sont des créatures qui vivent là où personne ne regarde, qui évoluent, s’adaptent et se transforment sans cesse (c’est pas du divulgâchis, tout ça c’est dans l’incipit).
+> Dans son dernier livre intitulé « [Les furtifs](https://lavolte.net/livres/les-furtifs-alain-damasio/) », Alain Damasio fait l’éloge du mouvement et de la métamorphose permanente. Ses furtifs sont des créatures qui vivent là où personne ne regarde, qui évoluent, s’adaptent et se transforment sans cesse (c’est pas du divulgâchis, tout ça c’est dans l’incipit).
 
 L’administration semble être à l’antithèse de cette philosophie du changement permanent. Et pourtant, un de ses grands principes est la mutabilité, c’est-à-dire le fait que le service public doit s’adapter au monde qui change.
 

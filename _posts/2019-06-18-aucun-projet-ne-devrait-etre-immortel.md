@@ -10,7 +10,7 @@ En tant qu’innovateur public, vous avez forcément déjà rencontré cette sit
 
 À ce moment-là, quelqu’un vous lance :
 
-> « Pas la peine de lancer votre petit projet ! On a déjà lancé le projet [*insérez un acronyme illisible, un prénom féminin ou une référence mythologique*] qui fait tout ça, et bien plus encore ! On ne va quand même pas faire deux fois la même chose. »
+> « Pas la peine de lancer votre petit projet ! On a déjà lancé le projet [*insérez un acronyme illisible, un prénom féminin ou une référence mythologique*] qui fait tout ça, et bien plus encore ! On ne va quand même pas faire deux fois la même chose. »
 
 Cela peut paraître louable de ne pas vouloir créer de doublons. C’est une utilisation vertueuse des deniers publics, comme dirait la Cour des comptes. Sauf qu’il est plus sain d’avoir des projets en doublons, sous réserve que les projets puissent mourir aussi (voire plus) facilement qu’ils ont été lancés.
 

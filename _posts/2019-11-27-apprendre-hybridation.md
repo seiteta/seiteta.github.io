@@ -17,4 +17,4 @@ Deux pistes existent pour y arriver : la formation et l'hybridation.
 
 Dans les deux cas, tout le monde apprend. Les agents peuvent se rendre compte à travers un projet concret des avancées sur un domaine donné. Et les experts du numérique entrevoient les rouages de l'administration. Ce qui leur donne parfois envie de rester.
 
-> « J’entends et j’oublie. Je vois et je me souviens. Je fais et je comprends. » (Confucius)
+> « J’entends et j’oublie. Je vois et je me souviens. Je fais et je comprends. » (Confucius)

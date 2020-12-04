@@ -1,5 +1,5 @@
 ---
-title: "« Intérêt général » is the new sexy"
+title: "« Intérêt général » is the new sexy"
 description: "La fonction publique possède un avantage déloyal pour recruter."
 image: https://miro.medium.com/max/1200/1*YAcpemWgZry086IgqSyUow.jpeg
 canonical_url: https://medium.com/fabnum/interet-general-is-the-new-sexy-e16a04d17c6a
@@ -8,15 +8,15 @@ tags: [Transformation numérique, Recrutement, Administration, Intérêt génér
 
 Il y a quelques semaines, je postais [ce tweet](https://twitter.com/seiteta/status/1149670864012447744) pour recruter au sein de ma nouvelle équipe.
 
-Grâce à la magie d’internet (et mes magnifiques emojis), des gens aux profils incroyables ont postulé, des candidats avec une expérience, une motivation et un talent rares. En demandant en entretien la raison pour laquelle ces personnes voulaient travailler au sein de la fonction publique, toutes m’ont répondu « je souhaite avoir plus d’impact » ou « je veux faire quelque chose d’utile ». En résumé, travailler dans l’intérêt général.
+Grâce à la magie d’internet (et mes magnifiques emojis), des gens aux profils incroyables ont postulé, des candidats avec une expérience, une motivation et un talent rares. En demandant en entretien la raison pour laquelle ces personnes voulaient travailler au sein de la fonction publique, toutes m’ont répondu « je souhaite avoir plus d’impact » ou « je veux faire quelque chose d’utile ». En résumé, travailler dans l’intérêt général.
 
-Etalab vient d’ailleurs de publier les [résultats d’un sondage](https://www.etalab.gouv.fr/resultats-du-sondage-professionnels-du-numerique-vos-metiers-pour-rejoindre-le-service-public) qui demandait aux geeks ce qui pouvaient les inciter à rejoindre la fonction publique. Résultat : 84 % des répondants veulent « servir l’intérêt général » et 59 % souhaitent « donner du sens à leur travail ». Certes, avec moins de 500 réponses, l’échantillon est faible et pas forcément représentatif.
+Etalab vient d’ailleurs de publier les [résultats d’un sondage](https://www.etalab.gouv.fr/resultats-du-sondage-professionnels-du-numerique-vos-metiers-pour-rejoindre-le-service-public) qui demandait aux geeks ce qui pouvaient les inciter à rejoindre la fonction publique. Résultat : 84 % des répondants veulent « servir l’intérêt général » et 59 % souhaitent « donner du sens à leur travail ». Certes, avec moins de 500 réponses, l’échantillon est faible et pas forcément représentatif.
 
 Cependant cette tendance semble progresser parmi celles et ceux qui travaillent dans le numérique. Du fait de la croissance du secteur, ces experts deviennent plus recherchés et donc plus exigeants. Sans compter le fait que les membres de la génération Y ont maintenant entre 19 et 39 ans et sont connus pour leur quête de sens.
 
 Au sein de [Data for Good](dataforgood.fr/) par exemple, plus de 1400 personnes ont déjà proposé de travailler bénévolement sur des projets numériques au service de l’intérêt général, alors que l’association n’existe que depuis 4 ans et ne fait aucune publicité.
 
-Les startups ont bien compris ce phénomène et sont nombreuses à promettre que leur mission est de « créer un monde meilleur », comme l’a si bien parodié la série [Silicon Valley](https://www.youtube.com/watch?v=B8C5sjjhsso). Or il est parfois difficile de comprendre comment optimiser le nombre de clics sur une publicité améliore le sort de l’espèce humaine.
+Les startups ont bien compris ce phénomène et sont nombreuses à promettre que leur mission est de « créer un monde meilleur », comme l’a si bien parodié la série [Silicon Valley](https://www.youtube.com/watch?v=B8C5sjjhsso). Or il est parfois difficile de comprendre comment optimiser le nombre de clics sur une publicité améliore le sort de l’espèce humaine.
 
 Au contraire, l’objectif premier de l’État est de faire prévaloir l’intérêt général et les administrations remplissent toutes des missions de service public. Cette finalité change tout quand il s’agit de créer des produits numériques car le [but est vraiment d’apporter le meilleur service possible aux utilisateurs]({{ site.baseurl }}/2019/03/29/design-d%C3%A9tat-design-%C3%A9thique/).
 

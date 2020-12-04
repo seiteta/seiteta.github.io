@@ -22,7 +22,7 @@ En observant les volontaires les plus impliqués dans les projets, cela n’a ja
 
 Un seul critère est pertinent : l’enthousiasme, l’envie, bref, la motivation.
 
-C’est cette motivation qui fait que des volontaires qui ne se connaissent pas sont prêts à passer des soirées et des week-ends pour des projets auxquels ils croient. Dans l’organisation de Data for Good, tout est donc pensé pour que les bénévoles soient enthousiastes et le restent (NB : « pensé » est un bien grand mot ; « trouvé par tâtonnement » serait plus exact).
+C’est cette motivation qui fait que des volontaires qui ne se connaissent pas sont prêts à passer des soirées et des week-ends pour des projets auxquels ils croient. Dans l’organisation de Data for Good, tout est donc pensé pour que les bénévoles soient enthousiastes et le restent (NB : « pensé » est un bien grand mot ; « trouvé par tâtonnement » serait plus exact).
 
 Le formulaire d’inscription, par exemple, comporte treize questions et demande une vingtaine de minutes pour être complété. Nous aurions pu ne demander que l’adresse e-mail mais cette première friction agit comme un filtre : 58 % des gens ne remplissent pas le formulaire jusqu’au bout.
 

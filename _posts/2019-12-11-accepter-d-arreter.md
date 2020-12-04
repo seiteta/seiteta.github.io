@@ -17,6 +17,6 @@ Quelles implications pour l'innovation publique ?
 
 **2/ D'un point de vue culturel**, il faut rappeler encore et toujours que ce n'est pas grave. Oui il s'agit d'argent public, et nous préférerions ne pas nous être trompé. Mais n'est-il pas mieux d'avoir dépensé un peu d'argent public et appris une leçon que nous partagerons, que d'en dépenser beaucoup pour un échec cuisant que nous essaierons de camoufler ? Quel est le meilleur chemin vers le progrès ?
 
-**3/ D'un point de vue produit**, c'est la raison pour laquelle nous n'attendons pas que sorte le « super projet qui fera tout d'ici quelques années », même s'il cela crée de la redondance. Car combien de gros projets n'existent encore seulement parce que personne n'a eu le courage de les arrêter ?
+**3/ D'un point de vue produit**, c'est la raison pour laquelle nous n'attendons pas que sorte le « super projet qui fera tout d'ici quelques années », même s'il cela crée de la redondance. Car combien de gros projets n'existent encore seulement parce que personne n'a eu le courage de les arrêter ?
 
 Pour nous en sortir, la question que nous devons nous poser est la suivante : si un inconnu me donnait ce projet, gratuitement, est-ce que je l'accepterais ? Si la réponse est non, vous savez ce qu'il vous reste à faire.

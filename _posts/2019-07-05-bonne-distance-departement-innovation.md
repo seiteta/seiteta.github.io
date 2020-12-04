@@ -6,7 +6,7 @@ canonical_url: https://medium.com/@seiteta/trouver-la-bonne-distance-pour-un-d%C
 tags: [Administration, Innovation, Skin in the game, Culture, Numérique, Govtech]
 ---
 
-> « Première vitesse cosmique : vitesse minimale qu’il faut communiquer à un corps, au départ de la Terre, pour le satelliser autour d’elle en orbite basse. » (source : [Wikipedia](https://fr.wikipedia.org/wiki/Vitesse_cosmique#Premi%C3%A8re_vitesse_cosmique))
+> « Première vitesse cosmique : vitesse minimale qu’il faut communiquer à un corps, au départ de la Terre, pour le satelliser autour d’elle en orbite basse. » (source : [Wikipedia](https://fr.wikipedia.org/wiki/Vitesse_cosmique#Premi%C3%A8re_vitesse_cosmique))
 
 Selon la force avec laquelle vous lancez un objet depuis la Terre, trois choses peuvent se produire : soit il retombe sur Terre, soit il part dans l’espace indéfiniment, soit il rentre en orbite. Tout est une question de dosage.
 
@@ -22,7 +22,7 @@ Pendant des décennies, l’organisation mère a certainement établi des règle
 
 Le département d’innovation doit donc bénéficier d’une dérogation, si possible explicite et signée par les responsables, afin que ses projets soient développés dans une sorte de bac à sable qui échappe en partie à ces règles strictes. Cependant, il faut aussi prévoir un plan pour que les projets puissent être réintégrés et que les règlements se ré-appliquent, une fois les projets matures.
 
-Pour nos [startups d’État](https://beta.gouv.fr/incubateurs/fabnumdef.html), le guide « [Agilité et sécurité numérique](https://www.ssi.gouv.fr/guide/agilite-et-securite-numeriques-methode-et-outils-a-lusage-des-equipes-projet/) », co-écrit par l’ANSSI et la DINSIC, nous permet par exemple de prendre en compte la sécurité de manière plus agile. La méthode plus classique, consistant à produire des centaines de pages de documentation, est peut-être adaptée aux systèmes critiques mais pour des applications destinées au grand public, mieux vaut se concentrer sur l’acquisition d’utilisateurs, tout en ayant un plan dès le départ pour renforcer la sécurité au fur et à mesure.
+Pour nos [startups d’État](https://beta.gouv.fr/incubateurs/fabnumdef.html), le guide « [Agilité et sécurité numérique](https://www.ssi.gouv.fr/guide/agilite-et-securite-numeriques-methode-et-outils-a-lusage-des-equipes-projet/) », co-écrit par l’ANSSI et la DINSIC, nous permet par exemple de prendre en compte la sécurité de manière plus agile. La méthode plus classique, consistant à produire des centaines de pages de documentation, est peut-être adaptée aux systèmes critiques mais pour des applications destinées au grand public, mieux vaut se concentrer sur l’acquisition d’utilisateurs, tout en ayant un plan dès le départ pour renforcer la sécurité au fur et à mesure.
 
 Ces deux méthodes ne sont d’ailleurs pas incompatibles car une fois les projets suffisamment matures, nous repassons sur ce mode plus classique.
 

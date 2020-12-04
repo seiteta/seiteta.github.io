@@ -7,13 +7,13 @@ tags: [Administration, Open source, DIY, Horizontalité, Entraide]
 
 Sur les réseaux sociaux, on croise régulièrement des développeurs qui râlent à propos de logiciels *open source* qui ne marchent pas bien ou auxquels il manque des fonctionnalités.
 
-La réponse de celles et ceux qui ont créé ces briques ouvertes est souvent cinglante : « Tout cela a été créé sur notre temps libre. Déjà, dis merci. Ensuite, si cela ne te plaît pas, le code est ouvert donc répare-le toi-même ! ».
+La réponse de celles et ceux qui ont créé ces briques ouvertes est souvent cinglante : « Tout cela a été créé sur notre temps libre. Déjà, dis merci. Ensuite, si cela ne te plaît pas, le code est ouvert donc répare-le toi-même ! ».
 
 C'est également un classique des grandes organisations : toutes ces personnes qui vous disent ce que vous devriez faire et comment, sans que vous n'ayez demandé quoique ce soit.
 
 Et c'est normal dans les organisations qui fonctionnent en silo et dans lesquels chaque individu n'est responsable que d'un tout petit périmètre. Comment faire autrement que de demander aux autres de faire pour nous ?
 
-Sauf que l'époque est à l'ouverture et à l'horizontalité. Et dans ce type d'organisation, la seule réponse que nous pouvons donner quand on nous dit ce qui devrait être fait est : « Tu viens m'aider à le faire ? ».
+Sauf que l'époque est à l'ouverture et à l'horizontalité. Et dans ce type d'organisation, la seule réponse que nous pouvons donner quand on nous dit ce qui devrait être fait est : « Tu viens m'aider à le faire ? ».
 
 --
 

@@ -6,7 +6,7 @@ canonical_url: https://medium.com/fabnum/la-raison-pour-laquelle-nous-restons-ag
 tags: [Agile, Administration, Innovation, Hypothèse, Pivot, Changement]
 ---
 
-> « Tout le monde a un plan, jusqu’à ce qu’il se prenne un poing dans la tronche » (Mike Tyson)
+> « Tout le monde a un plan, jusqu’à ce qu’il se prenne un poing dans la tronche » (Mike Tyson)
 
 Considérons le monde autour de nous. Tout change sans cesse : souvent des nuages bloquent les rayons du soleil, parfois des gens naissent et d’autres meurent, régulièrement les saisons se succèdent. C’est la seule constante : tout est inconstant.
 
@@ -16,6 +16,6 @@ Jusqu’ici tout va bien. Le petit hic, c’est que dans le domaine du développ
 
 Sur notre produit [e-Chauffeur](https://beta.gouv.fr/startups/e-chauffeur.html), une application à la Uber réservée aux déplacements professionnels des militaires, la première version que nous avons développé était en PWA (en gros, une application mobile utilisable dans un navigateur sans installation préalable). Sauf que sur les PWA, la géolocalisation ne marche pas toujours bien et les notifications sont compliquées à envoyer. Nous sommes donc en train de pivoter et de créer une application native pour résoudre ces problèmes.
 
-« Oui, mais vous auriez pu prévoir cela ! » Non justement. Le fait de commencer par une PWA nous a permis de développer beaucoup plus rapidement et d’avoir une application qui est déjà dans les mains des utilisateurs depuis des mois. Nous avons donc des retours sur ce qui fonctionne et sur ce qu’il reste à améliorer. Et le plus important : ces retours proviennent du terrain, du réel, du concret. Car notre seul plan à nous, c’est de se prendre des poings dans la tronche, et de se relever.
+« Oui, mais vous auriez pu prévoir cela ! » Non justement. Le fait de commencer par une PWA nous a permis de développer beaucoup plus rapidement et d’avoir une application qui est déjà dans les mains des utilisateurs depuis des mois. Nous avons donc des retours sur ce qui fonctionne et sur ce qu’il reste à améliorer. Et le plus important : ces retours proviennent du terrain, du réel, du concret. Car notre seul plan à nous, c’est de se prendre des poings dans la tronche, et de se relever.
 
 > Article publié à l'origine sur [Medium](https://medium.com/fabnum/la-raison-pour-laquelle-nous-restons-agiles-510a06d4bd30) le 11 septembre 2019.

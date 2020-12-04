@@ -6,7 +6,7 @@ canonical_url: https://medium.com/fabnum/quelle-est-la-culture-que-nous-voulons-
 tags: [Administration, Innovation, Transformation, Culture, Génétique]
 ---
 
-Dans son livre « Sapiens », Yuval Noah Harari explique que l’atout principal de l’*Homo sapiens* n’est pas son talent à construire des outils complexes (l’*Homo neanderthalensis* y arrivait très bien lui aussi) mais plutôt sa capacité à croire en des mythes communs qui vont fédérer des groupes d’individus.
+Dans son livre « Sapiens », Yuval Noah Harari explique que l’atout principal de l’*Homo sapiens* n’est pas son talent à construire des outils complexes (l’*Homo neanderthalensis* y arrivait très bien lui aussi) mais plutôt sa capacité à croire en des mythes communs qui vont fédérer des groupes d’individus.
 
 Ce qui défini notre espèce, c’est donc finalement l’innovation sociale plus que l’innovation technique. En effet, une des caractéristiques qui nous rend uniques est que nous sommes capables de changer radicalement de culture, alors que nous gènes restent quasiment identiques.
 

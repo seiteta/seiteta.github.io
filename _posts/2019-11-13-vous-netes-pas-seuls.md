@@ -5,7 +5,7 @@ image: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-1.2
 tags: [Culture, Administration, Communauté, Ouverture, Data for Good, EIG]
 ---
 
-Hier soir avait lieu la restitution de la troisième promotion du programme « Entrepreneurs d'intérêt général » au ministère de la Transition écologique et solidaire. Au delà de la présentation des projets (incroyable ce qu'ils ont [fait en 10 mois](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html)) et d’une table-ronde sur un sujet inhabituel (le code fait-il vraiment loi ?), c'était surtout une belle occasion de se retrouver avec une partie de la communauté des innovateurs publics.
+Hier soir avait lieu la restitution de la troisième promotion du programme « Entrepreneurs d'intérêt général » au ministère de la Transition écologique et solidaire. Au delà de la présentation des projets (incroyable ce qu'ils ont [fait en 10 mois](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html)) et d’une table-ronde sur un sujet inhabituel (le code fait-il vraiment loi ?), c'était surtout une belle occasion de se retrouver avec une partie de la communauté des innovateurs publics.
 
 Ce point a été souligné comme un élément de la réussite du projet : l'esprit de promotion qu'il existe au sein des EIG. C’est également pour cela que Data for Good est une communauté qui se rencontre principalement IRL : pour faire corps.
 
@@ -13,7 +13,7 @@ Pourquoi est-il si important de se rassembler ? Parce que quand nous cherchons 
 
 Alors pendant une après-midi, pendant une soirée, il est agréable d’être avec des pairs déjà convaincus des méthodes et qui ont rencontré les mêmes difficultés que nous.
 
-La difficulté, c'est de réussir à créer ce sentiment de communauté tout en restant inclusif. Comment faire en sorte que tout le monde puisse avoir ce sentiment de faire partie du même groupe, sans générer de sentiment de « eux contre nous » ?
+La difficulté, c'est de réussir à créer ce sentiment de communauté tout en restant inclusif. Comment faire en sorte que tout le monde puisse avoir ce sentiment de faire partie du même groupe, sans générer de sentiment de « eux contre nous » ?
 
 La clef pour réussir à faire cela : rendre ces communautés ouvertes et facilement accessibles. Chez Data for Good, tout le monde est bienvenu et le [critère principal](https://f14e.fr/2019/10/31/critere-volontaire-data-for-good/) pour participer est la motivation. Dans le programme EIG, la communauté ne désigne pas seulement les geeks qui sont embauchés pour l’occasion, mais aussi les mentors des administrations qui ont souvent passé tout leur carrière dans l'administration.
 
