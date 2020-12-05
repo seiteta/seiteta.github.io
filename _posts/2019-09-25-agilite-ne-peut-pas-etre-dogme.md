@@ -7,6 +7,7 @@ tags: [Agile, Administration, Innovation, Produit, Dogmatisme, Valeur]
 ---
 
 > « Nous découvrons de meilleures approches pour faire du développement logiciel, en en faisant nous-mêmes et en aidant les autres à en faire. Grâce à ce travail nous en sommes arrivés à préférer et favoriser :
+>
 >• les individus et leurs interactions plus que les processus et les outils ;
 >• un logiciel qui fonctionne plus qu’une documentation exhaustive ;
 >• la collaboration avec les clients plus que la négociation contractuelle ;
