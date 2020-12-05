@@ -1,10 +1,9 @@
 ---
-title : ""
+title: ""
 description: ""
-image:
+image: 
 canonical_url:
 blog_tags: [, , , , ]
 ---
-
 
 > Article publié à l'origine sur [Medium](https) le XXXX.
