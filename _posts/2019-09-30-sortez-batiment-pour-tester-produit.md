@@ -24,4 +24,4 @@ Quand nous avons intégré des *designers* au sein des équipes de volontaires d
 
 Sortir du bâtiment, c’est sortir de notre zone de confort. C’est effrayant car il a de grande chance que nous nous plantions, et notre cerveau reptilien n’aime pas tellement prendre ce genre de risque. Mais rappelons à notre cerveau reptilien qu’il vaut toujours mieux se planter aujourd’hui devant une personne, plutôt que demain devant des milliers.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/sortir-batiment-tester-produit-36666d4b6d79) le 30 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/sortir-batiment-tester-produit-36666d4b6d79).

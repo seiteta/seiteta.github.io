@@ -18,4 +18,4 @@ Sur notre produit [e-Chauffeur](https://beta.gouv.fr/startups/e-chauffeur.html),
 
 « Oui, mais vous auriez pu prévoir cela ! » Non justement. Le fait de commencer par une PWA nous a permis de développer beaucoup plus rapidement et d’avoir une application qui est déjà dans les mains des utilisateurs depuis des mois. Nous avons donc des retours sur ce qui fonctionne et sur ce qu’il reste à améliorer. Et le plus important : ces retours proviennent du terrain, du réel, du concret. Car notre seul plan à nous, c’est de se prendre des poings dans la tronche, et de se relever.
 
-> Article publié à l'origine sur [Medium](https://medium.com/fabnum/la-raison-pour-laquelle-nous-restons-agiles-510a06d4bd30) le 11 septembre 2019.
+> Article publié à l'origine sur [Medium](https://medium.com/fabnum/la-raison-pour-laquelle-nous-restons-agiles-510a06d4bd30).

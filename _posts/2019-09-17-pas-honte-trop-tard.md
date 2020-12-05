@@ -18,4 +18,4 @@ Quand nous arrivons avec les premières versions de nos applications, développ�
 
 Un atelier avec les utilisateurs et une mise à jour de l’application ne sont bien sûr pas suffisants. Ce processus doit être continu tout au long de la vie du service numérique : nouvelle version, retour des utilisateurs, on rince et on recommence. Avec à chaque fois le sentiment que nous aurions pu attendre encore et mieux faire. Mais avec la certitude que le moment était parfait et que le mieux est l’ennemi du bien.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/si-vous-navez-pas-honte-c-est-sorti-trop-tard-cff89b5a91e4) le 17 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/si-vous-navez-pas-honte-c-est-sorti-trop-tard-cff89b5a91e4).

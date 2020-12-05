@@ -1,9 +1,9 @@
 ---
 title: ""
 description: ""
-image: 
+image:
 canonical_url:
 tags: [, , , , ]
 ---
 
-> Article publié à l'origine sur [Medium](https) le XXXX.
+> Article publié à l'origine sur [Medium](https).

@@ -24,4 +24,4 @@ Mais quelle est cette nouvelle culture vers laquelle nous voulons tendre, ce myt
 
 Cette culture grandit chaque jour au sein de la fonction publique, en prouvant sa valeur à travers la qualité des produits que nous livrons régulièrement. Certes, elle est encore minoritaire mais l’histoire nous a appris que les cultures humaines changent rapidement, sans que nous soyons obligés d’attendre la lente évolution naturelle.
 
-> Article publié à l'origine sur [Medium](https://medium.com/fabnum/quelle-est-la-culture-que-nous-voulons-37ec7f5942ec) le 23 septembre 2019.
+> Article publié à l'origine sur [Medium](https://medium.com/fabnum/quelle-est-la-culture-que-nous-voulons-37ec7f5942ec).

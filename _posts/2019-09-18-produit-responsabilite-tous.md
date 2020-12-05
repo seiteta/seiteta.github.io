@@ -20,4 +20,4 @@ Le produit est l’élément transverse, la raison d’être des startups d’É
 
 Comme d’habitude, l’autonomie et la responsabilisation (= _skin in the game_) plutôt que le micro-management et la sous-traitance.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/le-produit-est-la-responsabilit%C3%A9-de-tous-fa0e8ac11f7d) le 18 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/le-produit-est-la-responsabilit%C3%A9-de-tous-fa0e8ac11f7d).

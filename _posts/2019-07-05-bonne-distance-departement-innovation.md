@@ -46,4 +46,4 @@ Encore une fois, nous sommes gâtés : nos locaux sont à 10 minutes à pied de 
 
 Dans une administration, cela peut paraître futile et inadapté, surtout par rapport aux conditions de travail pas toujours évidentes d’autres agents. Seulement ce genre de dispositif envoie un signal fort pour dire qu’ici nous faisons les choses différemment. Et c’est cela le réel objectif d’un département d’innovation : créer un nouvelle culture, par l’exemple.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/trouver-la-bonne-distance-pour-un-d%C3%A9partement-dinnovation-687302abd206) le 5 juillet 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/trouver-la-bonne-distance-pour-un-d%C3%A9partement-dinnovation-687302abd206).

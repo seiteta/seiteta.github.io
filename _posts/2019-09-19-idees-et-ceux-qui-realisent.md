@@ -27,4 +27,4 @@ L’équipe de La Data en Clair reflète parfaitement la première valeur de Dat
 
 L’exécution prime toujours sur la stratégie, car à quoi bon avoir des idées si elles ne concrétisent jamais ? Cela ne veut pas dire qu’il ne faut pas avoir de plan et courir dans tous les sens, non. Mais cela signifie que les seuls qui ont la légitimité pour établir une stratégie sont ceux qui vont devoir l’appliquer ensuite. Car si les stratèges ne sont pas sur le terrain avec nous pour appliquer ce qu’ils prêchent, nous tracerons notre propre route, comme cette équipe de bénévoles de Data for Good.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/les-idees-et-ceux-qui-les-realisent-759b9520ca9f) le 19 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/les-idees-et-ceux-qui-les-realisent-759b9520ca9f).

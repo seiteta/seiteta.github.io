@@ -22,4 +22,4 @@ C’est pour ça que le modèle des [startups d’État](https://beta.gouv.fr/in
 
 Nos projets sont donc mortels, CQFD.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/aucun-projet-ne-devrait-%C3%AAtre-immortel-344777adb83e) le 18 juin 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/aucun-projet-ne-devrait-%C3%AAtre-immortel-344777adb83e).

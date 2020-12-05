@@ -18,4 +18,4 @@ Le choix de ce genre d’objectif pour les algorithmes prédictifs peut donc gé
 
 Le sujet de la pertinence du pilotage par des indicateurs mesurables est vaste et se rencontre également dans d’autres domaines comme l’administration où le débat fait rage (voir cette [discussion passionnante](https://twitter.com/GiuReboa/status/1182197819802882048)). Mais concernant l’intelligence artificielle (comme disent les marchands), centrer la discussion sur les objectifs permet de faire un pont entre la technique (quel est la fonction objectif de l’algorithme ?) et l’éthique (quel est l’objectif de la vie humaine ?). Et cela permet enfin de s’affranchir de la complexité grandissante des modèles utilisés, pour se recentrer sur une question simple : qu’est-ce que les algorithmes sont censés faire pour nous ?
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/ethique-algorithme-objectif-1d2f1d71a5eb) le 11 octobre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/ethique-algorithme-objectif-1d2f1d71a5eb).

@@ -17,4 +17,4 @@ C’est la raison pour laquelle une équipe qui innove doit être autonome, la r
 Être autonome ne veux pas dire qu’il ne faut pas rendre des comptes. Dans la fonction publique, l’argent que nous utilisons vient de la contribution de tous. Nous avons donc une obligation légale mais également morale de bien le dépenser. Mais cette bonne gestion des deniers publics passe par l’optimisation de ces procédés de test et d’apprentissage, plutôt que par un _Gosplan_. Donnez nous un objectif clair et de l’autonomie, nous nous occupons du reste.
 
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/pas-d-innovation-sans-autonomie-297bd725c998) le 26 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/pas-d-innovation-sans-autonomie-297bd725c998).

@@ -30,4 +30,4 @@ Autre exemple, lors des journées de lancement, chaque volontaire peut choisir l
 
 Dans une association où tout le monde est bénévole, quelle est la colle qui peut faire tenir toute une communauté ensemble si ce n’est la motivation ?
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/critere-volontaire-data-for-good-1b0188689262) le 31 octobre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/critere-volontaire-data-for-good-1b0188689262).

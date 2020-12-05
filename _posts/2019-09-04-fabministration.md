@@ -18,4 +18,4 @@ Développer soi-même ses applications permet en outre de commencer petit, d’e
 
 Mais pour fabriquer des logiciels en interne, il faut des gens : profiter des forces présentes en interne, former celles et ceux qui veulent apprendre, voire recruter des personnes de l’extérieur. L’appui des départements RH est donc indispensable. Heureusement, ce métier là n’est pas sous traité !
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/la-fabministration-quand-ladministration-fabrique-c2e4dba1b9b0) le 4 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/la-fabministration-quand-ladministration-fabrique-c2e4dba1b9b0).

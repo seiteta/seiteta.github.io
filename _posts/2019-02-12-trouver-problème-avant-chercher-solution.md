@@ -16,4 +16,4 @@ Ce phénomène existe aussi bien dans les startups que dans les grands groupes, 
 
 Les projets innovants qui réussissent sont ceux qui utilisent la technologie comme un moyen et pas comme une fin. Ce sont ceux qui tentent de résoudre un problème, de diminuer un irritant, d’apporter de la valeur. Ce sont ceux où des designers vont sur le terrain écouter les humains qui vont utiliser le produit. Car la technologie est un esclave utile mais un maître dangereux.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/trouver-un-probl%C3%A8me-avant-de-chercher-une-solution-d3e8e5ebf496) le 12 février 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/trouver-un-probl%C3%A8me-avant-de-chercher-une-solution-d3e8e5ebf496).

@@ -27,4 +27,4 @@ Il existe quand même un avantage à ces règlements : ils permettent à celles
 
 Ce caractère très flexible de l’agile, cette impossibilité de le normer est ce qui fait toute sa force. Car les valeurs tels que « suivi d’un plan » ou la « documentation exhaustive » ne sont pas balayées de la main, ce ne sont pas des interdits comme il peut y en avoir dans les textes religieux. Ce sont seulement des valeurs préférables par rapport à d’autres. Et reste aux humains d’utiliser leur cerveau pour savoir ce qui est préférable à un instant donné, avec discernement, intelligence et subtilité, c’est-à-dire sans dogmatisme.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/agilite-ne-peut-pas-etre-un-dogme-936805f5ff41) le 25 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/agilite-ne-peut-pas-etre-un-dogme-936805f5ff41).

@@ -24,4 +24,4 @@ Malheureusement, cette méthode a été calquée pour le développement des logi
 
 Développer un logiciel s’apparente plus à bricoler dans un bazar qu’à construire une cathédrale. Il serait donc peut-être temps de faire évoluer notre vocabulaire, afin de transformer aussi petit à petit notre culture.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/d%C3%A9velopper-un-logiciel-ce-nest-pas-construire-un-b%C3%A2timent-af42874af6af) le 20 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/d%C3%A9velopper-un-logiciel-ce-nest-pas-construire-un-b%C3%A2timent-af42874af6af).

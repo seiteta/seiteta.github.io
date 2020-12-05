@@ -22,4 +22,4 @@ Pour tous ces acteurs, soit leurs paris marchent et ils emportent les gains, soi
 
 Pour innover dans l’intérêt général, il faut avoir une mission, dans le privé ou dans le public. Il faut vouloir résoudre les problèmes des autres et surtout ne pas faire aux autres ce que nous ne voudrions pas que l’on nous fasse. Encore une fois, la symétrie.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/ce-que-la-crise-de-2008-nous-enseigne-sur-linnovation-697c96a4fcea) le 10 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/ce-que-la-crise-de-2008-nous-enseigne-sur-linnovation-697c96a4fcea).

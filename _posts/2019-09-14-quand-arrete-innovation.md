@@ -20,4 +20,4 @@ L’innovation elle-même n’a pas de fin. C’est une manière de penser, où 
 
 De notre côté, nous continuons de nous transformer sans cesse au sein de l’incubateur et des startups d’État, sans parachute certes, mais à quoi bon puisqu’il n’y a pas de sol.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/quand-sarr%C3%AAte-l-innovation-acaf119ee3d9) le 14 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/quand-sarr%C3%AAte-l-innovation-acaf119ee3d9).

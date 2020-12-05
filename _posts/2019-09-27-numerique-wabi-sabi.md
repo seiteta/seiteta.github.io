@@ -20,4 +20,4 @@ Le seul *wabi-sabi* visible à l’heure actuel, ce sont ces écrans cassés de 
 
 À quand une éclosion de l’esthétique *wabi-sabi* dans le numérique ? Est-elle seulement possible ?
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/numerique-wabi-sabi-5b9b67a8fc5c) le 27 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/numerique-wabi-sabi-5b9b67a8fc5c).

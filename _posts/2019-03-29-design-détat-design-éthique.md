@@ -22,4 +22,4 @@ Cela paraît tellement simple une fois écrit dans un article. Mais combien d’
 
 L’État a donc besoin de *designers* pour continuer à transformer sa culture interne, afin d’imaginer des services réellement centrés sur nous, les humains. Et pour les *designers*, il s’agit d’une opportunité unique de vraiment faire du design éthique. Rejoignez-nous !
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/design-d%C3%A9tat-design-%C3%A9thique-15e8c5a1b7a7) le 29 mars 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/design-d%C3%A9tat-design-%C3%A9thique-15e8c5a1b7a7).

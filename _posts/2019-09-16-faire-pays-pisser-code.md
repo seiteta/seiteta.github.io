@@ -18,4 +18,4 @@ Dans le milieu du développement logiciel, ces mêmes grandes tendances coexiste
 
 Comme d’habitude, nos cultures vivent ce phénomène d’oscillations, de cycles. Une fois le monde industrialisé et processé, tout repart dans l’autre sens en faisant de l’artisanalité, de l’unicité, du défaut, bref, de l’humanité, des vertus. Mais au cours de ces oscillations de cultures, les choses ne reviennent jamais telles qu’elles étaient à leur point de départ et tout évolue. Nous sommes sur une trajectoire hélicoïdal plutôt qu’un cercle. Et nous flânons dans ce monde toujours changeant.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/faire-un-pays-et-pisser-du-code-fc7ec913319c) le 16 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/faire-un-pays-et-pisser-du-code-fc7ec913319c).

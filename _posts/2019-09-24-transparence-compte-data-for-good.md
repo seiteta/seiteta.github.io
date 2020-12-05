@@ -18,4 +18,4 @@ Mais surtout, la meilleure fonctionnalité d’Open Collective est que toutes le
 
 Pour aller encore plus loin, cela pourrait également être le modèle de la fonction publique : une complète transparence sur la manière dont est dépensé l’argent récolté, transaction par transaction, y compris les salaires. Car l’administration n’est-elle pas finalement une association recevant des « dons » du public qui aurait réussi ?
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/la-transparence-des-comptes-de-data-for-good-60a713cae4d9) le 24 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/la-transparence-des-comptes-de-data-for-good-60a713cae4d9).

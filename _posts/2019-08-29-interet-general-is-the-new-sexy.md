@@ -30,4 +30,4 @@ La transformation numérique est en effet une guerre des talents où il est indi
 
 **3/ Impliquer les équipes finales.** Si l’équipe qui va intégrer les nouvelles recrues participe à la rédaction des offres, aux entretiens, aux négociations, les candidats vont comprendre qu’ici il n’y a pas que de la bureaucratie et des formulaires à remplir. Il y a des tripes, du cœur, de l’humain quoi. Dans une société où tout s’industrialise, sentir que nous parlons à un congénère et pas à un robot est un sentiment inimitable mais de plus en plus rare. D’où l’importance des emojis 🤗
 
-> Article publié à l'origine sur [Medium](https://medium.com/fabnum/interet-general-is-the-new-sexy-e16a04d17c6a) le 29 août 2019.
+> Article publié à l'origine sur [Medium](https://medium.com/fabnum/interet-general-is-the-new-sexy-e16a04d17c6a).

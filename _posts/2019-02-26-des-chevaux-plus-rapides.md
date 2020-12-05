@@ -14,4 +14,4 @@ Prenons l’exemple de la startup d’État « [Civils de la Défense](https://
 
 La transformation numérique est l’occasion rêvée de repenser nos manières de travailler. C’est pour cela qu’il est si fondamental de [se concentrer sur le problème]({{ site.baseurl }}/2019/02/12/trouver-probl%C3%A8me-avant-chercher-solution/) à résoudre, et pas sur la solution que nous avions en tête. C’est pour cela qu’il faut éviter les [indicateurs qui font du bien à l’ego](http://lucyinthescrum.com/novanitymetrics/) et se concentrer sur la mesure de l’impact. Car l’objectif est d’améliorer la vie des gens, pas de créer des chevaux plus rapides.
 
-> Article publié à l'origine sur [Medium](https://seiteta.medium.com/des-chevaux-plus-rapides-99b7aa686dd8) le 26 février 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/des-chevaux-plus-rapides-99b7aa686dd8).

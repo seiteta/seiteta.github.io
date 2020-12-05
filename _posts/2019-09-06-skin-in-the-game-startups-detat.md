@@ -24,4 +24,4 @@ Afin que tout cela fonctionne un maître mot : l’autonomie. Chaque équipe s�
 
 L’or et des crocodiles sont encore loin et ne sont sans doute pas nécessaires. Mais rendre les équipes autonomes et responsables de leur projet est certainement le seul moyen pour que tout le monde se sente impliqué sur le long terme et que nous arrivions à construire efficacement des projets pharaoniques.
 
-> Article publié à l'origine sur [Medium](https://medium.com/fabnum/skin-in-the-game-dans-les-startups-d%C3%A9tat-40afa6446eaf) le 6 septembre 2019.
+> Article publié à l'origine sur [Medium](https://medium.com/fabnum/skin-in-the-game-dans-les-startups-d%C3%A9tat-40afa6446eaf).
