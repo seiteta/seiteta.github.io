@@ -2,7 +2,7 @@
 title: "L’innovation cyclique"
 description: "Dans le MOOC du CNAM « Fabriquer l’innovation » tout un chapitre est consacré à la création du Minitel. Une des choses frappantes dans cette histoire est la similarité de certaines idées de l’époque avec des concepts très contemporains."
 image: https://live.staticflickr.com/7019/6813945445_13ff561fbb_k_d.jpg
-canonical_url: https://medium.com/@seiteta/innovation-cyclique-cd87a544d55f
+canonical_url: https://seiteta.medium.com/innovation-cyclique-cd87a544d55f
 tags: [Innovation, Minitel, Histoire, Design, Inspiration]
 ---
 
@@ -21,4 +21,4 @@ Sur ce kiosque, de nouveaux services apparaissent et ressemblent déjà à ceux 
 
 Évidemment, depuis le Minitel, beaucoup de choses ont évolué, de la puissance de calcul et la taille réduite des appareils, à la simplification des interfaces. Mais pour les innovateurs, il est souvent utile de regarder dans le rétroviseur : à la fois pour y puiser de l’inspiration, mais également pour prendre une bonne dose d’humilité en remarquant que beaucoup de belles choses ne nous ont pas attendu pour être inventées.
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/innovation-cyclique-cd87a544d55f) le 30 octobre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/innovation-cyclique-cd87a544d55f) le 30 octobre 2019.

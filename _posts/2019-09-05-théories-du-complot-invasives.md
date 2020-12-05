@@ -2,7 +2,7 @@
 title: "Des théories du complot invasives"
 description: "En 1859, un britannique importe des lapins en Australie pour le lol et parce qu'il aimait bien chasser. Sauf que des lapins se sont"
 image: https://miro.medium.com/max/1200/1*nMz4GEX2X52G3-T2gmCqkQ.jpeg
-canonical_url: https://medium.com/@seiteta/des-th%C3%A9ories-du-complot-invasives-c148acb96f32
+canonical_url: https://seiteta.medium.com/des-th%C3%A9ories-du-complot-invasives-c148acb96f32
 tags: [Évolution, Algorithme, Complot, Plateforme]
 ---
 
@@ -20,4 +20,4 @@ Pour essayer de résoudre le problème des lapins, les autorités ont d’abord 
 
 Réparer les écosystèmes est infiniment plus compliqué que les perturber. Espérons que cela se passe mieux concernant les algorithmes qui recommandent des théories du complot.
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/des-th%C3%A9ories-du-complot-invasives-c148acb96f32) le 5 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/des-th%C3%A9ories-du-complot-invasives-c148acb96f32) le 5 septembre 2019.

@@ -2,7 +2,7 @@
 title: "L’État plateforme : un fournisseur de services publics ouverts ?"
 description: "Alors que 9,3 milliards d’euros du Grand plan d’investissement (GPI) du gouvernement sont consacrés à la numérisation de l’administration, l’association Free Software Foundation Europe démarre une campagne intitulée « Public Money, Public Code »."
 image: https://miro.medium.com/max/1200/1*RPTj5PqxPveyMIorkZUf8g.png
-canonical_url: https://medium.com/@seiteta/l%C3%A9tat-plateforme-un-fournisseur-de-services-publics-ouverts-7d9a5f87c4ba
+canonical_url: https://seiteta.medium.com/l%C3%A9tat-plateforme-un-fournisseur-de-services-publics-ouverts-7d9a5f87c4ba
 tags: [Logiciel libre, SaaS, État plateforme, Open data, Service public]
 ---
 
@@ -28,4 +28,4 @@ Une solution est de proposer des « [logiciels en tant que service](https://fr.
 
 Ce nouveau paradigme, en plus des économies qu’il génère, a le potentiel de contribuer au rayonnement international de la France en la transformant en fournisseur de services pour les administrations à l’échelle mondiale. Dans une économie numérique basée sur l’abondance, le pouvoir n’est plus dans les mains de ceux qui possèdent le savoir, mais de ceux qui partagent leurs ressources. C’est là l’essence même de la notion d’État plateforme : construire un environnement de partage de logiciels libres et de données ouvertes au service de l’intérêt général. Y parvenir va nécessiter une volonté politique forte plus qu’un plan d’investissement, afin que les toutes les administrations deviennent comme Etalab des créatrices de services publics numériques pour les démocraties de demain.
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/l%C3%A9tat-plateforme-un-fournisseur-de-services-publics-ouverts-7d9a5f87c4ba) le 2 octobre 2017.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/l%C3%A9tat-plateforme-un-fournisseur-de-services-publics-ouverts-7d9a5f87c4ba) le 2 octobre 2017.

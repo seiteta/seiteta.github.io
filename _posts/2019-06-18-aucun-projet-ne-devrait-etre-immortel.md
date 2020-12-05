@@ -2,7 +2,7 @@
 title: "Aucun projet ne devrait être immortel"
 description: "En tant qu'innovateur public, vous avez forcément déjà rencontré cette situation : une personne a identifié un irritant au sein de votre"
 image: https://miro.medium.com/max/1200/1*NQOwtP8OKjCjSV6S0yo43g.jpeg
-canonical_url: https://medium.com/@seiteta/aucun-projet-ne-devrait-%C3%AAtre-immortel-344777adb83e
+canonical_url: https://seiteta.medium.com/aucun-projet-ne-devrait-%C3%AAtre-immortel-344777adb83e
 tags: [Govtech, Innovation, Antifragile, Évolution, Administration]
 ---
 
@@ -22,4 +22,4 @@ C’est pour ça que le modèle des [startups d’État](https://beta.gouv.fr/in
 
 Nos projets sont donc mortels, CQFD.
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/aucun-projet-ne-devrait-%C3%AAtre-immortel-344777adb83e) le 18 juin 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/aucun-projet-ne-devrait-%C3%AAtre-immortel-344777adb83e) le 18 juin 2019.

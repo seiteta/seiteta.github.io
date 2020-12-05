@@ -2,7 +2,7 @@
 title: "Fluidifier l’administration, à l’âge de l’écran"
 description: "Comment des bonnes pratiques issues du monde du développement pourraient fluidifier l'administration."
 image: https://miro.medium.com/max/1200/1*9ARq5lR-zg-uWr-lAqsY9g.jpeg
-canonical_url: https://medium.com/@seiteta/fluidifier-ladministration-%C3%A0-l-%C3%A2ge-de-l-%C3%A9cran-be71db7eb4ca
+canonical_url: https://seiteta.medium.com/fluidifier-ladministration-%C3%A0-l-%C3%A2ge-de-l-%C3%A9cran-be71db7eb4ca
 tags: [Administration, Furtif, Logiciel, Développement, Transformation]
 ---
 
@@ -22,4 +22,4 @@ Or l’administration est souvent organisée en silo plutôt qu’en module, et 
 
 Dans l’administration, il y a tellement de référentiels, de directives, d’arrêtés, de notes, qu’il est souvent impossible de savoir si nous avons bien tout pris en compte. Tout est tellement fragmenté entre différents sites, difficilement explorable et encore plus difficilement modifiable. À l’âge du papier, il était évidemment impossible d’organiser les choses autrement. Mais dans notre âge de l’écran, les référentiels documentaires pourraient être comme le code : disponibles, versionnés et modifiables simplement. Les documents seraient alors comme des furtifs : toujours en mouvement, toujours en vie.
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/fluidifier-ladministration-%C3%A0-l-%C3%A2ge-de-l-%C3%A9cran-be71db7eb4ca) le 30 août 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/fluidifier-ladministration-%C3%A0-l-%C3%A2ge-de-l-%C3%A9cran-be71db7eb4ca) le 30 août 2019.

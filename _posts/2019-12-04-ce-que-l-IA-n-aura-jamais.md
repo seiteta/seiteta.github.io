@@ -2,7 +2,7 @@
 title: "Ce que l’IA n'aura sans doute jamais"
 description: "Suite à sa défaite de 2016 face au programme AlphaGo, le champion de go Lee Sedol a récemment décidé de prendre sa retraite."
 image: https://images.unsplash.com/photo-1494386346843-e12284507169?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
-tags: [Apprentissage automatique, Intelligence artificielle, Émotion, Jeu, Prospective]
+tags: [Apprentissage automatique, Intelligence artificielle, Émotion, Jeu, Prospective, Industriel]
 ---
 
 Suite à sa défaite de 2016 face au programme AlphaGo, le champion de go Lee Sedol a récemment décidé de [prendre sa retraite](https://usbeketrica.com/article/incapable-de-vaincre-l-ia-de-google-un-champion-du-jeu-de-go-prend-sa-retraite).

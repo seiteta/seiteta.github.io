@@ -1,10 +1,11 @@
 ---
-title : "Quand s’arrête l’innovation ?"
+title: "Quand s’arrête l’innovation ?"
 description: "Que ce soit au sein de l’incubateur de services numériques ou dans chacune de nos startups d’État, nous ressentons souvent cette impression de tomber sans parachute."
 image: https://miro.medium.com/max/1400/1*jhHz9oUU5_IGX9V7iuAOaw.jpeg
-canonical_url: https://medium.com/@seiteta/quand-sarr%C3%AAte-l-innovation-acaf119ee3d9
+canonical_url: https://seiteta.medium.com/quand-sarr%C3%AAte-l-innovation-acaf119ee3d9
 blog_tags: [Innovation, Administration, Transformation, Incubateur, Parachute]
 ---
+
 > « La mauvaise nouvelle, c’est que vous êtes en train de tomber dans le vide, Il n’y a rien à quoi vous raccrocher, pas de parachute. La bonne nouvelle, c’est qu’il n’y a pas de sol. » (Chögyam Trungpa)
 
 Que ce soit au sein de l’[incubateur de services numériques](https://beta.gouv.fr/incubateurs/fabnumdef.html) ou dans chacune de nos startups d’État, nous ressentons souvent cette impression de tomber sans parachute.
@@ -19,4 +20,4 @@ L’innovation elle-même n’a pas de fin. C’est une manière de penser, où 
 
 De notre côté, nous continuons de nous transformer sans cesse au sein de l’incubateur et des startups d’État, sans parachute certes, mais à quoi bon puisqu’il n’y a pas de sol.
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/quand-sarr%C3%AAte-l-innovation-acaf119ee3d9) le 14 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/quand-sarr%C3%AAte-l-innovation-acaf119ee3d9) le 14 septembre 2019.

@@ -2,7 +2,7 @@
 title: "La fabministration : une administration qui fabrique"
 description: "Dans la fonction publique, la majeure partie du développement informatique est sous-traitée. Soit disant que ça coûte moins cher et que"
 image: https://miro.medium.com/max/1200/1*hh2GXO51kooDHDoFDHViWg.jpeg
-canonical_url: https://medium.com/@seiteta/la-fabministration-quand-ladministration-fabrique-c2e4dba1b9b0
+canonical_url: https://seiteta.medium.com/la-fabministration-quand-ladministration-fabrique-c2e4dba1b9b0
 tags: [Développement, Administration, Open source, Recrutement]
 ---
 
@@ -18,4 +18,4 @@ Développer soi-même ses applications permet en outre de commencer petit, d’e
 
 Mais pour fabriquer des logiciels en interne, il faut des gens : profiter des forces présentes en interne, former celles et ceux qui veulent apprendre, voire recruter des personnes de l’extérieur. L’appui des départements RH est donc indispensable. Heureusement, ce métier là n’est pas sous traité !
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/la-fabministration-quand-ladministration-fabrique-c2e4dba1b9b0) le 4 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/la-fabministration-quand-ladministration-fabrique-c2e4dba1b9b0) le 4 septembre 2019.

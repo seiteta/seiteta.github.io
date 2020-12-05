@@ -2,8 +2,8 @@
 title: "Trouver la bonne distance pour un département d'innovation"
 description: "La bonne distance est celle où le département d'innovation est en orbite autour de la grande organisation. Assez loin pour qu'une culture"
 image: https://miro.medium.com/max/1200/1*0YAOgQQ8VYcNX8ny7Q2a7w.jpeg
-canonical_url: https://medium.com/@seiteta/trouver-la-bonne-distance-pour-un-d%C3%A9partement-dinnovation-687302abd206
-tags: [Administration, Innovation, Skin in the game, Culture, Numérique, Govtech]
+canonical_url: https://seiteta.medium.com/trouver-la-bonne-distance-pour-un-d%C3%A9partement-dinnovation-687302abd206
+tags: [Administration, Innovation, Skin in the game, Culture, Numérique, Govtech, Industriel]
 ---
 
 > « Première vitesse cosmique : vitesse minimale qu’il faut communiquer à un corps, au départ de la Terre, pour le satelliser autour d’elle en orbite basse. » (source : [Wikipedia](https://fr.wikipedia.org/wiki/Vitesse_cosmique#Premi%C3%A8re_vitesse_cosmique))
@@ -46,4 +46,4 @@ Encore une fois, nous sommes gâtés : nos locaux sont à 10 minutes à pied de 
 
 Dans une administration, cela peut paraître futile et inadapté, surtout par rapport aux conditions de travail pas toujours évidentes d’autres agents. Seulement ce genre de dispositif envoie un signal fort pour dire qu’ici nous faisons les choses différemment. Et c’est cela le réel objectif d’un département d’innovation : créer un nouvelle culture, par l’exemple.
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/trouver-la-bonne-distance-pour-un-d%C3%A9partement-dinnovation-687302abd206) le 5 juillet 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/trouver-la-bonne-distance-pour-un-d%C3%A9partement-dinnovation-687302abd206) le 5 juillet 2019.

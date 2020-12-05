@@ -2,7 +2,7 @@
 title: "Design d’État : design éthique ?"
 description: "Toutes les entreprises tech affirment créer des produits « centrés sur les utilisateurs ». Toutefois la manière dont sont conçues certaines fonctionnalités pourrait nous en faire douter."
 image: https://miro.medium.com/max/1200/1*1FArUUMvY0Gtm9CM8lNATQ.jpeg
-canonical_url: https://medium.com/@seiteta/design-d%C3%A9tat-design-%C3%A9thique-15e8c5a1b7a7
+canonical_url: https://seiteta.medium.com/design-d%C3%A9tat-design-%C3%A9thique-15e8c5a1b7a7
 tags: [Transformation numérique, Design, Govtech, Administration]
 ---
 
@@ -22,4 +22,4 @@ Cela paraît tellement simple une fois écrit dans un article. Mais combien d’
 
 L’État a donc besoin de *designers* pour continuer à transformer sa culture interne, afin d’imaginer des services réellement centrés sur nous, les humains. Et pour les *designers*, il s’agit d’une opportunité unique de vraiment faire du design éthique. Rejoignez-nous !
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/design-d%C3%A9tat-design-%C3%A9thique-15e8c5a1b7a7) le 29 mars 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/design-d%C3%A9tat-design-%C3%A9thique-15e8c5a1b7a7) le 29 mars 2019.

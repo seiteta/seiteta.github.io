@@ -2,7 +2,7 @@
 title: "Le fond et la forme ; le papier et l’écran"
 description: "Quand un texte est imprimé sur du papier, c'est pour y rester. C'est d'ailleurs assez agréable en rouvrant un livre de notre bibliothèque"
 image: https://miro.medium.com/max/10944/1*E-5INVv_9lw32zaI33S-vQ.jpeg
-canonical_url: https://medium.com/@seiteta/fond-et-forme-papier-et-ecran-a99dece503d7
+canonical_url: https://seiteta.medium.com/fond-et-forme-papier-et-ecran-a99dece503d7
 tags: [Administration, Papier, Écran, Transformation numérique, Modification]
 ---
 
@@ -22,4 +22,4 @@ Cette dissociation entre le fond et la forme des documents est tellement puissan
 
 Ce passage du papier à l’écran est un changement de paradigme, qui nous fait passer d’[inertie]({{ site.baseurl }}/2019/02/11/inertie-administration-bug-feature/) par défaut, au mouvement par défaut. À nous maintenant de tout ré-imaginer pour utiliser au mieux les propriétés de métamorphose de l’écran.
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/fond-et-forme-papier-et-ecran-a99dece503d7) le 2 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/fond-et-forme-papier-et-ecran-a99dece503d7) le 2 septembre 2019.

@@ -2,7 +2,7 @@
 title: "Le seul critère pour être volontaire à Data for Good"
 description: "Pendant le temps où j'ai fait partie de l'équipe organisatrice de Data for Good, plus de mille volontaires se sont inscrits sur notre site…"
 image: https://images.unsplash.com/photo-1558745087-19465451e307?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2055&q=80
-canonical_url: https://medium.com/@seiteta/critere-volontaire-data-for-good-1b0188689262
+canonical_url: https://seiteta.medium.com/critere-volontaire-data-for-good-1b0188689262
 tags: [Data for Good, Motivation, Culture, Bénévole, Design]
 ---
 
@@ -30,4 +30,4 @@ Autre exemple, lors des journées de lancement, chaque volontaire peut choisir l
 
 Dans une association où tout le monde est bénévole, quelle est la colle qui peut faire tenir toute une communauté ensemble si ce n’est la motivation ?
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/critere-volontaire-data-for-good-1b0188689262) le 31 octobre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/critere-volontaire-data-for-good-1b0188689262) le 31 octobre 2019.

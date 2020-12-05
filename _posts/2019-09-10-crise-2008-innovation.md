@@ -1,8 +1,8 @@
 ---
-title : "Ce que la crise de 2008 nous enseigne sur l’innovation"
+title: "Ce que la crise de 2008 nous enseigne sur l’innovation"
 description: "La crise financière de 2008 a coûté quelques milliers de milliards de dollars et fait perdre leurs maisons à des millions de familles états-uniennes"
 image: https://miro.medium.com/max/1400/1*KY8lh0ZvcPb_L6BuqFEK8w.jpeg
-canonical_url: https://medium.com/@seiteta/ce-que-la-crise-de-2008-nous-enseigne-sur-linnovation-697c96a4fcea
+canonical_url: https://seiteta.medium.com/ce-que-la-crise-de-2008-nous-enseigne-sur-linnovation-697c96a4fcea
 blog_tags: [Crise financière, Skin in the Game, Innovation, Asymétrie, Finance]
 ---
 
@@ -22,4 +22,4 @@ Pour tous ces acteurs, soit leurs paris marchent et ils emportent les gains, soi
 
 Pour innover dans l’intérêt général, il faut avoir une mission, dans le privé ou dans le public. Il faut vouloir résoudre les problèmes des autres et surtout ne pas faire aux autres ce que nous ne voudrions pas que l’on nous fasse. Encore une fois, la symétrie.
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/ce-que-la-crise-de-2008-nous-enseigne-sur-linnovation-697c96a4fcea) le 10 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/ce-que-la-crise-de-2008-nous-enseigne-sur-linnovation-697c96a4fcea) le 10 septembre 2019.

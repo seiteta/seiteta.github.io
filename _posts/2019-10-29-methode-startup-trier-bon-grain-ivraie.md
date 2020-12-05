@@ -2,7 +2,7 @@
 title: "La méthode « startup » : trier le bon grain de l’ivraie"
 description: "Dans « startup d’État », il y a « startup » (merci Captain Obvious). Cela sème parfois la confusion et nous sommes obligés d’expliquer que ce sont seulement les méthodes des startups que nous utilisons, mais que nos produits sont fait par l’État et pour l’État (ou plutôt pour ses concitoyens)."
 image: https://miro.medium.com/max/1200/1*4Lxhox1uoASsJ90MZWcReA.jpeg
-canonical_url: https://medium.com/@seiteta/methode-startup-trier-bon-grain-ivraie-4069d3702488
+canonical_url: https://seiteta.medium.com/methode-startup-trier-bon-grain-ivraie-4069d3702488
 tags: [Startup, Innovation, Administration, Culture, Design]
 ---
 
@@ -28,4 +28,4 @@ Nous ne sommes néanmoins pas naïfs et la culture startup peut avoir des aspect
 
 Comme dans toutes choses, il y a à prendre et à laisser dans la culture et les méthodes des startups. Et qui sait, peut-être qu’un jour ce sont les startups qui s’inspireront de la culture et des méthodes des startups d’État ?
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/methode-startup-trier-bon-grain-ivraie-4069d3702488) le 29 octobre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/methode-startup-trier-bon-grain-ivraie-4069d3702488) le 29 octobre 2019.

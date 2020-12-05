@@ -2,7 +2,7 @@
 title: "Numérique et wabi-sabi"
 description: "L'histoire du wabi-sabi est liée à la cérémonie du thé japonaise et au zen. Au seizième siècle, des maîtres commencent à utiliser…"
 image: https://miro.medium.com/max/1200/1*JrKmTF9Y1Y2teXiS4cRggw.jpeg
-canonical_url: https://medium.com/@seiteta/numerique-wabi-sabi-5b9b67a8fc5c
+canonical_url: https://seiteta.medium.com/numerique-wabi-sabi-5b9b67a8fc5c
 tags: [Wabi-sabi, Esthétique, Numérique, UX design]
 ---
 
@@ -20,4 +20,4 @@ Le seul *wabi-sabi* visible à l’heure actuel, ce sont ces écrans cassés de 
 
 À quand une éclosion de l’esthétique *wabi-sabi* dans le numérique ? Est-elle seulement possible ?
 
-> Article publié à l'origine sur [Medium](https://medium.com/@seiteta/numerique-wabi-sabi-5b9b67a8fc5c) le 27 septembre 2019.
+> Article publié à l'origine sur [Medium](https://seiteta.medium.com/numerique-wabi-sabi-5b9b67a8fc5c) le 27 septembre 2019.
