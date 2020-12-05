@@ -9,8 +9,11 @@ tags: [Agile, Administration, Innovation, Produit, Dogmatisme, Valeur]
 > « Nous découvrons de meilleures approches pour faire du développement logiciel, en en faisant nous-mêmes et en aidant les autres à en faire. Grâce à ce travail nous en sommes arrivés à préférer et favoriser :
 >
 >• les individus et leurs interactions plus que les processus et les outils ;
+>
 >• un logiciel qui fonctionne plus qu’une documentation exhaustive ;
+>
 >• la collaboration avec les clients plus que la négociation contractuelle ;
+>
 >• l’adaptation au changement plus que le suivi d’un plan.
 >
 > Cela signifie que bien qu’il y ait de la valeur dans les éléments situés à droite, notre préférence se porte sur les éléments qui se trouvent sur la gauche. » (les quatre valeurs du [Manifeste agile](https://fr.wikipedia.org/wiki/Manifeste_agile))
