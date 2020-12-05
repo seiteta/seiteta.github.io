@@ -3,7 +3,7 @@ title: "Développer un logiciel, ce n’est pas construire un bâtiment"
 description: "La première fois que j’ai assisté à une réunion concernant un projet informatique dans l’administration, j’ai cru que je m’étais trompé de salle."
 image: https://miro.medium.com/max/1400/1*K9D5sSt3usWJJ1CzK2v95g.jpeg
 canonical_url: https://seiteta.medium.com/d%C3%A9velopper-un-logiciel-ce-nest-pas-construire-un-b%C3%A2timent-af42874af6af
-blog_tags: [Développement, Administration, Logiciel, Innovation, Culture]
+tags: [Développement, Administration, Logiciel, Innovation, Culture]
 ---
 
 > « Release early. Release often. […] » (Eric S. Raymond)

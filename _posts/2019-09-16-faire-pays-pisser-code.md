@@ -3,7 +3,7 @@ title: "Faire un pays et pisser du code"
 description: "Souvent mes amis me disent qu’ils ont « fait » un pays. À chaque fois que j’entends cela, je pense à ces cartes du monde où les pays sont à gratter comme des tickets de loterie."
 image: https://miro.medium.com/max/1400/1*pshcVl-dMwpNy2JwQLfsaQ.jpeg
 canonical_url: https://seiteta.medium.com/faire-un-pays-et-pisser-du-code-fc7ec913319c
-blog_tags: [Artisanat, Développement, Tourisme, Cycle]
+tags: [Artisanat, Développement, Tourisme, Cycle]
 ---
 
 > « J’ai fait l’Argentine, c’était in-croy-able ! »

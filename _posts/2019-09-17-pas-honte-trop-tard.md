@@ -3,7 +3,7 @@ title: "Si vous n’avez pas honte, c’est sorti trop tard"
 description: "Une idée popularisée dans le livre « Lean Startup » d’Eric Ries est que lors de la création de services numériques, il est indispensable de sortir les premières versions le plus tôt possible."
 image: https://miro.medium.com/max/1400/1*ZZi3CXpeF5JA0LCmNu5EoA.jpeg
 canonical_url: https://seiteta.medium.com/si-vous-navez-pas-honte-c-est-sorti-trop-tard-cff89b5a91e4
-blog_tags: [Lean startup, Innovation, Administration, UX design, PMV]
+tags: [Lean startup, Innovation, Administration, UX design, PMV]
 ---
 
 > « Real artists ship » (Steve Jobs)

@@ -3,7 +3,7 @@ title: "La transparence des comptes de Data for Good"
 description: "Aux débuts de Data for Good, l’association fonctionnait pratiquement sans argent. "
 image: https://miro.medium.com/max/1400/1*yektOWgse6Q0CEI8mYUZDw.jpeg
 canonical_url: https://seiteta.medium.com/la-transparence-des-comptes-de-data-for-good-60a713cae4d9
-blog_tags: [Association, Data for Good, Finance, Transparence, ]
+tags: [Association, Data for Good, Finance, Transparence, ]
 ---
 
 Aux débuts de Data for Good, l’association fonctionnait pratiquement sans argent. Les seules dépenses étaient l’abonnement annuel à Meetup pour gérer nos événements, la licence Strikingly pour le site et notre nom de domaine. Les salles nous étaient toujours prêtées gratuitement par des entreprises qui croyaient en notre mission (et en profitaient pour rencontrer de potentielles futures recrues 😀). C’est d’ailleurs toujours le cas.

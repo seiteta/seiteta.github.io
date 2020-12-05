@@ -2,7 +2,7 @@
 title: "De quel côté sont les algorithmes de recommandation ?"
 description: ""
 image:
-blog_tags: [Transparence, ]
+tags: [Transparence, ]
 ---
 
 Nous sommes en 2018. Je suis dans un voiture, sur le périphérique. Je vois une affiche de dix mètre pour le groupe de musique (The Blaze) et je me sens soudainement trahi. Je passe le reste du trajet à me poser cette question  : de quel côté sont les algorithmes de recommandation ?

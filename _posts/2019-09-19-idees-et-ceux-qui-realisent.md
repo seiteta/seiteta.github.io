@@ -3,7 +3,7 @@ title: "Les idées et ceux qui les réalisent"
 description: "Une histoire m’a marqué lors d’une saison d’accélération de Data for Good."
 image: https://miro.medium.com/max/1400/1*f6b-jBpAaLl4YS64k6psPg.jpeg
 canonical_url: https://seiteta.medium.com/les-idees-et-ceux-qui-les-realisent-759b9520ca9f
-blog_tags: [Data for Good, Skin in the game, Valeur, Association, Exécution]
+tags: [Data for Good, Skin in the game, Valeur, Association, Exécution]
 ---
 
 Une histoire m’a marqué lors d’une saison d’accélération de Data for Good. Pour celles et ceux qui ne connaissent pas le concept, il s’agit de proposer des projets à des volontaires qui vont plancher dessus pendant trois mois, jusqu’à la présentation de leur travail lors d’un _demo day_.
