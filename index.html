@@ -16,7 +16,7 @@ title: Blog
     <span class="post-tags">Tags :
       {% assign sortedTags = post.tags | sort%}
       {% for tag in sortedTags %}
-        <a href="/tag/{{ tag }}">{{ tag }}</a>
+        <a href="/tag/{{ tag }}">{{ tag }}</a> /
       {% endfor %}
     </span>
     {% include share-buttons.html %}
