@@ -1,5 +1,5 @@
 ---
-title: "#4 - Lucila Modebelu : J'ai vu des agents qui avaient une capacité de résilience assez extraordinaire"
+title: "#4 - Lucila Modebelu : J'ai vu des agents qui avaient une capacité de résilience assez extraordinaire"
 date: 2020-10-05
 file: hackers_publics_4_lucila_modebelu.mp3
 duration: "50:27"

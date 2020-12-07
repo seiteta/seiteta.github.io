@@ -19,7 +19,7 @@ Qu'est-ce cela implique pour nous dans le contexte de l'innovation publique ?
 
 2/ Lors de changements rapides, il y a toujours une période d'adaptation un peu chaotique car ces comportements émergents n'ont pas encore eu le temps de se former. Comment prévoir des comportements qui émergent au sein d'un groupe, parfois sans que les individus en soient conscients ?
 
-Une seule certitude : le changement prend toujours du temps.
+Une seule certitude : le changement prend toujours du temps.
 
 --
 

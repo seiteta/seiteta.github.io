@@ -1,5 +1,5 @@
 ---
-title: "La méthode « startup » : trier le bon grain de l’ivraie"
+title: "La méthode « startup » : trier le bon grain de l’ivraie"
 description: "Dans « startup d’État », il y a « startup » (merci Captain Obvious). Cela sème parfois la confusion et nous sommes obligés d’expliquer que ce sont seulement les méthodes des startups que nous utilisons, mais que nos produits sont fait par l’État et pour l’État (ou plutôt pour ses concitoyens)."
 image: https://miro.medium.com/max/1200/1*4Lxhox1uoASsJ90MZWcReA.jpeg
 canonical_url: https://seiteta.medium.com/methode-startup-trier-bon-grain-ivraie-4069d3702488
@@ -10,7 +10,7 @@ Dans « startup d’État », il y a « startup » (merci Captain Obvious). 
 
 Est-ce que cela veut dire que nous reprenons exactement le fonctionnement des startups ? Évidemment non. Nous nous efforçons de n’en garder que les meilleurs aspects, et d’en retirer les moins bons.
 
-Ce que nous avons garder :
+Ce que nous avons garder :
 
 **1/ La responsabilité et l’autonomie.** Dans une startup, il y a beaucoup plus de boulot que d’employés pour le faire. Des juniors se retrouvent ainsi lead développeur ou jonglent parfois entre trois casquettes différentes. Et de toute façon, personne n’a le temps de micro-manager parce que la levée du fond met du temps à arriver et que la trésorerie est bientôt dans le rouge. Le seul moyen pour que cela fonctionne, c’est de recruter des personnes talentueuses, de leur donner un objectif et de les laisser faire leur travail en autonomie.
 
@@ -24,7 +24,7 @@ Nous ne sommes néanmoins pas naïfs et la culture startup peut avoir des aspect
 
 **b/ Le côté boys’ club.** Dans certaines boîtes, la culture peut être assez misogyne, avec une équipe dirigeante qui ressemble parfois à un BDE d’école de commerce. De plus la culture “[bro](https://www.youtube.com/watch?v=OVoFzu-vH4o)” présente dans le milieu de la technologie peut s’avérer inhospitalière pour certaines personnes. Sans virer dans le côté *social justice warrior*, nous faisons en sorte que chacun et chacune se sente à sa place au sein de notre incubateur.
 
-**c/ Le design centré revenu.** Quand une entreprise doit choisir entre ses clients et sa rentabilité, il est très difficile de choisir les premiers au détriment du second. En même temps, il faut bien continuer à payer les salaires. Mais parfois le problème est encore plus complexe : les clients et les usagers du produit ne sont pas les mêmes. Pour toutes les startups sur le crédo de l’économie de l’attention, le client est celui qui achète l’attention alors que l’usager est celui qui la fournit. Du côté du secteur public, même si les bureaucrates veulent évidemment créer des produits qui leur facilite la vie, plutôt que celle des usagers, il est quand même possible de faire du *design* vraiment [centré sur l’utilisateur]({{ site.baseurl }}/2019/03/29/design-d%C3%A9tat-design-%C3%A9thique/).
+**c/ Le design centré revenu.** Quand une entreprise doit choisir entre ses clients et sa rentabilité, il est très difficile de choisir les premiers au détriment du second. En même temps, il faut bien continuer à payer les salaires. Mais parfois le problème est encore plus complexe : les clients et les usagers du produit ne sont pas les mêmes. Pour toutes les startups sur le crédo de l’économie de l’attention, le client est celui qui achète l’attention alors que l’usager est celui qui la fournit. Du côté du secteur public, même si les bureaucrates veulent évidemment créer des produits qui leur facilite la vie, plutôt que celle des usagers, il est quand même possible de faire du *design* vraiment [centré sur l’utilisateur]({{ site.baseurl }}/2019/03/29/design-d%C3%A9tat-design-%C3%A9thique/).
 
 Comme dans toutes choses, il y a à prendre et à laisser dans la culture et les méthodes des startups. Et qui sait, peut-être qu’un jour ce sont les startups qui s’inspireront de la culture et des méthodes des startups d’État ?
 

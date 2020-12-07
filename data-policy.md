@@ -3,7 +3,7 @@ layout: page_info
 title: Données personnelles
 ---
 
-Il existe deux moyens d'être informé de la parution des nouveaux articles :
+Il existe deux moyens d'être informé de la parution des nouveaux articles :
 
 1. M'envoyer un [courriel](mailto:blog@f14e.fr?subject=Je%20voudrais%20m%27abonner%20%C3%A0%20f14e.fr&body=Merci%20!) pour que je vous ajoute à la liste de diffusion.
 2. S'abonner au [flux RSS]({{ site.baseurl }}/flux.xml).
@@ -30,4 +30,4 @@ Parce que les formulaires de Mailjet installent des traqueurs sur le site. Or su
 
 ## Autre chose ?
 
-Quelques informations supplémentaires : je (= Frédéric Bardolle) suis le responsable de traitement, joignable par courriel à l'adresse blog@f14e.fr. Votre adresse sera conservée pendant deux ans (= j'enverrai un courriel groupé tous les deux ans pour savoir si vous êtes toujours d'accord pour recevoir mes articles). 🗓
+Quelques informations supplémentaires : je (= Frédéric Bardolle) suis le responsable de traitement, joignable par courriel à l'adresse blog@f14e.fr. Votre adresse sera conservée pendant deux ans (= j'enverrai un courriel groupé tous les deux ans pour savoir si vous êtes toujours d'accord pour recevoir mes articles). 🗓

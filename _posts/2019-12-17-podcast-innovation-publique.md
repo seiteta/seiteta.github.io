@@ -1,15 +1,15 @@
 ---
 title: "Pourquoi je lance un podcast sur l'innovation publique en 2020"
-description: "Le matériel est prêt, la première interview est calée : c'est bon, je lance à la rentrée un podcast pour aller à la rencontre de celles et ceux qui participent à la transformation de l'administration."
+description: "Le matériel est prêt, la première interview est calée : c'est bon, je lance à la rentrée un podcast pour aller à la rencontre de celles et ceux qui participent à la transformation de l'administration."
 image: https://images.unsplash.com/photo-1490476323407-63a2b2baa393?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 tags: [Podcast, Innovation, Administration, Interview, Nouveauté]
 ---
 
-Le matériel est prêt, la première interview est calée : c'est bon, je lance à la rentrée un podcast pour aller à la rencontre de celles et ceux qui innovent et participent à la transformation de l'administration.
+Le matériel est prêt, la première interview est calée : c'est bon, je lance à la rentrée un podcast pour aller à la rencontre de celles et ceux qui innovent et participent à la transformation de l'administration.
 
 Le podcast est un bon format pour parler de ce genre de sujet complexe car il permet de prendre le temps de creuser, de détailler, d'expliquer.
 
-À travers ce podcast, je vais tenter de remplir trois objectifs :
+À travers ce podcast, je vais tenter de remplir trois objectifs :
 
 **1/ Montrer que [vous n'êtes pas seul]({{ site.baseurl }}/2019/11/13/vous-netes-pas-seuls/)**. La communauté de celles et ceux qui transforme l'administration grandit sans cesse. Elle est en train d’atteindre une taille critique qui va lui permettre de résoudre de nouveaux défis. Je vais interviewer les personnes qui composent cette communauté si diverse.
 

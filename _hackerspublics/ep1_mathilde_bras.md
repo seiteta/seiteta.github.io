@@ -1,5 +1,5 @@
 ---
-title: "#1 - Mathilde Bras : Le service public, c'est pas une startup"
+title: "#1 - Mathilde Bras : Le service public, c'est pas une startup"
 date: 2020-02-12
 file: hackers_publics_1_mathilde_bras.mp3
 duration: "46:53"

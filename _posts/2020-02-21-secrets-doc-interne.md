@@ -15,7 +15,7 @@ Dans les petites structures agiles, les règles sont généralement transmises �
 
 Cependant le passage à l'échelle est compliqué. S'il est facile de partager les informations oralement à dix, les problèmes arrivent une fois que les structures comptent plusieurs centaines de personnes ou doublent de taille chaque mois. Et lorsque les règles ne sont pas écrites, comment les changer ?
 
-Il est pourtant possible de créer un système qui rassemble le meilleur des deux mondes en respectant deux impératifs :
+Il est pourtant possible de créer un système qui rassemble le meilleur des deux mondes en respectant deux impératifs :
 
 1/ Les règles doivent être **facilement accessibles**. Cela implique que la documentation soit centralisée, explorable via un moteur de recherche et une arborescence bien pensée, et surtout toujours à jour ;
 
@@ -23,4 +23,4 @@ Il est pourtant possible de créer un système qui rassemble le meilleur des deu
 
 Le *[handbook](https://about.gitlab.com/handbook/)* de l'entreprise Gitlab est une très bon exemple de documentation interne qui respecte ces principes.
 
-Accessibilité et mutabilité : voici les secrets d'un système de documentation efficace et robuste.
+Accessibilité et mutabilité : voici les secrets d'un système de documentation efficace et robuste.

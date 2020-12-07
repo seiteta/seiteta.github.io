@@ -28,7 +28,7 @@ class TestPosts(unittest.TestCase):
 
             image = post["image"]
             if not (image.startswith("/img/") or image.startswith("http")):
-                self.fail(f"L'image de `{file}` semble invalide : {post['image']}")
+                self.fail(f"L'image de `{file}` semble invalide : {post['image']}")
 
 
 class TestPodcastPosts(unittest.TestCase):

@@ -8,7 +8,7 @@ tags: [Évolution, Algorithme, Complot, Plateforme]
 
 > En 1859, un britannique importe des lapins en Australie pour le lol et parce qu’il aimait bien chasser. Sauf que des lapins se sont échappés et qu’en l’absence de prédateurs, il y en avait 600 millions sur le continent cinquante ans plus tard. Moins lol.
 
-Les lapins en Australie sont une espèce qualifiée d’invasive : ils ont été parachutés dans un environnement dans lequel ils sont en quelque sorte trop bien adaptés. L’évolution n’a pas le temps de faire son lent travail de régulation et tout un écosystème se retrouve déséquilibré.
+Les lapins en Australie sont une espèce qualifiée d’invasive : ils ont été parachutés dans un environnement dans lequel ils sont en quelque sorte trop bien adaptés. L’évolution n’a pas le temps de faire son lent travail de régulation et tout un écosystème se retrouve déséquilibré.
 
 Si les mèmes se propagent grâce aux idées comme les gènes à travers les êtres vivants, peut-être existe-il également des idées invasives ? Des concepts qui se retrouvent un jour trop bien adaptés, pas parce qu’ils ont évolué mais parce qu’un nouvel environnement est apparu brutalement, dans lequel ils n’ont aucun prédateur.
 

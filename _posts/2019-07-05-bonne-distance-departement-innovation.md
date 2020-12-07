@@ -6,9 +6,9 @@ canonical_url: https://seiteta.medium.com/trouver-la-bonne-distance-pour-un-d%C3
 tags: [Administration, Innovation, Skin in the game, Culture, Numérique, Govtech, Industriel]
 ---
 
-> « Première vitesse cosmique : vitesse minimale qu’il faut communiquer à un corps, au départ de la Terre, pour le satelliser autour d’elle en orbite basse. » (source : [Wikipedia](https://fr.wikipedia.org/wiki/Vitesse_cosmique#Premi%C3%A8re_vitesse_cosmique))
+> « Première vitesse cosmique : vitesse minimale qu’il faut communiquer à un corps, au départ de la Terre, pour le satelliser autour d’elle en orbite basse. » (source : [Wikipedia](https://fr.wikipedia.org/wiki/Vitesse_cosmique#Premi%C3%A8re_vitesse_cosmique))
 
-Selon la force avec laquelle vous lancez un objet depuis la Terre, trois choses peuvent se produire : soit il retombe sur Terre, soit il part dans l’espace indéfiniment, soit il rentre en orbite. Tout est une question de dosage.
+Selon la force avec laquelle vous lancez un objet depuis la Terre, trois choses peuvent se produire : soit il retombe sur Terre, soit il part dans l’espace indéfiniment, soit il rentre en orbite. Tout est une question de dosage.
 
 De la même manière, un département d’innovation rattaché à une grande organisation a besoin d’être situé à une distance optimale. Trop loin, il est hors-sol et ses projets ont du mal à être réintégrés une fois sortis de la phase d’incubation. Trop prêt, il est écrasé par le poids de l’organisation mère et ses projets ne peuvent pas être développés avec suffisamment de liberté et perdent donc de leur intérêt.
 
@@ -18,7 +18,7 @@ La recette idéale pour qu’un département d’innovation soit situé à la bo
 
 ## 1/ Des processus adaptés
 
-Pendant des décennies, l’organisation mère a certainement établi des règlements pour faire ce que font de mieux les grandes organisations de l’ère industrielle : optimiser leur productivité. Ces règlements qui définissent précisément comment chaque chose doit être faite risquent d’étouffer les projets d’innovation. C’est leur rôle.
+Pendant des décennies, l’organisation mère a certainement établi des règlements pour faire ce que font de mieux les grandes organisations de l’ère industrielle : optimiser leur productivité. Ces règlements qui définissent précisément comment chaque chose doit être faite risquent d’étouffer les projets d’innovation. C’est leur rôle.
 
 Le département d’innovation doit donc bénéficier d’une dérogation, si possible explicite et signée par les responsables, afin que ses projets soient développés dans une sorte de bac à sable qui échappe en partie à ces règles strictes. Cependant, il faut aussi prévoir un plan pour que les projets puissent être réintégrés et que les règlements se ré-appliquent, une fois les projets matures.
 
@@ -32,7 +32,7 @@ Concernant les ressources humaines, il est fondamental d’avoir une partie de l
 
 Tout aussi important, nous avons besoin de gens de l’intérieur qui connaissent la politique et les rouages de l’organisation, qui possèdent un réseau d’alliés bienveillant. En mélangeant tout ça, le résultat est incroyable !
 
-Les startups d’État sont basées sur ce concept : les équipes sont composées d’un intrapreneur, souvent accompagné d’un adjoint, et d’indépendants recrutés pour l’occasion, des experts de haut niveau (développeur, designer, …) qui connaissent le monde réel. L’équipe permanente de l’incubateur fait prendre cette mayonnaise, et s’implique dans la vie des projets.
+Les startups d’État sont basées sur ce concept : les équipes sont composées d’un intrapreneur, souvent accompagné d’un adjoint, et d’indépendants recrutés pour l’occasion, des experts de haut niveau (développeur, designer, …) qui connaissent le monde réel. L’équipe permanente de l’incubateur fait prendre cette mayonnaise, et s’implique dans la vie des projets.
 
 Nous évitons par contre les consultants car nous voulons que tout le monde fasse partie de la même équipe et se sente impliqué. Et cela n’est possible qu’avec des intrapreneurs ou des indépendants qui ont leur réputation en jeu #skininthegame.
 
@@ -42,8 +42,8 @@ Même si nous travaillons sur des projets numériques, en tant qu’humain nous 
 
 Il faut donc un lieu dédié, séparé physiquement de l’organisation, afin de pouvoir y bâtir une nouvelle culture. Cependant ce lieu doit être géographiquement proche, pour garder une connexion forte et pour que les échanges soient aisés.
 
-Encore une fois, nous sommes gâtés : nos locaux sont à 10 minutes à pied de notre base, nous avons du Wi-Fi rapide, du bon café et un baby-foot (signé par la ministre). Dans les startups, ce genre d’avantages sert surtout à faire rester les salariés plus longtemps le soir sans les payer plus.
+Encore une fois, nous sommes gâtés : nos locaux sont à 10 minutes à pied de notre base, nous avons du Wi-Fi rapide, du bon café et un baby-foot (signé par la ministre). Dans les startups, ce genre d’avantages sert surtout à faire rester les salariés plus longtemps le soir sans les payer plus.
 
-Dans une administration, cela peut paraître futile et inadapté, surtout par rapport aux conditions de travail pas toujours évidentes d’autres agents. Seulement ce genre de dispositif envoie un signal fort pour dire qu’ici nous faisons les choses différemment. Et c’est cela le réel objectif d’un département d’innovation : créer un nouvelle culture, par l’exemple.
+Dans une administration, cela peut paraître futile et inadapté, surtout par rapport aux conditions de travail pas toujours évidentes d’autres agents. Seulement ce genre de dispositif envoie un signal fort pour dire qu’ici nous faisons les choses différemment. Et c’est cela le réel objectif d’un département d’innovation : créer un nouvelle culture, par l’exemple.
 
 > Article publié à l'origine sur [Medium](https://seiteta.medium.com/trouver-la-bonne-distance-pour-un-d%C3%A9partement-dinnovation-687302abd206).

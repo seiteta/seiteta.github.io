@@ -3,7 +3,7 @@ layout: page_blog
 title: Interventions
 ---
 
-Je partage régulièrement mon expérience sur l'innovation publique, l'utilisation de la science des données pour le bien commun et l'éthique des algorithmes :
+Je partage régulièrement mon expérience sur l'innovation publique, l'utilisation de la science des données pour le bien commun et l'éthique des algorithmes :
 
 ## Conférences
 
@@ -34,7 +34,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 * « [La transformation des usages numériques](https://www.youtube.com/watch?v=d7T52DoqGEc) » – table ronde (Forum Innovation Défense 2020, 11/2020)
 * « [La culture d'innovation au sein de l'Etat](https://www.dailymotion.com/video/x7xqmsa) » – table ronde (Forum de l’emploi tech de l’État 2020, 11/2020)
 * « IA et sexisme » – table ronde (2ème journée nationale contre le sexisme, 01/2019)
-* « Monde associatif et innovations technologiques : petits changements ou grande révolution ? » – table ronde (10 ans de Solidatech, 11/2018)
+* « Monde associatif et innovations technologiques : petits changements ou grande révolution ? » – table ronde (10 ans de Solidatech, 11/2018)
 * « _How public interest entrepreneurs build impactful digital products and change public service_ » – table ronde (GovTech Summit, 11/2018)
 * « Éthique des algorithmes publics » – conférence innovation & numérique (ENA, 06/2018)
 * « _[The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr)_ » – table ronde (Forum de l'OCDE, 05/2018)
@@ -56,4 +56,4 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 * « [La méthode “start-up d’État”, le remède miracle ?](https://www.acteurspublics.fr/webtv/emissions/numerique-public/la-methode-start-up-detat-le-remede-miracle) » – émission « Numérique public » (Acteurs publics, 10/2019)
 * « [Quelles nouvelles méthodes pour doper l’innovation ?](https://www.acteurspublics.fr/webtv/emissions/aws-summit/debat-quelles-nouvelles-methodes-pour-doper-linnovation) » – émission « AWS summit » (Acteurs publics, 04/2019)
-* « Santé, éducation, justice, emploi : faut-il faire confiance aux algorithmes ? » – Tribunal pour les Générations Futures (Forum du CNRS, 06/2018)
+* « Santé, éducation, justice, emploi : faut-il faire confiance aux algorithmes ? » – Tribunal pour les Générations Futures (Forum du CNRS, 06/2018)

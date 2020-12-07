@@ -7,7 +7,7 @@ Bonjour, je m'appelle Frédéric Bardolle.
 
 Depuis une dizaine d'année, je fais en sorte que la technologie soit utilisée au profit de la société, plutôt que contre elle.
 
-Mes deux dadas :
+Mes deux dadas :
 
 * Innovation publique 💻🏛
 * Éthique & IA 🤔🤖

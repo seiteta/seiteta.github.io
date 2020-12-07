@@ -5,7 +5,7 @@ image: https://images.unsplash.com/photo-1596994591981-0f6ce0adef26?ixlib=rb-1.2
 tags: [Innovation, Administration, Incubateur, DevOps]
 ---
 
-Aujourd'hui, nous avons rendu deux personnes heureuses dans l'administration avec cette simple réponse : « on commence demain ! ».
+Aujourd'hui, nous avons rendu deux personnes heureuses dans l'administration avec cette simple réponse : « on commence demain ! ».
 
 Ce matin, un intrapreneur potentiel nous contacte pour nous présenter son idée. Elle remplit tous nos [critères de sélection](https://f14e.fr/2020/05/07/conditions-startup-d-etat/). Nous proposons au porteur de commencer dès demain une investigation pour aller creuser le potentiel de cette idée. Il nous avoue qu'il n'est pas habitué à ce genre de réponse. Il craignait en plus que son idée ne soit [pas assez innovante](https://f14e.fr/2019/11/19/commencer-avec-des-bouts-de-ficelle/).
 

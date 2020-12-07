@@ -7,13 +7,13 @@ tags: [Administration, Innovation, Incubateur, Design, Intrapreneur, Client]
 
 La série Mad Men tourne autour d'une agence de publicité new-yorkaise dans les années 60. Régulièrement ont lieu des scènes assez ressemblantes à ce que nous pouvons vivre de nos jours dans l'informatique. Pardon, le numérique.
 
-La scène se déroule ainsi :
+La scène se déroule ainsi :
 
 - Un des clients de l'agence arrive avec une idée préconçue sur ses propres clients, ou avec une campagne très précise en tête ;
 
 - Les Mad Men lui montre que ses aprioris ne sont pas vérifiés, soit en par une démonstration scientifique, soit en effectuant des tests sur de petits groupes (entre deux verres de whisky et une trentaine de clopes) ;
 
-- Le client sort mécontent car il voulait seulement faire valider son opinion par des pros. Ou en version _happy end_ : le directeur créatif, Don, arrive à les convaincre qu'il vaut mieux [laisser les professionnels faire leur travail]({{ site.baseurl }}/2019/11/29/cest-notre-metier/).
+- Le client sort mécontent car il voulait seulement faire valider son opinion par des pros. Ou en version _happy end_ : le directeur créatif, Don, arrive à les convaincre qu'il vaut mieux [laisser les professionnels faire leur travail]({{ site.baseurl }}/2019/11/29/cest-notre-metier/).
 
 Nous nous retrouvons parfois dans des situations similaires au sein de notre incubateur. Les porteurs de projet viennent nous voir avec leurs idées en tête. Et nous leur expliquons que notre méthode consiste notamment à discuter avec les utilisateurs finaux (aka les vrais gens).
 

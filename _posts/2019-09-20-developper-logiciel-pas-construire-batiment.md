@@ -12,7 +12,7 @@ La première fois que j’ai assisté à une réunion concernant un projet infor
 
 Pour construire un bâtiment, les architectes et les ingénieurs conçoivent des plans détaillant précisément ce qui doit être ensuite réalisé par les ouvriers. Il y a toujours des imprévus, mais globalement tout bien rodé et les bâtiments finissent par être construits, pour des siècles et des siècles.
 
-Malheureusement, cette méthode a été calquée pour le développement des logiciels, notamment dans les grandes organisations, alors qu’il existe quand même de sacrées différences entre une tour de bureau et un site web :
+Malheureusement, cette méthode a été calquée pour le développement des logiciels, notamment dans les grandes organisations, alors qu’il existe quand même de sacrées différences entre une tour de bureau et un site web :
 
 **1/ Le coût du changement**. Si quelqu’un se rend compte qu’il n’y a pas de toilettes dans les étages 12 à 25 une fois votre immeuble fini, vous avez un gros problème. À l’inverse, le coût nécessaire pour modifier une fonctionnalité d’un logiciel est plutôt faible s’il a été conçu de manière suffisamment modulaire. De plus, il est possible de commencer petit et de faire grossir le projet ensuite, alors que si le constructeur de votre maison neuve vous explique qu’il n’y a que les chambres, mais rassurez-vous, la salle de bain arrivera dans trois mois, vous avez encore une fois un gros problème.
 

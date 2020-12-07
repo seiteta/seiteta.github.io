@@ -1,5 +1,5 @@
 ---
-title: "#3 - Paul Duan : Grâce à l'intelligence artificielle, on pourrait donner plus de pouvoir et d'autonomie"
+title: "#3 - Paul Duan : Grâce à l'intelligence artificielle, on pourrait donner plus de pouvoir et d'autonomie"
 date: 2020-06-04
 file: hackers_publics_3_paul_duan.mp3
 duration: "1:05:17"

@@ -10,7 +10,7 @@ Il y a quelques semaines, je postais [ce tweet](https://twitter.com/seiteta/stat
 
 Grâce à la magie d’internet (et mes magnifiques emojis), des gens aux profils incroyables ont postulé, des candidats avec une expérience, une motivation et un talent rares. En demandant en entretien la raison pour laquelle ces personnes voulaient travailler au sein de la fonction publique, toutes m’ont répondu « je souhaite avoir plus d’impact » ou « je veux faire quelque chose d’utile ». En résumé, travailler dans l’intérêt général.
 
-Etalab vient d’ailleurs de publier les [résultats d’un sondage](https://www.etalab.gouv.fr/resultats-du-sondage-professionnels-du-numerique-vos-metiers-pour-rejoindre-le-service-public) qui demandait aux geeks ce qui pouvaient les inciter à rejoindre la fonction publique. Résultat : 84 % des répondants veulent « servir l’intérêt général » et 59 % souhaitent « donner du sens à leur travail ». Certes, avec moins de 500 réponses, l’échantillon est faible et pas forcément représentatif.
+Etalab vient d’ailleurs de publier les [résultats d’un sondage](https://www.etalab.gouv.fr/resultats-du-sondage-professionnels-du-numerique-vos-metiers-pour-rejoindre-le-service-public) qui demandait aux geeks ce qui pouvaient les inciter à rejoindre la fonction publique. Résultat : 84 % des répondants veulent « servir l’intérêt général » et 59 % souhaitent « donner du sens à leur travail ». Certes, avec moins de 500 réponses, l’échantillon est faible et pas forcément représentatif.
 
 Cependant cette tendance semble progresser parmi celles et ceux qui travaillent dans le numérique. Du fait de la croissance du secteur, ces experts deviennent plus recherchés et donc plus exigeants. Sans compter le fait que les membres de la génération Y ont maintenant entre 19 et 39 ans et sont connus pour leur quête de sens.
 
@@ -22,7 +22,7 @@ Au contraire, l’objectif premier de l’État est de faire prévaloir l’int�
 
 Au sein de la fonction publique, les équipes des ressources humaines ne s’imaginent pas l’avantage déloyal qu’elles possèdent par rapport au secteur privé.
 
-La transformation numérique est en effet une guerre des talents où il est indispensable de réussir à capter ces profils aux compétences encore rares. Voici donc quelques pistes pouvant être explorées par celles et ceux qui voudraient recruter des geeks d’intérêt général :
+La transformation numérique est en effet une guerre des talents où il est indispensable de réussir à capter ces profils aux compétences encore rares. Voici donc quelques pistes pouvant être explorées par celles et ceux qui voudraient recruter des geeks d’intérêt général :
 
 **1/ Créer une marque employeur.** Une marque employeur, c’est d’abord expliquer la mission de l’entité et définir sa raison d’être, plus qu’avoir une belle charte graphique. C’est raconter quelle est notre culture, et annoncer ce qui se fait et ce qui ne se fait pas. Quand beta.gouv.fr tweete pour recruter un développeur ou un designer, toute une communauté d’alliés partage l’information, parce qu’ils connaissent l’état d’esprit de la maison et s’y retrouvent.
 

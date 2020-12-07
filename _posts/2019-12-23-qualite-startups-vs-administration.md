@@ -1,11 +1,11 @@
 ---
-title: "Qualité : startups vs administration"
+title: "Qualité : startups vs administration"
 description: "Je viens de recevoir la carte de tiers payant de ma mutuelle en ligne. L'emballage est parfait, le design de la carte, très sympa."
 image: https://images.unsplash.com/photo-1416949929422-a1d9c8fe84af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 tags: [Qualité, Administration, Innovation, Design, Produit, Excellence]
 ---
 
-Je viens de recevoir la carte de tiers payant de ma mutuelle en ligne. L'emballage est parfait, le *design* de la carte, très sympa. En bonus : des autocollants de super qualité et l'information que je suis désormais remboursé si je m'abonne à une application de méditation.
+Je viens de recevoir la carte de tiers payant de ma mutuelle en ligne. L'emballage est parfait, le *design* de la carte, très sympa. En bonus : des autocollants de super qualité et l'information que je suis désormais remboursé si je m'abonne à une application de méditation.
 
 Pour certains, ce ne sont que des détails. Ce qui compte dans une mutuelle, c’est la manière dont elle nous rembourse, non ? Sauf qu’ici, l’attention aux détails de ma mutuelle est la même que ce soit pour les remboursements ou l’envoi d’une simple carte. Et tout est parfait.
 
@@ -17,7 +17,7 @@ Pourtant, ce n'est pas une question d'échelle. Beaucoup de procédures administ
 
 Ce n'est pas une question d'argent non plus. Le prix de la mutuelle est équivalent (voire inférieur) à celui d’autres mutuelles qui proposent des expériences client dégueulasses.
 
-Deux choses manquent aux administrations pour arriver à un tel niveau de qualité :
+Deux choses manquent aux administrations pour arriver à un tel niveau de qualité :
 
 1/ la culture *produit*, qui se concentre sur ce dont ont vraiment besoin les usagers, plutôt que ce [dont a besoin l'administration]({{ site.baseurl }}/2019/12/09/administration-ou-usagers/).
 

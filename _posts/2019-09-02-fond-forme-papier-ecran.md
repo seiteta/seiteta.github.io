@@ -14,7 +14,7 @@ Les écrans sont faits pour le mouvement, avec leurs pixels qui changent de coul
 
 Dans le monde du papier, le fond et la forme ne font qu’un. Quand nous écrivons sur une feuille, nous choisissons simultanément nos mots, mais aussi la manière dont ils s’agencent dans l’espace. La forme des lettres, l’espacement entre les mots ou la largeur des marges découlent de nos choix (souvent implicites).
 
-Dans le monde de l’écran, le fond peut être complètement séparé de la forme. Même si cela n’est pas forcément visible pour ceux qui n’utilisent que des logiciels de traitement de texte, les développeurs eux sont habitués à écrire le code de cette manière. En langage HTML par exemple, des balises permettent de signaler le rôle d’un élément, comme l’importance d’un mot :
+Dans le monde de l’écran, le fond peut être complètement séparé de la forme. Même si cela n’est pas forcément visible pour ceux qui n’utilisent que des logiciels de traitement de texte, les développeurs eux sont habitués à écrire le code de cette manière. En langage HTML par exemple, des balises permettent de signaler le rôle d’un élément, comme l’importance d’un mot :
 
 `Le dernier mot de cette phrase est en <strong>important</strong>.`
 
