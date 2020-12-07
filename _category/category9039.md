@@ -1,5 +1,5 @@
 ---
-title: Équipes
-tag: Équipes
-permalink: "/tag/Équipes"
+title: Transparence
+tag: Transparence
+permalink: "/tag/Transparence"
 ---
