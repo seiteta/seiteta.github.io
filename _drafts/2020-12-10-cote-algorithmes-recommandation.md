@@ -1,7 +1,7 @@
 ---
 title: "De quel côté sont les algorithmes de recommandation ?"
 description: ""
-image: https://miro.medium.com/max/1200/1*RPTj5PqxPveyMIorkZUf8g.png
+image:
 tags: [Transparence, Objectif, Algorithme, Recommandation, Apprentissage automatique, Publicité, Attention]
 ---
 
