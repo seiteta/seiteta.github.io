@@ -1,7 +1,7 @@
 ---
 title: "Le produit est la responsabilité de tous"
 description: "Dans les organisations industrielles, chaque travailleur a une série de tâches assignées qu’il doit réaliser d’une certaine manière. Certaines de ces tâches nécessitent d’être spécialiste d’un domaine et sont donc réservées à un groupe restreint."
-image: https://miro.medium.com/max/1400/1*E3qOVitMUmND1rADmS7bOQ.jpeg
+image: https://miro.medium.com/max/1200/1*E3qOVitMUmND1rADmS7bOQ.jpeg
 canonical_url: https://seiteta.medium.com/le-produit-est-la-responsabilit%C3%A9-de-tous-fa0e8ac11f7d
 tags: [Skin in the game, Produit, Équipe, Autonomie, Industriel]
 ---

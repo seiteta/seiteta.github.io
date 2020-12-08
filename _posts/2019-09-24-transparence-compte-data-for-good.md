@@ -1,7 +1,7 @@
 ---
 title: "La transparence des comptes de Data for Good"
 description: "Aux débuts de Data for Good, l’association fonctionnait pratiquement sans argent. "
-image: https://miro.medium.com/max/1400/1*yektOWgse6Q0CEI8mYUZDw.jpeg
+image: https://miro.medium.com/max/1200/1*yektOWgse6Q0CEI8mYUZDw.jpeg
 canonical_url: https://seiteta.medium.com/la-transparence-des-comptes-de-data-for-good-60a713cae4d9
 tags: [Association, Data for Good, Finance, Transparence, ]
 ---

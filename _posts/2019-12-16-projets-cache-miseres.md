@@ -1,7 +1,7 @@
 ---
 title: "Les projets cache-misères"
 description: "Dans mon ancien appartement, tout le couloir était recouvert de lambris. Quelle est la fonction principale du lambris ? Cacher la misère. Plutôt que de traiter les problèmes d'infiltration et de refaire les murs, ceux qui ont fait les travaux ont préféré tout camoufler."
-image: https://images.unsplash.com/photo-1554662995-18d14337667f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80
+image: https://images.unsplash.com/photo-1554662995-18d14337667f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 tags: [Innovation, Administration, Bricolage, Long terme, Équipe]
 ---
 

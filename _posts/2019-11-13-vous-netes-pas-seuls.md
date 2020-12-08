@@ -1,7 +1,7 @@
 ---
 title: "Vous n'êtes pas seuls"
 description: "La clef pour réussir à faire cela : rendre ces communautés ouvertes et facilement accessibles."
-image: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+image: https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 tags: [Culture, Administration, Communauté, Ouverture, Data for Good, EIG]
 ---
 

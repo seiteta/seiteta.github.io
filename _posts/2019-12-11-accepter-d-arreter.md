@@ -1,7 +1,7 @@
 ---
 title: "Accepter d'arrêter"
 description: "Vous travaillez sur un projet depuis un an. C'est un peu votre bébé. Vous avez dépensé des milliers d'euros et passé des centaines d'heures en réunion pour le lancer. Le projet sort. Personne ne l'utilise."
-image: https://images.unsplash.com/photo-1444492218290-5cda447475cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80
+image: https://images.unsplash.com/photo-1444492218290-5cda447475cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 tags: [Innovation, Administration, Coûts irrécupérables, Culture, Produit]
 ---
 

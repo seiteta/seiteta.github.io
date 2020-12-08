@@ -1,7 +1,7 @@
 ---
 title: "Rester humain, même au travail"
 description: "Le terme de dominant design signifie qu'à un instant et dans une culture donnés, il existe une représentation dominante d'un concept, un standard qui s’impose de lui-même"
-image: https://miro.medium.com/max/8064/1*6Yb8zEsYjNHwSuBracO5Hg.jpeg
+image: https://miro.medium.com/max/1200/1*6Yb8zEsYjNHwSuBracO5Hg.jpeg
 canonical_url: https://seiteta.medium.com/rester-humain-meme-au-travail-6bde84690659
 tags: [Culture, Humanité, Design, Travail, Administration]
 ---

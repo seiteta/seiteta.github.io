@@ -1,7 +1,7 @@
 ---
 title: "L’agilité ne peut pas être un dogme"
 description: "Une question que je me pose souvent, c’est si celles et ceux qui vendent de l’agile à de grandes organisations, et celles et ceux qui achètent de l’agile dans ces mêmes grandes organisations, ont déjà lu ne serait-ce que les quatre valeurs du Manifeste agile."
-image: https://miro.medium.com/max/1400/1*Shg7Gp0BaZ93BmQhkA_Fyg.jpeg
+image: https://miro.medium.com/max/1200/1*Shg7Gp0BaZ93BmQhkA_Fyg.jpeg
 canonical_url: https://seiteta.medium.com/agilite-ne-peut-pas-etre-un-dogme-936805f5ff41
 tags: [Agile, Administration, Innovation, Produit, Dogmatisme, Valeur]
 ---

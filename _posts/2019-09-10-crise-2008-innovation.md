@@ -1,7 +1,7 @@
 ---
 title: "Ce que la crise de 2008 nous enseigne sur l’innovation"
 description: "La crise financière de 2008 a coûté quelques milliers de milliards de dollars et fait perdre leurs maisons à des millions de familles états-uniennes"
-image: https://miro.medium.com/max/1400/1*KY8lh0ZvcPb_L6BuqFEK8w.jpeg
+image: https://miro.medium.com/max/1200/1*KY8lh0ZvcPb_L6BuqFEK8w.jpeg
 canonical_url: https://seiteta.medium.com/ce-que-la-crise-de-2008-nous-enseigne-sur-linnovation-697c96a4fcea
 tags: [Crise financière, Skin in the game, Innovation, Asymétrie, Finance]
 ---

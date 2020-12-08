@@ -1,7 +1,7 @@
 ---
 title: "Les idées et ceux qui les réalisent"
 description: "Une histoire m’a marqué lors d’une saison d’accélération de Data for Good."
-image: https://miro.medium.com/max/1400/1*f6b-jBpAaLl4YS64k6psPg.jpeg
+image: https://miro.medium.com/max/1200/1*f6b-jBpAaLl4YS64k6psPg.jpeg
 canonical_url: https://seiteta.medium.com/les-idees-et-ceux-qui-les-realisent-759b9520ca9f
 tags: [Data for Good, Skin in the game, Valeur, Association, Exécution]
 ---

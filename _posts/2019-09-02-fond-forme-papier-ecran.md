@@ -1,7 +1,7 @@
 ---
 title: "Le fond et la forme ; le papier et l’écran"
 description: "Quand un texte est imprimé sur du papier, c'est pour y rester. C'est d'ailleurs assez agréable en rouvrant un livre de notre bibliothèque"
-image: https://miro.medium.com/max/10944/1*E-5INVv_9lw32zaI33S-vQ.jpeg
+image: https://miro.medium.com/max/1200/1*E-5INVv_9lw32zaI33S-vQ.jpeg
 canonical_url: https://seiteta.medium.com/fond-et-forme-papier-et-ecran-a99dece503d7
 tags: [Administration, Papier, Écran, Transformation numérique, Modification]
 ---

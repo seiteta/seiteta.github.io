@@ -1,7 +1,7 @@
 ---
 title: "Pas à armes égales"
 description: "Vous cliquez sur le lien pour regarder cette vidéo dont le titre vous interpelle. Vous regardez la vidéo et un algorithme commence à vous proposer d'autres vidéos. Vous en sélectionnez une, puis une autre et vous finissez deux heures plus tard à vous demander ce qu'il vient de se passer."
-image: https://images.unsplash.com/photo-1546704864-07235973413d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
+image: https://images.unsplash.com/photo-1546704864-07235973413d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
 tags: [Algorithme, Apprentissage automatique, Recommandation, Machine]
 ---
 
