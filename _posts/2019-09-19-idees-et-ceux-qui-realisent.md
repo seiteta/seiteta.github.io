@@ -25,6 +25,6 @@ En résumé : une équipe de volontaires, au sein de laquelle personne ne se co
 
 L’équipe de La Data en Clair reflète parfaitement la première valeur de Data for Good : être des faiseurs, plutôt que des parleurs. Au lieu de dire aux autres ce qu’il faudrait faire, nous retroussons nos manches et nous mettons la main à la pâte !
 
-L’exécution prime toujours sur la stratégie, car à quoi bon avoir des idées si elles ne concrétisent jamais ? Cela ne veut pas dire qu’il ne faut pas avoir de plan et courir dans tous les sens, non. Mais cela signifie que les seuls qui ont la légitimité pour établir une stratégie sont ceux qui vont devoir l’appliquer ensuite. Car si les stratèges ne sont pas sur le terrain avec nous pour appliquer ce qu’ils prêchent, nous tracerons notre propre route, comme cette équipe de bénévoles de Data for Good.
+L’exécution prime toujours sur la stratégie, car à quoi bon avoir des idées si elles ne concrétisent jamais ? Cela ne veut pas dire qu’il ne faut pas avoir de plan et courir dans tous les sens, non. Mais cela signifie que les seuls qui ont la légitimité pour établir une stratégie sont ceux qui vont devoir l’appliquer ensuite. Car si les stratèges ne sont pas sur le terrain avec nous pour appliquer ce qu’ils prêchent, nous tracerons notre propre route, comme cette équipe de bénévoles de Data for Good.
 
 > Article publié à l'origine sur [Medium](https://seiteta.medium.com/les-idees-et-ceux-qui-les-realisent-759b9520ca9f).

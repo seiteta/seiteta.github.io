@@ -13,11 +13,11 @@ tags: [Résumé, DevOps, Performance, Culture, Développement, Logiciel]
 
 ## Chapitre 1 - accélérer
 
-Aujourd’hui, tous les secteurs ont tendance à accélérer. Cette accélération est principalement dûe au développement logiciel, qui évolue grâce à des nouvelles pratiques comme le mouvement  [DevOps](https://fr.wikipedia.org/wiki/Devops). Le DevOps est né pour répondre à cette question : comment construire des systèmes sûrs, résilients, évolutifs et distribués, à grande échelle ?
+Aujourd’hui, tous les secteurs ont tendance à accélérer. Cette accélération est principalement dûe au développement logiciel, qui évolue grâce à des nouvelles pratiques comme le mouvement  [DevOps](https://fr.wikipedia.org/wiki/Devops). Le DevOps est né pour répondre à cette question : comment construire des systèmes sûrs, résilients, évolutifs et distribués, à grande échelle ?
 
-Certaines organisations pratiquent ces méthodes de développement modernes mais beaucoup ne se sont pas ou peu transformées. Une telle transformation nécessite de se concentrer sur ses capacités (i.e. « _comment j'améliore mes résultats clés grâce à mes capacités ?_ ») plutôt que sur sa maturité (i.e. « _où j'en suis dans ma transformation ?_ »). Une organisation ne peut jamais se considérer comme mature : l'environnement change continuellement et livrer rapidement des logiciels fiables est une quête perpétuelle.
+Certaines organisations pratiquent ces méthodes de développement modernes mais beaucoup ne se sont pas ou peu transformées. Une telle transformation nécessite de se concentrer sur ses capacités (i.e. « _comment j'améliore mes résultats clés grâce à mes capacités ?_ ») plutôt que sur sa maturité (i.e. « _où j'en suis dans ma transformation ?_ »). Une organisation ne peut jamais se considérer comme mature : l'environnement change continuellement et livrer rapidement des logiciels fiables est une quête perpétuelle.
 
-La question qui se pose alors est : sur quelles capacités se concentrer ? À travers leurs recherches, les auteurs en ont identifié vingt-quatre, qui seront détaillées dans les chapitres suivants.
+La question qui se pose alors est : sur quelles capacités se concentrer ? À travers leurs recherches, les auteurs en ont identifié vingt-quatre, qui seront détaillées dans les chapitres suivants.
 
 
 ## Chapitre 2 - mesurer la performance
@@ -37,7 +37,7 @@ Un point intéressant : les organisations qui sont performantes sont bonnes sur
 
 La performance en livraison logicielle est très importante car elle prédit (au sens statistique) la performance commerciale des entreprises et de la performance non-commercial des autres organisations.
 
-Comment faire alors pour améliorer la performance en livraison logicielle ? Certes, il faut des outils adaptés, mais il est d’abord indispensable d'avoir la bonne culture organisationnelle.
+Comment faire alors pour améliorer la performance en livraison logicielle ? Certes, il faut des outils adaptés, mais il est d’abord indispensable d'avoir la bonne culture organisationnelle.
 
 
 ## Chapitre 3 - mesurer et changer la culture

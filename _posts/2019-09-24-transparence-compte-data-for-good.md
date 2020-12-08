@@ -16,6 +16,6 @@ L’année dernière nous avons changé de modèle : nous utilisons maintenant 
 
 Mais surtout, la meilleure fonctionnalité d’Open Collective est que toutes les transactions sont transparentes. N’importe qui peut savoir d’où vient l’argent et comment il est dépensé. Ce modèle devrait être la norme pour toutes les associations recevant des dons du public : une complète transparence sur la manière dont est dépensé l’argent récolté, transaction par transaction, y compris les salaires.
 
-Pour aller encore plus loin, cela pourrait également être le modèle de la fonction publique : une complète transparence sur la manière dont est dépensé l’argent récolté, transaction par transaction, y compris les salaires. Car l’administration n’est-elle pas finalement une association recevant des « dons » du public qui aurait réussi ?
+Pour aller encore plus loin, cela pourrait également être le modèle de la fonction publique : une complète transparence sur la manière dont est dépensé l’argent récolté, transaction par transaction, y compris les salaires. Car l’administration n’est-elle pas finalement une association recevant des « dons » du public qui aurait réussi ?
 
 > Article publié à l'origine sur [Medium](https://seiteta.medium.com/la-transparence-des-comptes-de-data-for-good-60a713cae4d9).

@@ -24,7 +24,7 @@ La phrase « les individus et leurs interactions plus que les processus et les 
 
 Si nous voulons vraiment favoriser les individus et leurs interactions, il faut passer du temps avec les équipes, à essayer de comprendre ce qui ne fonctionne pas, et surtout proposer des solutions sur-mesure plutôt que sous copyright. Ce n’est pas aux organisations de s’adapter à la méthode, c’est aux méthodes de s’adapter à l’organisation (même si cela ne veut pas dire qu’il n’y a rien à transformer dans le fonctionnement de ces organisations).
 
-De même, le fait de préférer « l’adaptation au changement plus que le suivi d’un plan » ne me semble pas spécialement ambiguë. Pourquoi existe-il alors des règlements expliquant quelle est la bonne manière de mener de projets en mode agile ? L’agilité est par essence orthogonale à l’orthodoxie.
+De même, le fait de préférer « l’adaptation au changement plus que le suivi d’un plan » ne me semble pas spécialement ambiguë. Pourquoi existe-il alors des règlements expliquant quelle est la bonne manière de mener de projets en mode agile ? L’agilité est par essence orthogonale à l’orthodoxie.
 
 Il existe quand même un avantage à ces règlements : ils permettent à celles et ceux qui voudraient utiliser les concepts de l’agile de manière non dogmatique d’avoir un document qui les protège et justifie leurs pratiques.
 

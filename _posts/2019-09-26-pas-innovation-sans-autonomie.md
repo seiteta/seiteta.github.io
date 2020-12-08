@@ -6,7 +6,7 @@ canonical_url: https://seiteta.medium.com/pas-d-innovation-sans-autonomie-297bd7
 tags: [Innovation, Administration, Autonomie, Évolution, Antifragile]
 ---
 
-Il y a quelques années, je postulais pour un poste dans le secteur public au sein d’une équipe qui souhaitait créer un département innovant sur un nouveau sujet. Les entretiens se passent bien jusqu’à ce que le chef de mon futur chef hypothétique me dise « il va falloir être innovant, mais pour chaque sujet, tu vas devoir me convaincre, puis convaincre mon chef, et le chef de mon chef… ». Limite c’est le Premier ministre qui doit valider mes congés en fait… Comment innover dans ce genre de contexte ?
+Il y a quelques années, je postulais pour un poste dans le secteur public au sein d’une équipe qui souhaitait créer un département innovant sur un nouveau sujet. Les entretiens se passent bien jusqu’à ce que le chef de mon futur chef hypothétique me dise « il va falloir être innovant, mais pour chaque sujet, tu vas devoir me convaincre, puis convaincre mon chef, et le chef de mon chef… ». Limite c’est le Premier ministre qui doit valider mes congés en fait… Comment innover dans ce genre de contexte ?
 
 Imaginons que l’évolution fonctionne de la même manière. Le seul moyen d’évoluer serait qu’un brin d’ADN convainque toute sa hiérarchie qu’il a trouvé le plan parfait et qu’une fois ce plan exécuté, c’est sûr, il va pouvoir se dupliquer très facilement. Les espèces seraient assez mal barrées et se ferait décimées à chaque micro-changement d’environnement.
 
