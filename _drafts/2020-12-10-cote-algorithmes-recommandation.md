@@ -5,11 +5,11 @@ image: https://images.unsplash.com/photo-1520291324294-f9a6d72d0774?ixid=MXwxMjA
 tags: [Transparence, Objectif, Algorithme, Recommandation, Apprentissage automatique, Publicité, Attention]
 ---
 
-Nous sommes en 2018, à Paris. Je suis dans une voiture, sur le périphérique. Je vois une publicité de dix mètres pour la sortie du nouvel album d'un groupe de musique (The Blaze). Je me sens soudain trahi. Je passe le reste du trajet à me poser cette question  : de quel côté sont les algorithmes de recommandation ?
+Nous sommes en 2018, à Paris. Je suis dans une voiture, sur le périphérique. Je vois une publicité de dix mètres pour la sortie du nouvel album d'un groupe de musique (The Blaze). Soudain, je me sens soudain et je passe le reste du trajet à me poser cette question  : de quel côté sont les algorithmes de recommandation ?
 
 Petit retour en arrière. Depuis plusieurs années, j’écoute de la musique sur Spotify. Ma fonctionnalité préférée : « Découvertes de la semaine ». Chaque semaine, un algorithme de recommandation me suggère de nouvelles chansons, en fonction de ce que j’écoute habituellement. Je me sens spécial. Je me sens compris. J'ai un algorithme qui sélectionne rien que pour moi des titres qui pourraient me plaire.
 
-Depuis quelques semaines, un nouveau groupe a fait son apparition dans cette sélection : The Blaze. J’aime bien. C’est original. Ce n’est pas très connu. J’ai l’impression que l’algorithme de recommandation m’a fait découvrir une pépite qui était bien cachée.
+Il y a quelques semaines, un nouveau groupe a fait son apparition dans cette sélection : The Blaze. J’aime bien. C’est original. Ce n’est pas très connu. J’ai l’impression que l’algorithme de recommandation m’a fait découvrir une pépite qui était bien cachée.
 
 Voilà pourquoi l'apparition de cette publicité géante sur le périphérique est une claque pour moi. Parce qu'elle me fait me poser la question suivante : est-ce que l’algorithme de Spotify m’a recommandé cette musique parce qu’elle pouvait me plaire, ou bien parce que quelqu’un a payé pour cela ? Peut-être est-ce même un mélange des deux. Je viens de me rendre compte que je ne connais finalement rien de l’objectif de l’algorithme.
 
