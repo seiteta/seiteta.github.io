@@ -2,7 +2,7 @@
 title: "On commence demain"
 description: "Aujourd'hui, nous avons rendu deux personnes heureuses dans l'administration avec cette simple réponse : « on commence demain ! »."
 image: https://images.unsplash.com/photo-1596994591981-0f6ce0adef26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
-tags: [Innovation, Administration, Incubateur, DevOps]
+tags: [Innovation, Administration, Incubateur, DevOps, Incertitude]
 ---
 
 Aujourd'hui, nous avons rendu deux personnes heureuses dans l'administration avec cette simple réponse : « on commence demain ! ».

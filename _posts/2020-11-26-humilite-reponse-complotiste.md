@@ -2,7 +2,7 @@
 title: "L'humilité comme réponse au complotisme"
 description: "Au lieu d'évoquer les algorithmes de recommandation et leur penchant pour le sensationnalisme, David estime que la responsabilité incombe au manque de nuance des discours politiques."
 image: https://images.unsplash.com/photo-1523556997878-a6c9fbce3cc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80
-tags: [Complot, Confiance, Humilité, Évolution, Changement, Zen, Authenticité, Politique]
+tags: [Complot, Confiance, Humilité, Évolution, Changement, Zen, Authenticité, Politique, Incertitude]
 ---
 
 > En occultant systématiquement le doute, en cachant la nuance, en déclarant catégoriquement que ceci est vrai, on crée la théorie du complot par réaction naturelle: tôt ou tard le doute ou l'erreur réapparaîtront, et les complotistes auront leurs «preuves» d'un mensonge. •8/51
