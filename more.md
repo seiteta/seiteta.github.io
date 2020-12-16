@@ -56,4 +56,5 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 * « [La méthode “start-up d’État”, le remède miracle ?](https://www.acteurspublics.fr/webtv/emissions/numerique-public/la-methode-start-up-detat-le-remede-miracle) » – émission « Numérique public » (Acteurs publics, 10/2019)
 * « [Quelles nouvelles méthodes pour doper l’innovation ?](https://www.acteurspublics.fr/webtv/emissions/aws-summit/debat-quelles-nouvelles-methodes-pour-doper-linnovation) » – émission « AWS summit » (Acteurs publics, 04/2019)
+* « [“Le programme des entrepreneurs d'intérêt général m'a donné envie de rester dans le public”](https://www.acteurspublics.fr/webtv/emissions/sommet-des-govtech/le-programme-des-entrepreneurs-dinteret-general-ma-donne-envie-de-rester-dans-le-public) » – interview lors du Sommet des GovTech 2018 (Acteurs publics, 11/2018)
 * « Santé, éducation, justice, emploi : faut-il faire confiance aux algorithmes ? » – Tribunal pour les Générations Futures (Forum du CNRS, 06/2018)
