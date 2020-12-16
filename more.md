@@ -7,7 +7,7 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 ## Conférences
 
-* « _Open data and public code: a field report from the French administration._ » – Conférence « _Data Driven Nation_ » (_Latvian Open Technology Association_, 01/2020)
+* « _[Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288)_ » – Conférence « _Data Driven Nation_ » (_Latvian Open Technology Association_, 01/2020)
 * « De l'attention à l'apprentissage automatique » – Conférence « IA, algorithme et éthique » (Commissariat général au développement durable, 04/2019)
 * « [La face cachée des algorithmes](https://youtu.be/17DPl9fGins) » – Grand Barouf Numérique (CCI Grand Lille, 03/2019)
 * « Effets secondaires du machine learning dans l’économie de l’attention » – journée thématique « [Intelligibilité et Transparence du Machine Learning et des Intelligences Artificielles](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/630-journee_thematique_intelligibilite_et_transparence_du_machine_learning_et_des_intelligences_ar/) » (Société Française de Statistique, 05/2018)
