@@ -17,4 +17,4 @@ Sauf que l'époque est à l'ouverture et à l'horizontalité. Et dans ce type d'
 
 --
 
-_**Ajout de dernière minute** : alors que je m'apprêtais à publier l'article, Antoine, qui en avait marre que les marges de mon blog soient trop fines sur mobile, a [fait la modification lui-même](https://mobile.twitter.com/AntoineAugusti/status/1209390663697129479). Merci Antoine !_
+_**Ajout de dernière minute** : alors que je m'apprêtais à publier l'article, Antoine, qui en avait marre que les marges de mon blog soient trop fines sur mobile, a [fait la modification lui-même](https://twitter.com/AntoineAugusti/status/1209390663697129479). Merci Antoine !_
