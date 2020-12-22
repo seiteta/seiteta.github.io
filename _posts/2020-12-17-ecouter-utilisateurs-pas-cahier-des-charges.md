@@ -1,6 +1,6 @@
 ---
 title: "Écouter ses utilisateurs, ce n'est pas faire un cahier des charges."
-description: ""
+description: "Lorsque nous expliquons que pour construire nos produits nous allons faire de la recherche utilisateur, certains nous répondent : « Ah oui, vous allez écrire un cahier des charges… »."
 image: https://images.unsplash.com/photo-1493382051629-7eb03ec93ea2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80
 tags: [Lean startup, Produit, Zen, Changement, Agile, Furtif]
 ---
