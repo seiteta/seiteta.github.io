@@ -3,7 +3,7 @@ title: "Des chevaux plus rapides"
 description: "Lorsque nous développons une solution numérique censée résoudre un problème administratif sans changer les processus, le risque est"
 image: https://miro.medium.com/max/1200/1*JspzG0Iv6mXCZKTPT8kvLw.jpeg
 canonical_url: https://seiteta.medium.com/des-chevaux-plus-rapides-99b7aa686dd8
-tags: [Transformation numérique, Innovation, Govtech, Vanity metrics, Administration]
+tags: [Transformation numérique, Innovation, Govtech, Vanity metrics, Administration, Produit]
 ---
 
 > « Si j’avais demandé aux gens ce qu’ils voulaient, ils auraient répondu des chevaux plus rapides. » (citation apocryphe d’Henry Ford à propos de la Ford T)
