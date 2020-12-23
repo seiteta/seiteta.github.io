@@ -21,7 +21,7 @@ layout: default
     {% for post in site.related_posts limit:3 %}
       <li>
           <a href="{{ post.url }}">{{ post.title }}</a>
-          <small>({% include date-fr.html date=post.date %})</small>
+          <span class="post-date">{% include date-fr.html date=post.date %}</span>
       </li>
     {% endfor %}
   </ul>
