@@ -5,7 +5,7 @@ image: https://images.unsplash.com/photo-1551210583-f3ab9c6d4731?ixlib=rb-1.2.1&
 tags: [Lean, Automobile, Transformation, Podcast, Échec, Culture]
 ---
 
-Cet incroyable [épisode](https://www.thisamericanlife.org/561/nummi-2015) du podcast _This American Life_ raconte la transformation ratée de l'industrie automobile aux États-Unis. Peut-être y a-t'il des enseignements à tirer de cette histoire.
+Ce passionnant [épisode](https://www.thisamericanlife.org/561/nummi-2015) du podcast _This American Life_ raconte la transformation ratée de l'industrie automobile aux États-Unis. Peut-être y a-t'il des enseignements à tirer de cette histoire.
 
 Celle-ci débute à Fremont en Californie. L'usine General Motors (GM) locale est l'une des pires au monde. Elle produit des voitures de très mauvaise qualité. Les ouvriers boivent pendant leur travail. Le dialogue social est extrêmement conflictuel. L’usine finit par fermer en 1982.
 
