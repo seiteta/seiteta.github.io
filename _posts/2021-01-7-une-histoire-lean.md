@@ -15,4 +15,4 @@ NUMMI sort sa première voiture en décembre 1984. Le niveau de qualité est inc
 
 Sauf que ce n'est pas ce qui s'est passé. GM ne s'est mis au _lean_ que 20 ans plus tard et a été déclaré en faillite en 2009. Évidemment, le maintien de l’ancien mode de production n'est pas la seule raison de sa faillite. Mais cela y a quand même contribué.
 
-Pourquoi le système Toyota ne s'est-il pas diffusé ? Réponse la semaine prochaine !
+Pourquoi le système Toyota ne s'est-il pas diffusé ? Réponse la semaine prochaine, dans la seconde partie de cet article !
