@@ -35,7 +35,7 @@ Pour récolter leurs données, les auteurs ont organisé un sondage annuel de 20
 
 Un point intéressant : les organisations qui sont performantes sont bonnes sur les quatre indicateurs. Il n'y a donc pas de dilemme entre qualité et rapidité ; plus on va vite, plus on fait du bon code. À noter que l’écart de performance entre les organisations se creuse d’année en année.
 
-La performance en livraison logicielle est très importante car elle prédit (au sens statistique) la performance commerciale des entreprises et de la performance non-commercial des autres organisations.
+La performance en livraison logicielle est très importante car elle prédit (au sens statistique) la performance commerciale des entreprises et de la performance non-commerciale des autres organisations.
 
 Comment faire alors pour améliorer la performance en livraison logicielle ? Certes, il faut des outils adaptés, mais il est d’abord indispensable d'avoir la bonne culture organisationnelle.
 
@@ -45,12 +45,12 @@ Comment faire alors pour améliorer la performance en livraison logicielle ? Ce
 Le sociologue Ron Westrum a développé une typologie pour classer les [cultures organisationnelles](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short) :
 
 * Pathologique (axé sur le pouvoir) : l'organisation est basée sur la peur et les menaces. Les individus font de la rétention d'informations.
-* Bureaucratique (axé sur les règles) : l'organisation protège les départements. Ces départements défendent leur pré carré et agissent selon leur propres règles.
-* Générative (axé sur la performance) : l'organisation de concentre sur sa mission. Tout est subordonné à la performance et sur la raison d'être.
+* Bureaucratique (axé sur les règles) : l'organisation protège les départements. Ces départements défendent leur pré carré et agissent selon leurs propres règles.
+* Générative (axé sur la performance) : l'organisation se concentre sur sa mission. Tout est subordonné à la performance et à la raison d'être.
 
-Afin d’estimer où se positionnaient les différentes organisations dans ce continuum culturel, les auteurs ont posés des questions pour savoir notamment si les responsabilités étaient partagés, si le travail inter-équipe était encouragé et si les échecs entraînaient une enquête pour améliorer les processus plutôt que pour désigner un coupable.
+Afin d’estimer où se positionnaient les différentes organisations dans ce continuum culturel, les auteurs ont posé des questions pour savoir notamment si les responsabilités étaient partagées, si le travail inter-équipe était encouragé et si les échecs entraînaient une enquête pour améliorer les processus plutôt que pour désigner un coupable.
 
-Les résultats de l’étude montre que la culture organisationnelle prédit la performance en livraison logicielle et la performance commerciale : plus une organisation est générative (et donc plus les informations circulent de manière fluide), plus elle est performante.
+Les résultats de l’étude montrent que la culture organisationnelle prédit la performance en livraison logicielle et la performance commerciale : plus une organisation est générative (et donc plus les informations circulent de manière fluide), plus elle est performante.
 
 Un point à souligner : la culture organisationnelle n’est pas liée au type d’organisation. Il existe des organisations gouvernementales génératives et des startups pathologiques.
 
