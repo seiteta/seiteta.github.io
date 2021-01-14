@@ -13,7 +13,7 @@ Les employés de GM ayant visité les usines japonaises dans les années 1980 se
 
 À NUMMI par exemple, la majorité des pièces proviennent du Japon et sont de bonne qualité. La pratique de l’amélioration continue fait que s’il y a un problème avec une pièce, le problème remonte et est résolu. Tout le monde travaille ensemble.
 
-Au sein de GM par contre, tout est compartimenté. En silos. Chaque département « balance par-dessus le mur » ce qu’il a produit et passe à autre chose. La méthode Toyota ne peux donc pas fonctionner dans l'environnement GM. Même quand les équipes des chaînes de production mettent toute leur bonne volonté, certains problèmes restent insolubles à cause du manque de collaboration. De quoi ruiner le moral de tout le monde…
+Au sein de GM par contre, tout est compartimenté. En silos. Chaque département « balance par-dessus le mur » ce qu’il a produit et passe à autre chose. La méthode Toyota ne peux donc pas fonctionner dans l'environnement GM. Même quand les équipes des chaînes de production mettent toute leur bonne volonté, certains problèmes restent insolubles à cause du manque de collaboration. De quoi ruiner le moral de tout le monde…
 
 La seconde raison, c’est qu’**une transformation profonde nécessite un sentiment d’urgence.**
 
@@ -21,4 +21,4 @@ Une usine détenue par GM, celle de Van Nuys, va tester le système Toyota. Cont
 
 De manière plus générale, le groupe ne se transforme pas car ses ventes diminuent de manière progressive. Jusqu’au choc. En 1992, l’entreprise fait plus de vingt milliards de dollars de perte. Le nouveau PDG impose alors la méthode Toyota au groupe. Au début des années 2000, ce changement est enfin en place et GM produit des voitures de la même qualité que Toyota. Sauf qu'il est trop tard.
 
-Le constructeur fait faillite en 2009. General Motors se retire de NUMMI. Toyota ferme l’usine. Tesla la rachète l’année suivante, pour y construire ses voitures électriques. La fin d’une époque ; le début d’une autre.
+Le constructeur fait faillite en 2009. General Motors se retire de NUMMI. Toyota ferme l’usine. Tesla la rachète l’année suivante, pour y construire ses voitures électriques. La fin d’une époque ; le début d’une autre.
