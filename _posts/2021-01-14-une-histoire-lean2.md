@@ -21,4 +21,4 @@ Une usine détenue par GM, celle de Van Nuys, va tester le système Toyota. Cont
 
 De manière plus générale, le groupe ne se transforme pas car ses ventes diminuent de manière progressive. Jusqu’au choc. En 1992, l’entreprise fait plus de vingt milliards de dollars de perte. Le nouveau PDG impose alors la méthode Toyota au groupe. Au début des années 2000, ce changement est enfin en place et GM produit des voitures de la même qualité que Toyota. Sauf qu'il est trop tard.
 
-Le constructeur fait faillite en 2009. General Motors se retire de NUMMI. Toyota ferme l’usine. Tesla la rachète l’année suivante, pour y construire ses voitures électriques. La fin d’une époque ; le début d’une autre.
+Le constructeur fait faillite en 2009. General Motors se retire de NUMMI. Toyota ferme l’usine. Tesla la rachète l’année suivante, pour y construire ses premières voitures électriques. La fin d’une époque ; le début d’une autre.
