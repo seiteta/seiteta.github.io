@@ -6,8 +6,7 @@ duration: "01:03:06"
 guid: "3546AD0C-B536-41CC-9BE3-FD9ABC5BCB78"
 spotify_url:
 itunes_url:
-description: "Henri Verdier est l’ambassadeur pour le numérique. Il nous raconte les débuts de l'internet en France, ainsi que la création d'Etalab et du portail data.gouv.fr. Nous échangeons également sur les nouvelles formes de management dans la fonction publique et sur la modération des réseaux sociaux. Bonne écoute !
-<br>Les liens évoqués dans l'épisode sont disponibles sur le site <a href="https://f14e.fr/hackerspublics/ep6_henri_verdier/">f14e.fr</a> "
+description: "Henri Verdier est l’ambassadeur pour le numérique. Il nous raconte les débuts de l'internet en France, ainsi que la création d'Etalab et du portail data.gouv.fr. Nous échangeons également sur les nouvelles formes de management dans la fonction publique et sur la modération des réseaux sociaux. Bonne écoute !"
 ---
 
 Henri Verdier est l’ambassadeur pour le numérique. Il nous raconte les débuts de l'internet en France, ainsi que la création d'Etalab et du portail data.gouv.fr. Nous échangeons également sur les nouvelles formes de management dans la fonction publique et sur la modération des réseaux sociaux.
