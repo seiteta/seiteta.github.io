@@ -1,6 +1,6 @@
 ---
 title: "#6 - Henri Verdier : La racine du problème, c’est le design des réseaux sociaux."
-date: 2021-02-01
+date: 2021-02-03
 file: hackers_publics_6_henri_verdier.mp3
 duration: "01:03:06"
 guid: "3546AD0C-B536-41CC-9BE3-FD9ABC5BCB78"
