@@ -24,7 +24,7 @@ Accéder au podcast sur <a href="https://open.spotify.com/show/17E4Bxj2VOnE4esRG
       </a>
     </h1>
     {{ episode.content }}
-    Téléchargez l'épisode <a href="https://hackerspublics.s3.fr-par.scw.cloud/{{ episode.file }}">ici</a> ou écoutez-le sur <a href="{{ episode.spotify_url }}">Spotify</a>, <a href="{{ episode.itunes_url }}">iTunes</a> ou votre <a href="{{ site.url }}/hackerspublics.rss">application de podcast préférée</a>.
+    Téléchargez l'épisode <a href="https://hackerspublics.s3.fr-par.scw.cloud/{{ episode.file }}">en mp3</a> ou écoutez-le sur <a href="{{ episode.spotify_url }}">Spotify</a>, <a href="{{ episode.itunes_url }}">iTunes</a> ou votre <a href="{{ site.url }}/hackerspublics.rss">application de podcast préférée</a>.
     <span class="post-date">{% include date-fr.html date=episode.date %}</span>
     {% include share-buttons.html %}
   </div>
