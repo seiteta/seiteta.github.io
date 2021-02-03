@@ -4,8 +4,8 @@ date: 2021-02-03
 file: hackers_publics_6_henri_verdier.mp3
 duration: "01:03:06"
 guid: "3546AD0C-B536-41CC-9BE3-FD9ABC5BCB78"
-spotify_url:
-itunes_url:
+spotify_url: https://open.spotify.com/episode/1aKu9ZzIBrma6G1alUqPlc?si=O0rU3fM9TtGeHBYFVKCsAg
+itunes_url: https://podcasts.apple.com/fr/podcast/6-henri-verdier-la-racine-du-probl%C3%A8me-cest-le-design/id1498775170?i=1000507535927
 description: "Henri Verdier est l’ambassadeur pour le numérique. Il nous raconte les débuts de l'internet en France, ainsi que la création d'Etalab et du portail data.gouv.fr. Nous échangeons également sur les nouvelles formes de management dans la fonction publique et sur la modération des réseaux sociaux. Bonne écoute !"
 ---
 
