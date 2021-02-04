@@ -9,7 +9,7 @@ itunes_url: https://podcasts.apple.com/fr/podcast/6-henri-verdier-la-racine-du-p
 description: "Henri Verdier est l’ambassadeur pour le numérique. Il nous raconte les débuts de l'internet en France, ainsi que la création d'Etalab et du portail data.gouv.fr. Nous échangeons également sur les nouvelles formes de management dans la fonction publique et sur la modération des réseaux sociaux. Bonne écoute !"
 ---
 
-Henri Verdier est l’ambassadeur pour le numérique. Il nous raconte les débuts de l'internet en France, ainsi que la création d'Etalab et du portail data.gouv.fr. Nous échangeons également sur les nouvelles formes de management dans la fonction publique et sur la modération des réseaux sociaux.
+Henri Verdier est l’ambassadeur pour le numérique. Il évoque les débuts de l'Internet en France, et raconte la création d'Etalab et du portail data.gouv.fr. Nous échangeons également sur les nouvelles formes de management dans la fonction publique et sur la modération des réseaux sociaux.
 
 Bonne écoute !
 
