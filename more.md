@@ -29,6 +29,15 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 * « [Éthique numérique, des datas sous serment](https://www.franceculture.fr/emissions/la-methode-scientifique/ethique-numerique-des-datas-sous-serment) » – émission « La Méthode scientifique » (France Culture, 10/2018)
 
 
+## Cours
+
+* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020 et 04/2021) – 🎯 NPS : 80
+* « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
+* « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
+* « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
+* « _Toward algorithmic transparency and accountability_ » – séminaire « _Technology, Government and Society_ » (Sciences Po Saint-Germain-en-Laye, 02/2018)
+
+
 ## Tables rondes
 
 * « [La transformation des usages numériques](https://www.youtube.com/watch?v=d7T52DoqGEc) » – table ronde (Forum Innovation Défense 2020, 11/2020)
@@ -42,15 +51,6 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 * « Les algorithmes déterminant l’accès à l’information » – colloque « Droits de l'Homme et accès aux contenus sur Internet » (Sorbonne, 05/2017)
 * « Devons-nous vraiment ubériser l’État ? » – cycle de conférence « GovTech » (Liberté Living Lab, 05/2017)
 * [Le Social Good à l'ère du Cloud](https://www.facebook.com/helloasso/videos/1122013457911262) — table ronde (Social Good Week 2016, 12/2016)
-
-
-## Cours
-
-* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020 et 04/2021) – 🎯 NPS : 80
-* « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
-* « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
-* « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
-* « _Toward algorithmic transparency and accountability_ » – séminaire « _Technology, Government and Society_ » (Sciences Po Saint-Germain-en-Laye, 02/2018)
 
 
 ## Autres interventions
