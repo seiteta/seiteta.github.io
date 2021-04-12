@@ -46,8 +46,8 @@ Je partage régulièrement mon expérience sur l'innovation publique, l'utilisat
 
 ## Cours
 
-* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020 et 04/2021)
-* « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
+* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020 et 04/2021) – 🎯 NPS : 80
+* « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
 * « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
 * « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
 * « _Toward algorithmic transparency and accountability_ » – séminaire « _Technology, Government and Society_ » (Sciences Po Saint-Germain-en-Laye, 02/2018)
