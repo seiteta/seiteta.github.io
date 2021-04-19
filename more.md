@@ -17,7 +17,7 @@ Je partage régulièrement mon expérience sur l'innovation, l'utilisation de la
 
 ## Interviews
 
-* « [On a montré qu’on pouvait faire du lean ou du DevOps au Ministère des Armées](https://www.le-ticket.fr/frederic-bardolle-cpo-ministere-armees-interview-flash/1659/) – Le Ticket (04/2021) »
+* « [On a montré qu’on pouvait faire du lean et du DevOps au ministère des Armées](https://www.le-ticket.fr/frederic-bardolle-cpo-ministere-armees-interview-flash/1659/) – Le Ticket (04/2021) »
 * « [Rétablir l'équilibre](https://medium.com/opencollectiveparis/rétablir-léquilibre-a278dcda6795) » – OpenCollective (04/2019)
 * « [À la base, les algorithmes sont plutôt neutres](https://www.soonsoonsoon.com/le-monde-de-demain-selon-Frederic-Bardolle) » – Soon Soon Soon (03/2019)
 * « [Utiliser les datas pour le bien commun](https://www.lelab50.fr/utiliser-les-datas-pour-le-bien-commun/) » – Le Lab 50 (12/2018)
