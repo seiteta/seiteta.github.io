@@ -33,7 +33,7 @@ Les auteurs ont sélectionnés quatre indicateurs qui possèdent ces caractéris
 
 Pour récolter leurs données, les auteurs ont organisé un sondage annuel de 2014 à 2017 pour savoir comment les organisations se situaient par rapport à ces quatre indicateurs. Ils ont ensuite réalisé une analyse par partitionnement (_cluster analysis_) pour séparer les organisations en trois groupes en fonction de leur performance : bonne, moyenne et mauvaise.
 
-Un point intéressant : les organisations qui sont performantes sont bonnes sur les quatre indicateurs. Il n'y a donc pas de dilemme entre qualité et rapidité ; plus on va vite, plus on fait du bon code. À noter que l’écart de performance entre les organisations se creuse d’année en année.
+Un point intéressant : les organisations qui sont performantes sont bonnes sur les quatre indicateurs. Il n'y a donc pas de compromis entre qualité et rapidité ; plus on va vite, plus on fait du bon code. À noter que l’écart de performance entre les organisations se creuse d’année en année.
 
 La performance en livraison logicielle est très importante car elle prédit (au sens statistique) la performance commerciale des entreprises et de la performance non-commerciale des autres organisations.
 
