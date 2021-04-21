@@ -7,6 +7,7 @@ Je partage régulièrement mon expérience sur l'innovation, l'utilisation de la
 
 ## Conférences
 
+* « Move fast and fix things: first-hand experiences from the French administration » – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021) – 🎯 NPS = 60
 * « _[Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288)_ » – Conférence « _Data Driven Nation_ » (_Latvian Open Technology Association_, 01/2020)
 * « De l'attention à l'apprentissage automatique » – Conférence « IA, algorithme et éthique » (Commissariat général au développement durable, 04/2019)
 * « [La face cachée des algorithmes](https://youtu.be/17DPl9fGins) » – Grand Barouf Numérique (CCI Grand Lille, 03/2019)
@@ -32,7 +33,7 @@ Je partage régulièrement mon expérience sur l'innovation, l'utilisation de la
 
 ## Cours
 
-* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020 et 04/2021) – 🎯 NPS : 80
+* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020 et 04/2021) – 🎯 NPS = 80
 * « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
 * « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
 * « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
