@@ -45,6 +45,7 @@ Je partage régulièrement mon expérience sur l'innovation, l'utilisation de la
 
 * « [La transformation des usages numériques](https://www.youtube.com/watch?v=d7T52DoqGEc) » – table ronde (Forum Innovation Défense 2020, 11/2020)
 * « [La culture d'innovation au sein de l'Etat](https://www.dailymotion.com/video/x7xqmsa) » – table ronde (Forum de l’emploi tech de l’État 2020, 11/2020)
+* « Pour une intelligence artificielle égalitaire » – webinaire (Tech for Good Tour, 06/2020)
 * « IA et sexisme » – table ronde (2ème journée nationale contre le sexisme, 01/2019)
 * « Monde associatif et innovations technologiques : petits changements ou grande révolution ? » – table ronde (10 ans de Solidatech, 11/2018)
 * « _How public interest entrepreneurs build impactful digital products and change public service_ » – table ronde (_GovTech Summit_, 11/2018)
