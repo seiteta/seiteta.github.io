@@ -13,6 +13,7 @@ Je partage régulièrement mon expérience sur l'innovation, l'utilisation de la
 * « [La face cachée des algorithmes](https://youtu.be/17DPl9fGins) » – Grand Barouf Numérique (CCI Grand Lille, 03/2019)
 * « Effets secondaires du machine learning dans l’économie de l’attention » – journée thématique « [Intelligibilité et Transparence du Machine Learning et des Intelligences Artificielles](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/630-journee_thematique_intelligibilite_et_transparence_du_machine_learning_et_des_intelligences_ar/) » (Société Française de Statistique, 05/2018)
 * « _Ethics in Artificial Intelligence_ » – discours de clôture du hackathon « _Open Sea Lab_ » (EMODnet, 11/2017)
+* « Introduction à la data science » – programme de sensibilisation à la data (Caisse des Dépôts, 04/2017)
 * « _Stories of data science for social good_ » – Forum Mondial Convergences (Hôtel de Ville de Paris, 09/2016)
 
 
