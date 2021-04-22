@@ -11,7 +11,7 @@ C’est ce que nous disons au lancement des nouvelles [startups d’État](https
 
 De la même manière que les physiciens savent qu’il y a [une relation](https://fr.wikipedia.org/wiki/Loi_des_gaz_parfaits) entre la température, la pression et le volume d’un gaz parfait (à quantité de matière constante), les habitués du développement logiciel savent qu’il y a une relation entre la qualité, les délais et le périmètre d’un projet (à coût constant). Ainsi, si les délais et le périmètre sont fixés, c’est forcément au détriment de la qualité.
 
-Nous faisons donc le choix (et nous ne sommes [pas les seuls](https://basecamp.com/shapeup/1.2-chapter-03#fixed-time-variable-scope)) de construire des produits selon des standards de qualité élevés, et dans des délais serrés. La seule solution pour arriver à faire cela, c’est de rendre le périmètre variable. De limiter le nombre de fonctionnalités que nous allons livrer.
+Nous faisons donc le choix (et nous ne sommes [pas les seuls](https://basecamp.com/shapeup/1.2-chapter-03#fixed-time-variable-scope)) de construire des produits selon des standards de qualité élevés, et dans des délais serrés. La seule solution pour réussir à faire cela, c’est de rendre le périmètre variable. De limiter le nombre de fonctionnalités que nous allons livrer.
 
 L'avantage, c'est que limiter le périmètre initial est une bonne chose. En effet, nous n'apprenons qu'en faisant. Avec de vrais utilisateurs. En testant des hypothèses en conditions réelles. N'est-ce pas la base de la méthode scientifique ? Ceux qui affirment pouvoir tout anticiper sont au mieux naïfs.
 
