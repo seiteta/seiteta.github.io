@@ -66,7 +66,7 @@ jobs:
         uses: chabad360/htmlproofer@master
         with:
           directory: "/home/runner/work/seiteta.github.io/seiteta.github.io"
-          arguments: --external_only --url_ignore "https://www.cairn.info/commun--9782707186737.htm"
+          arguments: --external_only --url_ignore "https://www.cairn.info/commun--9782707186737.htm,https://www.cerveauetpsycho.fr/sd/psychotherapie/il-faut-autoriser-les-therapies-psychedeliques-18929.php"
 
   lighthouse-test:
     needs: jekyll-build

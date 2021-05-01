@@ -6,7 +6,7 @@ canonical_url: https://seiteta.medium.com/innovation-cyclique-cd87a544d55f
 tags: [Innovation, Minitel, Histoire, Design, Inspiration]
 ---
 
-Dans le MOOC du CNAM « [Fabriquer l’innovation](https://www.fun-mooc.fr/courses/course-v1:CNAM+01023+session03/info) » tout un chapitre est consacré à la création du Minitel. Une des choses frappantes dans cette histoire est la similarité de certaines idées de l’époque avec des concepts très contemporains.
+Dans le MOOC du CNAM « [Fabriquer l’innovation](https://www.fun-mooc.fr/fr/cours/fabriquer-linnovation/) » tout un chapitre est consacré à la création du Minitel. Une des choses frappantes dans cette histoire est la similarité de certaines idées de l’époque avec des concepts très contemporains.
 
 L’*UX design*, par exemple, existait déjà dans les années 80. Plutôt que de balancer des Minitels à tous les Français en mode gros bourrin, la Direction générale des Télécommunications (DGT, ancêtre de France Télécom, ancêtre d’Orange) a décidé de tester l’utilisabilité de ce dispositif, censé remplacer l’annuaire papier, en Ille-et-Vilaine. Cette expérience a permis de mettre en lumière quelques limites du système :
 

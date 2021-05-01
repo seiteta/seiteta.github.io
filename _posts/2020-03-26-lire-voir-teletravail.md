@@ -19,7 +19,7 @@ Avantages :
 Inconvénient :
 - Le partage d'information est moins bon car tout le monde ne lit pas forcément tous les fils de discussion.
 
-Les rencontres informelles ont lieu [moins spontanément quand tout le monde est à distance](https://about.gitlab.com/company/culture/all-remote/), surtout pour les 20 % qui avaient l'habitude de travailler physiquement au même endroit. Nous organisons donc des rendez-vous virtuels, en début et en fin de journée, pour discuter de tout et de rien. La présence est facultative et les discussions sont libres, comme dans la vraie vie. (Et au cas où chercheriez une solution de visioconférence gratuite qui marche, rendez-vous [ici](https://ensemble.scaleway.com/).)
+Les rencontres informelles ont lieu [moins spontanément quand tout le monde est à distance](https://about.gitlab.com/company/culture/all-remote/), surtout pour les 20 % qui avaient l'habitude de travailler physiquement au même endroit. Nous organisons donc des rendez-vous virtuels, en début et en fin de journée, pour discuter de tout et de rien. La présence est facultative et les discussions sont libres, comme dans la vraie vie.
 
 Avantages :
 - Des nouveaux liens se font entre des gens qui ne se connaissaient pas ;
