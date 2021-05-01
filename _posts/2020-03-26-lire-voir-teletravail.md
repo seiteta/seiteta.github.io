@@ -5,7 +5,7 @@ image: https://images.unsplash.com/photo-1571821440269-9eaa1e75f315?ixlib=rb-1.2
 tags: [Culture, Télétravail, Incubateur, Équipe]
 ---
 
-À la [Fabrique numérique](https://beta.gouv.fr/incubateurs/fabnumdef.html), 80 % des équipes travaillaient déjà à distance avant le confinement donc assez peu de choses ont changé pour nous.
+À la [Fabrique numérique](https://beta.gouv.fr/startups/?incubateur=fabnumdef), 80 % des équipes travaillaient déjà à distance avant le confinement donc assez peu de choses ont changé pour nous.
 
 Nous avons quand même modifié deux de nos habitudes : le point de synchronisation hebdomadaire et les rencontres informelles.
 

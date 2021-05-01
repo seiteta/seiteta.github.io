@@ -5,7 +5,7 @@ image: https://images.unsplash.com/photo-1527684651001-731c474bbb5a?ixid=MXwxMjA
 tags: [Produit, Test, Connexion, Utilisateur, Incubateur]
 ---
 
-Cette année, je suis monté à bord d’un avion militaire pour voir comment des utilisateurs se servaient d’un des produits développés à la [Fabrique numérique](https://beta.gouv.fr/incubateurs/fabnumdef.html). Utiliser un logiciel dans un avion, ce n’est pas la même chose que dans un bureau. Le débit internet est pourri. Ça bouge dans tous les sens. Il n’y a pas de souris… Même si nous pouvons tenter d’imaginer à quoi ça ressemble, il n’y a qu’en le vivant qu’il est possible de vraiment ressentir les contraintes.
+Cette année, je suis monté à bord d’un avion militaire pour voir comment des utilisateurs se servaient d’un des produits développés à la [Fabrique numérique](https://beta.gouv.fr/startups/?incubateur=fabnumdef). Utiliser un logiciel dans un avion, ce n’est pas la même chose que dans un bureau. Le débit internet est pourri. Ça bouge dans tous les sens. Il n’y a pas de souris… Même si nous pouvons tenter d’imaginer à quoi ça ressemble, il n’y a qu’en le vivant qu’il est possible de vraiment ressentir les contraintes.
 
 > Ce que j'entends, je l'oublie. Ce que je vois, je le retiens. Ce que je fais, je le comprends.
 

@@ -14,7 +14,7 @@ Dans les administrations les responsabilités des individus sont souvent diluée
 
 Cela entraîne que personne n’est jamais responsable de rien. Attention, cela ne veut pas dire que les agents ne sont pas impliqués. L’immense majorité prend le service public très à cœur. Mais ils n’ont aucun intérêt à prendre des risques, à s’exposer. Or innover nécessite de prendre des risques, de lancer des projets qui peuvent échouer et nous faire passer pour des cons.
 
-Au sein de nos startups d’État, tous les participants s’engagent personnellement : nos noms et nos têtes sont affichés sur les [pages qui présentent nos produits](https://beta.gouv.fr/incubateurs/fabnumdef.html). Pour chaque membre de l’équipe, les inconvénients potentiels sont au moins aussi grands que les bénéfices possibles. Ils jouent donc leur peau, _skin in the game_ comme dirait [Nassim Nicholas Taleb](https://twitter.com/nntaleb).
+Au sein de nos startups d’État, tous les participants s’engagent personnellement : nos noms et nos têtes sont affichés sur les [pages qui présentent nos produits](https://beta.gouv.fr/startups/?incubateur=fabnumdef). Pour chaque membre de l’équipe, les inconvénients potentiels sont au moins aussi grands que les bénéfices possibles. Ils jouent donc leur peau, _skin in the game_ comme dirait [Nassim Nicholas Taleb](https://twitter.com/nntaleb).
 
 Pour les intrapreneurs, le risque c’est l’image : si le projet rate, ils seront mal vus. Et si tout fonctionne, leur seul gain sera également de l’image. Pas de prime, pas de gain financier, mais la fierté du travail bien fait.
 
