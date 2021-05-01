@@ -55,21 +55,21 @@ jobs:
           path: /__w/seiteta.github.io/seiteta.github.io/_site
 
 
-#  htmlproofer-test:
-#    needs: jekyll-build
-#    runs-on: ubuntu-latest
-#    steps:
-#
-#    - name: Download built site
-#      uses: actions/download-artifact@v2
-#      with:
-#        path: /home/runner/work/seiteta.github.io/seiteta.github.io
-#
-#    - name: Check HTML
-#      uses: chabad360/htmlproofer@master
-#      with:
-#        directory: "/home/runner/work/seiteta.github.io/seiteta.github.io"
-#        arguments: --external_only --url_ignore "https://www.cairn.info/commun--9782707186737.htm"
+ htmlproofer-test:
+   needs: jekyll-build
+   runs-on: ubuntu-latest
+   steps:
+
+   - name: Download built site
+     uses: actions/download-artifact@v2
+     with:
+       path: /home/runner/work/seiteta.github.io/seiteta.github.io
+
+   - name: Check HTML
+     uses: chabad360/htmlproofer@master
+     with:
+       directory: "/home/runner/work/seiteta.github.io/seiteta.github.io"
+       arguments: --external_only --url_ignore "https://www.cairn.info/commun--9782707186737.htm"
 
 
   lighthouse-test:
