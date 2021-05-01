@@ -19,5 +19,5 @@ Liens évoqués dans l'épisode :
 * [French Tech Visa](https://lafrenchtech.com/fr/la-france-aide-les-startups/french-tech-visa/)
 * [French Tech Tremplin](https://lafrenchtech.com/fr/la-france-aide-les-startups/tremplin/)
 * [Senpai.io](https://www.sempai.io/)
-* 📘 [The New Parisienne: The Women & Ideas Shaping Paris, de Lindsey Tramuta](https://www.lostincheeseland.com/2020/08/follow-the-women-of-the-new-parisienne/)
+* 📘 [The New Parisienne, de Lindsey Tramuta](https://www.lostincheeseland.com/2020/08/follow-the-women-of-the-new-parisienne/)
 * [Polluriel](http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=8349832)
