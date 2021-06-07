@@ -2,7 +2,7 @@
 title: "#8 – Laura Létourneau : Si on ne montre pas les dysfonctionnements, on sape la confiance parce que les gens savent bien que tout n’est pas parfait."
 date: 2021-06-01
 file: hackers_publics_8_laura_letourneau.mp3
-duration: "37:48"
+duration: "37:46"
 guid: "CC4ED153-58E3-4FE6-B391-4D76B18FA585"
 spotify_url:
 itunes_url:
