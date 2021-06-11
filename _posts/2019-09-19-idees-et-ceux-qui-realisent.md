@@ -20,7 +20,7 @@ En résumé : une équipe de volontaires, au sein de laquelle personne ne se co
 >
 >Un collectif de bâtisseurs – qui ont conscience que la technologie n’est pas la réponse à tout, mais qui veulent construire brique par brique le monde de demain.
 >
-> D'après le site de [Data for Good](dataforgood.fr/)
+> D'après le site de [Data for Good](https://dataforgood.fr/)
 
 
 L’équipe de La Data en Clair reflète parfaitement la première valeur de Data for Good : être des faiseurs, plutôt que des parleurs. Au lieu de dire aux autres ce qu’il faudrait faire, nous retroussons nos manches et nous mettons la main à la pâte !
