@@ -7,6 +7,7 @@ guid: "54C7BDA2-93B3-4766-9B3D-7B6DD91B2963"
 spotify_url: https://open.spotify.com/episode/4wqMx3PjbkQGfnVr3ECvRD?si=_buxRLIWSC28gkRMK-971w
 itunes_url: https://podcasts.apple.com/fr/podcast/7-kat-borlongan-la-french-tech-cest-vrai-mouvement/id1498775170?i=1000519592278
 description: "Kat Borlongan est la directrice de la Mission French Tech. Elle nous raconte son arrivée dans l’administration et sa stratégie pour attirer des talents dans les startups françaises. Nous abordons également la question de l’inclusion dans cet écosystème assez fermé ainsi que son secret pour bien raconter des histoires."
+redirect_to: https://hackerspublics.fr/episodes/ep7_kat_borlongan/
 ---
 
 Kat Borlongan est la directrice de la Mission French Tech. Elle nous raconte son arrivée dans l’administration et sa stratégie pour attirer des talents dans les startups françaises. Nous abordons également la question de l’inclusion dans cet écosystème assez fermé ainsi que son secret pour bien raconter des histoires.

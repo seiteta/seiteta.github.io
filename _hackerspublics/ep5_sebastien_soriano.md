@@ -7,6 +7,7 @@ guid: "0272B080-A25D-4F2B-99FD-9C639000453A"
 spotify_url: https://open.spotify.com/episode/3yXl6YrOVZhidC1TrBJTCD?si=DlSxB6KPQZifRyz0_wq5Yg
 itunes_url: https://podcasts.apple.com/fr/podcast/5-s%C3%A9bastien-soriano-ce-qui-fonctionne-cest-la-permaculture/id1498775170?i=1000499067377
 description: "Sébastien Soriano est le président de l’ARCEP, l’autorité de régulation des communications électroniques et des Postes. Il nous partage sa vision des communs, appliquée au monde numérique qui nous entoure et nous explique la culture managériale qu’il a mis en place à l’ARCEP. Nous évoquons également la 5G, la régulation des GAFA et la question de la soutenabilité du numérique. Bonne écoute !"
+redirect_to: https://hackerspublics.fr/episodes/ep5_sebastien_soriano/
 ---
 
 Sébastien Soriano est le président de l’ARCEP, l’autorité de régulation des communications électroniques et des Postes. Il nous partage sa vision des communs, appliquée au monde numérique qui nous entoure et nous explique la culture managériale qu’il a mis en place à l’ARCEP. Nous évoquons également la 5G, la régulation des GAFA et la question de la soutenabilité du numérique.

@@ -7,6 +7,7 @@ guid: "EDEDFF6D-8EEA-415B-B40F-AB0A5433636C"
 spotify_url: https://open.spotify.com/episode/5YXDLYk4A64a1xOTCyta9B?si=aKg3ZPZiSHSFC4GYNDTUZg
 itunes_url: https://podcasts.apple.com/fr/podcast/3-paul-duan-gr%C3%A2ce-%C3%A0-lintelligence-artificielle-on-pourrait/id1498775170?i=1000476818546
 description: "Paul Duan est le fondateur de Bayes Impact, une association qui construit des services publics citoyens. Il nous raconte son parcours, à l’intersection de la science des données et de l’intérêt général, et comment il essaie d’avoir de l’impact au quotidien. Paul nous explique également comment la technologie et le design peuvent permettre de construire des produits qui aident les gens à prendre en main leur destin et à gagner en autonomie. Bonne écoute !"
+redirect_to: https://hackerspublics.fr/episodes/ep3_paul_duan/
 ---
 
 Paul Duan est le fondateur de Bayes Impact, une association qui construit des services publics citoyens. Il nous raconte son parcours, à l’intersection de la science des données et de l’intérêt général, et comment il essaie d’avoir de l’impact au quotidien. Paul nous explique également comment la technologie et le design peuvent permettre de construire des produits qui aident les gens à prendre en main leur destin et à gagner en autonomie.

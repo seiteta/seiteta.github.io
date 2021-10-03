@@ -7,6 +7,7 @@ guid: "00C7E8D3-CDEA-4E81-B9ED-414459EEF271"
 spotify_url: https://open.spotify.com/episode/0IKN0fUSp5px9xt6xMcBnL?si=wZpiUVikSQqNZZMfdVP8wg
 itunes_url: https://podcasts.apple.com/fr/podcast/4-lucila-modebelu-jai-vu-des-agents-qui-avaient-une/id1498775170?i=1000493720259
 description: "Lucila Modebelu est la vice-président de l’association FP21 et la directrice des affaires financières du Centre Hospitalier de Millau. Elle nous raconte son parcours, à l’intersection des milieux associatif, administratif et hospitalier. Lucila nous parle également de l’innovation dans la fonction publique québécoise et comment la COVID a accéléré la transformation numérique. Bonne écoute !"
+redirect_to: https://hackerspublics.fr/episodes/ep4_lucila_modebelu/
 ---
 
 Lucila Modebelu est la vice-président de l’association FP21 et la directrice des affaires financières du Centre Hospitalier de Millau. Elle nous raconte son parcours, à l’intersection des milieux associatif, administratif et hospitalier. Lucila nous parle également de l’innovation dans la fonction publique québécoise et comment la COVID a accéléré la transformation numérique.
