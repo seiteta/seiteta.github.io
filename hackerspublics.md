@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Podcast
+redirect_to: https://hackerspublics.fr/
 ---
 
 <h1 class="post-title">Hackers publics</h1>
