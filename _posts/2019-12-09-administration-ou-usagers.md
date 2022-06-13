@@ -5,7 +5,7 @@ image: https://images.unsplash.com/photo-1429743305873-d4065c15f93e?ixlib=rb-1.2
 tags: [Innovation, Administration, UX design, Sponsor, Incubateur]
 ---
 
-Le premier point du [manifeste](https://beta.gouv.fr/incubateurs) du réseau des incubateurs publics beta.gouv.fr est limpide :
+Le premier point du [manifeste](https://beta.gouv.fr/startups/) du réseau des incubateurs publics beta.gouv.fr est limpide :
 
 > Considérer les besoins des usagers avant ceux de l’administration
 

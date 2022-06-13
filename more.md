@@ -23,7 +23,7 @@ Je partage régulièrement mon expérience sur l'innovation, l'utilisation de la
 * « [Rétablir l'équilibre](https://medium.com/opencollectiveparis/rétablir-léquilibre-a278dcda6795) » – OpenCollective (04/2019)
 * « [À la base, les algorithmes sont plutôt neutres](https://www.soonsoonsoon.com/le-monde-de-demain-selon-Frederic-Bardolle) » – Soon Soon Soon (03/2019)
 * « [Utiliser les datas pour le bien commun](https://www.lelab50.fr/utiliser-les-datas-pour-le-bien-commun/) » – Le Lab 50 (12/2018)
-* « [On cherche à éveiller la conscience éthique des développeurs et data scientists](https://tgf.usbeketrica.com/article/on-cherche-a-eveiller-la-conscience-ethique-des-developpeurs-et-data-scientists) » – Usbek et Rica (06/2018)
+* « [On cherche à éveiller la conscience éthique des développeurs et data scientists](https://usbeketrica.com/fr/article/on-cherche-a-eveiller-la-conscience-ethique-des-developpeurs-et-data-scientists) » – Usbek et Rica (06/2018)
 
 
 ## Radio

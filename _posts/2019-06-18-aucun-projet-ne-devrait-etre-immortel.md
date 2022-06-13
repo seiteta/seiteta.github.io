@@ -18,7 +18,7 @@ Pourquoi ? Parce que : le darwinisme. Dans une espèce, les individus les moin
 
 Dans un environnement imprévisible (comme l’est le monde réel), avoir plusieurs projets avec des fonctionnalités similaires est une bonne chose, sous réserve qu’on interrompe les projets les moins bons. Mais à cause du *[sunk cost fallacy](https://fr.wikipedia.org/wiki/Co%C3%BBt_irr%C3%A9cup%C3%A9rable)*, on a tendance à continuer à mettre de l’argent dans un projet qui coule pour essayer de le sauver plutôt que d’arrêter les frais le plus rapidement possible.
 
-C’est pour ça que le modèle des [startups d’État](https://beta.gouv.fr/incubateurs/) est si intéressant : en commençant petit et pas cher, on a moins mal au coeur quand il faut tuer un projet qui ne marche pas.
+C’est pour ça que le modèle des [startups d’État](https://beta.gouv.fr/startups/) est si intéressant : en commençant petit et pas cher, on a moins mal au coeur quand il faut tuer un projet qui ne marche pas.
 
 Nos projets sont donc mortels, CQFD.
 

@@ -10,7 +10,7 @@ Une histoire m’a marqué lors d’une saison d’accélération de Data for Go
 
 Lors du lancement de la saison 4, un groupe de volontaires vient me voir car un des projets présentés les intéresse et ils veulent savoir quand le porteur est censé arriver. Normalement ce sont les porteurs qui présentent eux-mêmes leurs projets mais ce dernier n’étant pas venu, nous avons pris le relais avec l’équipe organisatrice. Je suggère aux bénévoles de démarrer sans attendre et ils commencent alors à phosphorer sur un concept de magazine portant sur les enjeux éthiques autour des données.
 
-En résumé : une équipe de volontaires, au sein de laquelle personne ne se connait et que personne ne dirige, décide de travailler sur un projet qui lui tient à cœur. Et trois mois plus tard, lors du _demo day_, elle présente [La Data en Clair](http://ladataenclair.fr/), un magazine en ligne avec des articles de fond très pertinents, alors que nous nous demandons encore où est passé le porteur qui avait lancé l’idée mais qui n’est jamais venu…
+En résumé : une équipe de volontaires, au sein de laquelle personne ne se connait et que personne ne dirige, décide de travailler sur un projet qui lui tient à cœur. Et trois mois plus tard, lors du _demo day_, elle présente [La Data en Clair](https://twitter.com/dataclair), un magazine en ligne avec des articles de fond très pertinents, alors que nous nous demandons encore où est passé le porteur qui avait lancé l’idée mais qui n’est jamais venu…
 
 > Des optimistes pragmatiques – qui s’engagent à résoudre de vrais problèmes à travers une méthode d’accompagnement ascendante et itérative.
 >

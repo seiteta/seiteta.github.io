@@ -5,7 +5,7 @@ image: https://images.unsplash.com/photo-1416138182074-93cf510477b9?ixlib=rb-1.2
 tags: [Antifragile, Administration, Simplification]
 ---
 
-Dans son livre [Antifragile](https://www.lesbelleslettres.com/livre/80-antifragile), Nassim Nicholas Taleb présente le concept de _via negativa_ : mieux vaut chercher ce qui peut être retiré, plutôt que ce qui peut être ajouté. Pour les problèmes de santé mineurs par exemple, il est plus prudent d’arrêter certaines choses (les aliments trop riches, la cigarette, etc.) que d’en introduire de nouvelles, comme les médicaments. En effet, ces derniers peuvent avoir des effets indésirables, alors qu'arrêter ce qui nuit améliore la santé sans conséquences négatives.
+Dans son livre [Antifragile](https://www.lesbelleslettres.com/livre/9782251444765/antifragile), Nassim Nicholas Taleb présente le concept de _via negativa_ : mieux vaut chercher ce qui peut être retiré, plutôt que ce qui peut être ajouté. Pour les problèmes de santé mineurs par exemple, il est plus prudent d’arrêter certaines choses (les aliments trop riches, la cigarette, etc.) que d’en introduire de nouvelles, comme les médicaments. En effet, ces derniers peuvent avoir des effets indésirables, alors qu'arrêter ce qui nuit améliore la santé sans conséquences négatives.
 
 Pour chaque bénéfice, il faut considérer le risque associé. L’ajout, la _via positiva_, introduit systématiquement de la complexité, de l’imprévisible. L’ajout augmente le risque. Au contraire, la suppression simplifie, limite les effets secondaires, épure. La suppression diminue le risque.
 

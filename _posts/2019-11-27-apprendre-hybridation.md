@@ -5,7 +5,7 @@ image: https://images.unsplash.com/photo-1543162033-ff9eed8df958?ixlib=rb-1.2.1&
 tags: [Innovation, Administration, Hybridation, EIG, Startups d'État]
 ---
 
-Lors d'une table ronde au [sommet des Govtech](https://www.public.io/insight/intelligence/future-of-govtech/govtech-summit-2019/), une question très pertinente a été posée : *comment les administrations peuvent-elles acquérir des technologies dont elles ne connaissent même pas l'existence ?*
+Lors d'une table ronde au [sommet des Govtech](https://www.govtechsummit.eu/), une question très pertinente a été posée : *comment les administrations peuvent-elles acquérir des technologies dont elles ne connaissent même pas l'existence ?*
 
 En tant qu'innovateurs publics, il est important que nous nous emparions de cette question. Comment permettre aux agents de se rendre compte de l'état de l’art des technologies, afin qu'ils puissent imaginer de quoi le futur pourrait être fait.
 
