@@ -2,19 +2,38 @@
 layout: page_blog
 title: Interventions
 ---
+Public speaking appearances:
 
-Je partage régulièrement mon expérience sur l'innovation, l'utilisation de la science des données pour le bien commun et l'éthique des algorithmes :
+# In English:
 
 ## Conférences
 
-* « Move fast and fix things: first-hand experiences from the French administration » – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021) – 🎯 NPS = 60
 * « _[Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288)_ » – Conférence « _Data Driven Nation_ » (_Latvian Open Technology Association_, 01/2020)
+* « _Ethics in Artificial Intelligence_ » – discours de clôture du hackathon « _Open Sea Lab_ » (EMODnet, 11/2017)
+* * « _Stories of data science for social good_ » – Forum Mondial Convergences (Hôtel de Ville de Paris, 09/2016)
+
+
+## Teaching
+* « Move fast and fix things: first-hand experiences from the French administration » – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021) – 🎯 NPS = 60
+* « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
+* « _Toward algorithmic transparency and accountability_ » – séminaire « _Technology, Government and Society_ » (Sciences Po Saint-Germain-en-Laye, 02/2018)
+
+## Panel discussions
+* « _How public interest entrepreneurs build impactful digital products and change public service_ » – table ronde (_GovTech Summit_, 11/2018)
+* « _[The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr)_ » – table ronde (Forum de l'OCDE, 05/2018)
+* « _Data for Good: creating public value through data_ » – workshop « _Building Impact_ » (Facebook, 06/2017)
+
+
+
+# In French
+
+
+## Conférences
+
 * « De l'attention à l'apprentissage automatique » – Conférence « IA, algorithme et éthique » (Commissariat général au développement durable, 04/2019)
 * « [La face cachée des algorithmes](https://youtu.be/17DPl9fGins) » – Grand Barouf Numérique (CCI Grand Lille, 03/2019)
 * « Effets secondaires du machine learning dans l’économie de l’attention » – journée thématique « [Intelligibilité et Transparence du Machine Learning et des Intelligences Artificielles](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/630-journee_thematique_intelligibilite_et_transparence_du_machine_learning_et_des_intelligences_ar/) » (Société Française de Statistique, 05/2018)
-* « _Ethics in Artificial Intelligence_ » – discours de clôture du hackathon « _Open Sea Lab_ » (EMODnet, 11/2017)
 * « Introduction à la data science » – programme de sensibilisation à la data (Caisse des Dépôts, 04/2017)
-* « _Stories of data science for social good_ » – Forum Mondial Convergences (Hôtel de Ville de Paris, 09/2016)
 
 
 ## Interviews
@@ -36,9 +55,7 @@ Je partage régulièrement mon expérience sur l'innovation, l'utilisation de la
 
 * « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020 et 04/2021) – 🎯 NPS = 80
 * « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
-* « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
 * « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
-* « _Toward algorithmic transparency and accountability_ » – séminaire « _Technology, Government and Society_ » (Sciences Po Saint-Germain-en-Laye, 02/2018)
 
 
 ## Tables rondes
@@ -48,10 +65,7 @@ Je partage régulièrement mon expérience sur l'innovation, l'utilisation de la
 * « Pour une intelligence artificielle égalitaire » – webinaire (Tech for Good Tour, 06/2020)
 * « IA et sexisme » – table ronde (2ème journée nationale contre le sexisme, 01/2019)
 * « Monde associatif et innovations technologiques : petits changements ou grande révolution ? » – table ronde (10 ans de Solidatech, 11/2018)
-* « _How public interest entrepreneurs build impactful digital products and change public service_ » – table ronde (_GovTech Summit_, 11/2018)
 * « Éthique des algorithmes publics » – conférence innovation & numérique (ENA, 06/2018)
-* « _[The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr)_ » – table ronde (Forum de l'OCDE, 05/2018)
-* « _Data for Good: creating public value through data_ » – workshop « _Building Impact_ » (Facebook, 06/2017)
 * « Les algorithmes déterminant l’accès à l’information » – colloque « Droits de l'Homme et accès aux contenus sur Internet » (Sorbonne, 05/2017)
 * « Devons-nous vraiment ubériser l’État ? » – cycle de conférence « GovTech » (Liberté Living Lab, 05/2017)
 * [Le Social Good à l'ère du Cloud](https://www.facebook.com/helloasso/videos/1122013457911262) — table ronde (Social Good Week 2016, 12/2016)
