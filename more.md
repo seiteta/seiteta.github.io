@@ -10,7 +10,7 @@ Public speaking appearances:
 
 * « _[Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288)_ » – Conférence « _Data Driven Nation_ » (_Latvian Open Technology Association_, 01/2020)
 * « _Ethics in Artificial Intelligence_ » – discours de clôture du hackathon « _Open Sea Lab_ » (EMODnet, 11/2017)
-* * « _Stories of data science for social good_ » – Forum Mondial Convergences (Hôtel de Ville de Paris, 09/2016)
+* « _Stories of data science for social good_ » – Forum Mondial Convergences (Hôtel de Ville de Paris, 09/2016)
 
 
 ## Teaching
@@ -60,6 +60,7 @@ Public speaking appearances:
 
 ## Tables rondes
 
+* « Travailler dans le numérique : pourquoi pas vous ? » – table ronde (Festival des cultures numériques d'Allonnes, 10/2022)
 * « [La transformation des usages numériques](https://www.youtube.com/watch?v=d7T52DoqGEc) » – table ronde (Forum Innovation Défense 2020, 11/2020)
 * « [La culture d'innovation au sein de l'Etat](https://www.dailymotion.com/video/x7xqmsa) » – table ronde (Forum de l’emploi tech de l’État 2020, 11/2020)
 * « Pour une intelligence artificielle égalitaire » – webinaire (Tech for Good Tour, 06/2020)
