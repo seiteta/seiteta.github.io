@@ -30,7 +30,9 @@ Public speaking appearances:
 
 ## Conférences
 
-* « _[Déployer des LLM avec agilité grâce à des instances GPU dédiées](https://conference-mlops.com/speakers/frederic-bardolle/)_ » – intervention (Conférence MLOps, 03/2024)
+* « [Déployer des LLM avec agilité grâce à des instances GPU dédiées](https://conference-mlops.com/speakers/frederic-bardolle/) » – Conférence (La Conférence MLOps, 03/2024)
+* « Données personnelle et vie privée – Entre nouveau business et technologie au service du mieux commun » – Keynote (MAIF, 11/2022)
+* « Pouvons-nous être plus forts que les algorithmes ? » – Conférence (Médiathèques de Marckolsheim et Kingersheim, 11/2022)
 * « De l'attention à l'apprentissage automatique » – Conférence « IA, algorithme et éthique » (Commissariat général au développement durable, 04/2019)
 * « [La face cachée des algorithmes](https://youtu.be/17DPl9fGins) » – Grand Barouf Numérique (CCI Grand Lille, 03/2019)
 * « Effets secondaires du machine learning dans l’économie de l’attention » – journée thématique « [Intelligibilité et Transparence du Machine Learning et des Intelligences Artificielles](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/630-journee_thematique_intelligibilite_et_transparence_du_machine_learning_et_des_intelligences_ar/) » (Société Française de Statistique, 05/2018)
