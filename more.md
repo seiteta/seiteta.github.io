@@ -4,17 +4,18 @@ title: Interventions
 ---
 Public speaking appearances:
 
-# In English:
+# In English
 
-## Conférences
+## Conference
 
+* « _[Introducing Scaleway LLM Inference](https://www.youtube.com/watch?v=iB9WF0I97PQ)_ » – intervention (Meetup GenAI Network, 03/2024)
 * « _[Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288)_ » – Conférence « _Data Driven Nation_ » (_Latvian Open Technology Association_, 01/2020)
 * « _Ethics in Artificial Intelligence_ » – discours de clôture du hackathon « _Open Sea Lab_ » (EMODnet, 11/2017)
 * « _Stories of data science for social good_ » – Forum Mondial Convergences (Hôtel de Ville de Paris, 09/2016)
 
 
 ## Teaching
-* « Move fast and fix things: first-hand experiences from the French administration » – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021) – 🎯 NPS = 60
+* « _Move fast and fix things: first-hand experiences from the French administration_ » – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021) – 🎯 NPS = 60
 * « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
 * « _Toward algorithmic transparency and accountability_ » – séminaire « _Technology, Government and Society_ » (Sciences Po Saint-Germain-en-Laye, 02/2018)
 
@@ -27,9 +28,9 @@ Public speaking appearances:
 
 # In French
 
-
 ## Conférences
 
+* « _[Déployer des LLM avec agilité grâce à des instances GPU dédiées](https://conference-mlops.com/speakers/frederic-bardolle/)_ » – intervention (Conférence MLOps, 03/2024)
 * « De l'attention à l'apprentissage automatique » – Conférence « IA, algorithme et éthique » (Commissariat général au développement durable, 04/2019)
 * « [La face cachée des algorithmes](https://youtu.be/17DPl9fGins) » – Grand Barouf Numérique (CCI Grand Lille, 03/2019)
 * « Effets secondaires du machine learning dans l’économie de l’attention » – journée thématique « [Intelligibilité et Transparence du Machine Learning et des Intelligences Artificielles](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/630-journee_thematique_intelligibilite_et_transparence_du_machine_learning_et_des_intelligences_ar/) » (Société Française de Statistique, 05/2018)
@@ -53,7 +54,7 @@ Public speaking appearances:
 
 ## Cours
 
-* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020 et 04/2021) – 🎯 NPS = 80
+* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020, 04/2021, 05/2022 et 05/2023) – 🎯 NPS = entre 80 et 100
 * « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
 * « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
 
