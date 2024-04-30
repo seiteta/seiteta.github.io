@@ -17,6 +17,7 @@ title: Blog
       {% assign sortedTags = post.tags | sort%}
       {% for tag in sortedTags %}
         <a href="/tag/{{ tag }}">{{ tag }}</a> /
+        {% unless forloop.last %}/ {% endunless %}
       {% endfor %}
     </span>
     {% include share-buttons.html %}
