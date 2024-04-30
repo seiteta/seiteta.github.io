@@ -14,9 +14,9 @@ title: Blog
     {{ post.content }}
     <span class="post-date">{% include date-fr.html date=post.date %}</span>
     <span class="post-tags">Tags :
-      {% assign sortedTags = post.tags | sort%}
+      {% assign sortedTags = post.tags | sort %}
       {% for tag in sortedTags %}
-        <a href="/tag/{{ tag }}">{{ tag }}</a> /
+        <a href="/tag/{{ tag }}">{{ tag }}</a>
         {% unless forloop.last %}/ {% endunless %}
       {% endfor %}
     </span>
