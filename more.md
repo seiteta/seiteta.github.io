@@ -8,21 +8,22 @@ Public speaking appearances:
 
 ## Conference
 
-* « _[Introducing Scaleway LLM Inference](https://www.youtube.com/watch?v=iB9WF0I97PQ)_ » – intervention (Meetup GenAI Network, 03/2024)
-* « _[Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288)_ » – Conférence « _Data Driven Nation_ » (_Latvian Open Technology Association_, 01/2020)
-* « _Ethics in Artificial Intelligence_ » – discours de clôture du hackathon « _Open Sea Lab_ » (EMODnet, 11/2017)
-* « _Stories of data science for social good_ » – Forum Mondial Convergences (Hôtel de Ville de Paris, 09/2016)
+* [Introducing Scaleway LLM Inference](https://www.youtube.com/watch?v=iB9WF0I97PQ) – Talk at GenAI Network Meetup (03/2024)
+* [Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288) – Talk at *Data Driven Nation* (Latvian Open Technology Association, 01/2020)  
+* « _Ethics in Artificial Intelligence_ » – Closing keynote at the “Open Sea Lab” hackathon (EMODnet, 11/2017)  
+* « _Stories of data science for social good_ » – Keynote at Convergences World Forum (Paris City Hall, 09/2016)
 
 
 ## Teaching
-* « _Move fast and fix things: first-hand experiences from the French administration_ » – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021) – 🎯 NPS = 60
-* « _How to use Data to impact Society_ » – intervention lors de la journée de sensibilisation « _Data Driven Day_ » (ADEO, 06/2019)
-* « _Toward algorithmic transparency and accountability_ » – séminaire « _Technology, Government and Society_ » (Sciences Po Saint-Germain-en-Laye, 02/2018)
+* Move Fast and Fix Things: First-Hand Experiences from the French Administration – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021) – 🎯 NPS = 60
+* How to Use Data to Impact Society – Guest lecture during “Data Driven Day” (ADEO, 06/2019)
+* Toward Algorithmic Transparency and Accountability – Seminar *Technology, Government and Society* (Sciences Po Saint-Germain-en-Laye, 02/2018)
+
 
 ## Panel discussions
-* « _How public interest entrepreneurs build impactful digital products and change public service_ » – table ronde (_GovTech Summit_, 11/2018)
-* « _[The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr)_ » – table ronde (Forum de l'OCDE, 05/2018)
-* « _Data for Good: creating public value through data_ » – workshop « _Building Impact_ » (Facebook, 06/2017)
+* How Public Interest Entrepreneurs Build Impactful Digital Products and Change Public Service – Panel discussion at *GovTech Summit* (11/2018)
+* [The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr) – Panel discussion at OECD Forum (05/2018)
+* Data for Good: Creating Public Value Through Data – Workshop *Building Impact* (Facebook, 06/2017)
 
 
 
