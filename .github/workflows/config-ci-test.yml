@@ -40,28 +40,34 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
   
-      - name: Install Ruby + Jekyll
+      - name: Install Ruby and Bundler
         run: |
           sudo apt update
           sudo apt install -y ruby-full build-essential zlib1g-dev
-          echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
           echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
           echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
           export GEM_HOME="$HOME/gems"
           export PATH="$HOME/gems/bin:$PATH"
-          gem install bundler jekyll
+          gem install bundler
+  
+      - name: Install Jekyll dependencies
+        run: |
+          export GEM_HOME="$HOME/gems"
+          export PATH="$HOME/gems/bin:$PATH"
+          bundle install
   
       - name: Build Jekyll site
         run: |
           export GEM_HOME="$HOME/gems"
           export PATH="$HOME/gems/bin:$PATH"
-          jekyll build --config _config.yml,_config-lhci.yml
+          bundle exec jekyll build --config _config.yml,_config-lhci.yml
   
       - name: Upload built site
         uses: actions/upload-artifact@v4
         with:
           name: site
           path: _site
+
 
   htmlproofer-test:
     needs: jekyll-build
