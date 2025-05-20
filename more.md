@@ -7,11 +7,13 @@ Public speaking appearances:
 # In English
 
 ## Conference
-
+* [Strategic Autonomy Means Choice](https://www.scaleway.com/en/vivatech-cto-vip-breakfast-3/) – Talk at Vivatech CTO Breakfast (in partnership with NVIDIA, 05/2025)
+* [Building AI Products as a Cloud Provider](https://www.ai-product-day.com/en/speakers-new/frederic-bardolle-92e11) – Talk at AI Product Day (03/2025)
+* [Advancing the LLM Deployment with Secure European Cloud](https://www.aicamp.ai/event/eventdetails/W2024043009) – Talk at AICamp Meetup (04/2024)
 * [Introducing Scaleway LLM Inference](https://www.youtube.com/watch?v=iB9WF0I97PQ) – Talk at GenAI Network Meetup (03/2024)
 * [Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288) – Talk at *Data Driven Nation* (Latvian Open Technology Association, 01/2020)  
-* « _Ethics in Artificial Intelligence_ » – Closing keynote at the “Open Sea Lab” hackathon (EMODnet, 11/2017)  
-* « _Stories of data science for social good_ » – Keynote at Convergences World Forum (Paris City Hall, 09/2016)
+* Ethics in Artificial Intelligence – Closing keynote at the “Open Sea Lab” hackathon (EMODnet, 11/2017)
+* Stories of Data Science for Social Good – Keynote at Convergences World Forum (Paris City Hall, 09/2016)
 
 
 ## Teaching
