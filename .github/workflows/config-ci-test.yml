@@ -36,30 +36,27 @@ jobs:
 
   jekyll-build:
     runs-on: ubuntu-latest
+    env:
+      GEM_HOME: ${{ github.workspace }}/.gems
+      PATH: ${{ github.workspace }}/.gems/bin:/usr/local/lib/ruby/gems/3.0.0/bin:/usr/local/bin:/usr/bin:/bin
+  
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
   
       - name: Install Ruby and Bundler
         run: |
-          sudo apt update
-          sudo apt install -y ruby-full build-essential zlib1g-dev
-          echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-          echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-          export GEM_HOME="$HOME/gems"
-          export PATH="$HOME/gems/bin:$PATH"
+          sudo apt-get update
+          sudo apt-get install -y ruby-full build-essential zlib1g-dev
           gem install bundler
   
       - name: Install Jekyll dependencies
         run: |
-          export GEM_HOME="$HOME/gems"
-          export PATH="$HOME/gems/bin:$PATH"
+          bundle config set path "$GEM_HOME"
           bundle install
   
       - name: Build Jekyll site
         run: |
-          export GEM_HOME="$HOME/gems"
-          export PATH="$HOME/gems/bin:$PATH"
           bundle exec jekyll build --config _config.yml,_config-lhci.yml
   
       - name: Upload built site
@@ -67,6 +64,7 @@ jobs:
         with:
           name: site
           path: _site
+
 
 
   htmlproofer-test:
