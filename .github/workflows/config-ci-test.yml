@@ -60,4 +60,4 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Check links with HTMLProofer
-        run: bundle exec htmlproofer ./_site --check-internal-hash --disable-external
+        run: htmlproofer ./_site --check-internal-hash --disable-external
