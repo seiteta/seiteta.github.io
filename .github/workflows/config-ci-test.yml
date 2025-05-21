@@ -33,3 +33,26 @@ jobs:
 
       - name: Run tests
         run: pytest tests.py
+
+  jekyll-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1' # Adjust to your needs
+
+      - name: Install Jekyll and HTMLProofer
+        run: |
+          gem install bundler
+          bundle install || bundle init && echo 'gem "jekyll"' >> Gemfile && echo 'gem "html-proofer"' >> Gemfile && bundle install
+
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build
+
+      - name: Check links with HTMLProofer
+        run: bundle exec htmlproofer ./_site --check-external-hash --disable-external
+
