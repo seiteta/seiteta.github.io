@@ -39,25 +39,34 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
+  
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-
+  
       - name: Install build dependencies
         run: sudo apt-get update && sudo apt-get install -y build-essential libffi-dev libyaml-dev
-
+  
+      - name: Cache Ruby gems
+        uses: actions/cache@v4
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+  
       - name: Install Bundler and site gems
         run: |
           gem install bundler -v 2.6.9
-          bundle install
-      
+          bundle config set path 'vendor/bundle'
+          bundle install --jobs 4 --retry 3
+  
       - name: Install html-proofer
         run: gem install html-proofer
-      
+  
       - name: Build site with Jekyll
         run: bundle exec jekyll build
-
+  
       - name: Check links with HTMLProofer
         run: htmlproofer ./_site --check-internal-hash --disable-external
