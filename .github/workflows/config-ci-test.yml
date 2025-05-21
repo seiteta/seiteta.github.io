@@ -43,17 +43,18 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          ruby-version: '3.1'  # Match your local dev Ruby version
 
       - name: Install build dependencies
         run: sudo apt-get update && sudo apt-get install -y build-essential libffi-dev libyaml-dev
 
-      - name: Install gems
+      - name: Install Bundler and site gems
         run: |
-          gem install bundler jekyll html-proofer
+          gem install bundler -v 2.6.9
+          bundle install
 
-      - name: Build site
-        run: jekyll build
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build
 
       - name: Check links with HTMLProofer
-        run: htmlproofer ./_site --check-internal-hash --disable-external
+        run: bundle exec htmlproofer ./_site --check-internal-hash --disable-external
