@@ -43,16 +43,17 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Adjust to your needs
+          ruby-version: '3.1'
 
-      - name: Install Jekyll and HTMLProofer
+      - name: Install build dependencies
+        run: sudo apt-get update && sudo apt-get install -y build-essential libffi-dev libyaml-dev
+
+      - name: Install gems
         run: |
-          gem install bundler
-          bundle install || bundle init && echo 'gem "jekyll"' >> Gemfile && echo 'gem "html-proofer"' >> Gemfile && bundle install
+          gem install bundler jekyll html-proofer
 
-      - name: Build site with Jekyll
-        run: bundle exec jekyll build
+      - name: Build site
+        run: jekyll build
 
       - name: Check links with HTMLProofer
-        run: bundle exec htmlproofer ./_site --check-external-hash --disable-external
-
+        run: htmlproofer ./_site --check-internal-hash --disable-external
