@@ -1,8 +1,7 @@
 ---
 layout: page_blog
-title: Interventions
+title: Prises de parole
 ---
-Public speaking appearances:
 
 # In English
 
@@ -31,6 +30,18 @@ Public speaking appearances:
 
 # In French
 
+## Émissions
+
+* [C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/) – Émission co-animée avec Le Ticket, dédiée à l’intégration de l’IA dans les équipes produit. Témoignages concrets, démos live et retours d’expérience de PMs, CPOs, designers et data scientists.
+
+  Épisodes :
+  - [Comment Contentsquare accélère l'usage et l’adoption de son produit avec l’IA](https://www.le-ticket.fr/comment-contentsquare-accelere-lusage-et-ladoption-de-son-produit-avec-lia/147141/)
+  - [Vibe Coding : La masterclass du VP Product de Photoroom pour apprendre à coder ses prototypes avec Cursor](https://www.le-ticket.fr/vibe-coding-la-masterclass-du-vp-product-de-photoroom-pour-appendre-a-coder-ses-prototypes-avec-cursor/147023/)
+  - [Comment Alan construit son support client augmenté par l’IA](https://www.le-ticket.fr/comment-alan-construit-son-support-client-augmente-par-lia/146910/)
+  - [Comment PlayPlay a construit et utilise son assistant IA pour accélérer son process produit](https://www.le-ticket.fr/comment-playplay-a-construit-et-utilise-son-assistant-ia-pour-accelerer-son-process-produit/146457/)
+  - [DeepSeek : tout comprendre sur ce nouvel acteur de l’IA qui a fait perdre en Bourse des centaines de milliards à la Tech US](https://www.le-ticket.fr/deepseek-ia-cest-pas-sorciai-fred-bardolle/146440/)
+
+
 ## Conférences
 
 * « [Déployer des LLM avec agilité grâce à des instances GPU dédiées](https://conference-mlops.com/speakers/frederic-bardolle/) » – Conférence (La Conférence MLOps, 03/2024)
@@ -44,7 +55,7 @@ Public speaking appearances:
 
 ## Interviews
 
-* « [On a montré qu’on pouvait faire du lean et du DevOps au ministère des Armées](https://www.le-ticket.fr/frederic-bardolle-cpo-ministere-armees-interview-flash/1659/) – Le Ticket (04/2021) »
+* « [On a montré qu’on pouvait faire du lean et du DevOps au ministère des Armées](https://www.le-ticket.fr/frederic-bardolle-cpo-ministere-armees-interview-flash/1659/) » – Le Ticket (04/2021)
 * « [Rétablir l'équilibre](https://medium.com/opencollectiveparis/rétablir-léquilibre-a278dcda6795) » – OpenCollective (04/2019)
 * « [À la base, les algorithmes sont plutôt neutres](https://www.soonsoonsoon.com/le-monde-de-demain-selon-Frederic-Bardolle) » – Soon Soon Soon (03/2019)
 * « [Utiliser les datas pour le bien commun](https://www.lelab50.fr/utiliser-les-datas-pour-le-bien-commun/) » – Le Lab 50 (12/2018)
