@@ -32,7 +32,7 @@ title: Prises de parole
 
 ### Émissions
 
-* [C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/) – Émission co-animée avec Le Ticket, dédiée à l’intégration de l’IA dans les équipes produit. Témoignages concrets, démos live et retours d’expérience de PMs, CPOs, designers et data scientists.
+* [C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/) – Émission co-animée avec Le Ticket, dédiée à l’intégration de l’IA dans les équipes produit.
 
   Épisodes :
   - [Comment Contentsquare accélère l'usage et l’adoption de son produit avec l’IA](https://www.le-ticket.fr/comment-contentsquare-accelere-lusage-et-ladoption-de-son-produit-avec-lia/147141/)
