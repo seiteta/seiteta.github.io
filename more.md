@@ -16,7 +16,7 @@ title: Prises de parole
 
 
 ### Teaching
-* Move Fast and Fix Things: First-Hand Experiences from the French Administration – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021) – 🎯 NPS = 60
+* Move Fast and Fix Things: First-Hand Experiences from the French Administration – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021)
 * How to Use Data to Impact Society – Guest lecture during “Data Driven Day” (ADEO, 06/2019)
 * Toward Algorithmic Transparency and Accountability – Seminar *Technology, Government and Society* (Sciences Po Saint-Germain-en-Laye, 02/2018)
 
@@ -70,7 +70,7 @@ title: Prises de parole
 
 ### Cours
 
-* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020, 04/2021, 05/2022 et 05/2023) – 🎯 NPS = entre 80 et 100
+* « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020, 04/2021, 05/2022 et 05/2023)
 * « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
 * « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
 
