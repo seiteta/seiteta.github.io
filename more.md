@@ -3,9 +3,9 @@ layout: page_blog
 title: Prises de parole
 ---
 
-# In English
+## In English
 
-## Conference
+### Conference
 * [Strategic Autonomy Means Choice](https://www.scaleway.com/en/vivatech-cto-vip-breakfast-3/) – Talk at Vivatech CTO Breakfast (in partnership with NVIDIA, 05/2025)
 * [Building AI Products as a Cloud Provider](https://www.ai-product-day.com/en/speakers-new/frederic-bardolle-92e11) – Talk at AI Product Day (03/2025)
 * [Advancing the LLM Deployment with Secure European Cloud](https://www.aicamp.ai/event/eventdetails/W2024043009) – Talk at AICamp Meetup (04/2024)
@@ -15,22 +15,22 @@ title: Prises de parole
 * Stories of Data Science for Social Good – Keynote at Convergences World Forum (Paris City Hall, 09/2016)
 
 
-## Teaching
+### Teaching
 * Move Fast and Fix Things: First-Hand Experiences from the French Administration – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021) – 🎯 NPS = 60
 * How to Use Data to Impact Society – Guest lecture during “Data Driven Day” (ADEO, 06/2019)
 * Toward Algorithmic Transparency and Accountability – Seminar *Technology, Government and Society* (Sciences Po Saint-Germain-en-Laye, 02/2018)
 
 
-## Panel discussions
+### Panel discussions
 * How Public Interest Entrepreneurs Build Impactful Digital Products and Change Public Service – Panel discussion at *GovTech Summit* (11/2018)
 * [The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr) – Panel discussion at OECD Forum (05/2018)
 * Data for Good: Creating Public Value Through Data – Workshop *Building Impact* (Facebook, 06/2017)
 
 
 
-# In French
+## In French
 
-## Émissions
+### Émissions
 
 * [C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/) – Émission co-animée avec Le Ticket, dédiée à l’intégration de l’IA dans les équipes produit. Témoignages concrets, démos live et retours d’expérience de PMs, CPOs, designers et data scientists.
 
@@ -42,7 +42,7 @@ title: Prises de parole
   - [DeepSeek : tout comprendre sur ce nouvel acteur de l’IA qui a fait perdre en Bourse des centaines de milliards à la Tech US](https://www.le-ticket.fr/deepseek-ia-cest-pas-sorciai-fred-bardolle/146440/)
 
 
-## Conférences
+### Conférences
 
 * « [Déployer des LLM avec agilité grâce à des instances GPU dédiées](https://conference-mlops.com/speakers/frederic-bardolle/) » – Conférence (La Conférence MLOps, 03/2024)
 * « Données personnelle et vie privée – Entre nouveau business et technologie au service du mieux commun » – Keynote (MAIF, 11/2022)
@@ -53,7 +53,7 @@ title: Prises de parole
 * « Introduction à la data science » – programme de sensibilisation à la data (Caisse des Dépôts, 04/2017)
 
 
-## Interviews
+### Interviews
 
 * « [On a montré qu’on pouvait faire du lean et du DevOps au ministère des Armées](https://www.le-ticket.fr/frederic-bardolle-cpo-ministere-armees-interview-flash/1659/) » – Le Ticket (04/2021)
 * « [Rétablir l'équilibre](https://medium.com/opencollectiveparis/rétablir-léquilibre-a278dcda6795) » – OpenCollective (04/2019)
@@ -62,20 +62,20 @@ title: Prises de parole
 * « [On cherche à éveiller la conscience éthique des développeurs et data scientists](https://usbeketrica.com/fr/article/on-cherche-a-eveiller-la-conscience-ethique-des-developpeurs-et-data-scientists) » – Usbek et Rica (06/2018)
 
 
-## Radio
+### Radio
 
 * « [L'emprise des algorithmes et des CGU sur notre vie numérique](http://www.rfi.fr/fr/emission/20190531-emprise-algorithmes-cgu-notre-vie-numerique) » – émission « L'Atelier des médias » (RFI, 05/2019)
 * « [Éthique numérique, des datas sous serment](https://www.franceculture.fr/emissions/la-methode-scientifique/ethique-numerique-des-datas-sous-serment) » – émission « La Méthode scientifique » (France Culture, 10/2018)
 
 
-## Cours
+### Cours
 
 * « Données, éthique et algorithmes » – intervention à l'Executive Master « Data & Marketing » (Sciences Po Grenoble, 01/2020, 04/2021, 05/2022 et 05/2023) – 🎯 NPS = entre 80 et 100
 * « Innovations dans l’administration publique » – formation (École d’administration publique de Lettonie, 11/2019)
 * « Éthique et algorithmes » – intervention dans le cours « Python pour un Data Scientist » (ENSAE ParisTech, 10/2018)
 
 
-## Tables rondes
+### Tables rondes
 
 * « Travailler dans le numérique : pourquoi pas vous ? » – table ronde (Festival des cultures numériques d'Allonnes, 10/2022)
 * « [La transformation des usages numériques](https://www.youtube.com/watch?v=d7T52DoqGEc) » – table ronde (Forum Innovation Défense 2020, 11/2020)
@@ -89,7 +89,7 @@ title: Prises de parole
 * [Le Social Good à l'ère du Cloud](https://www.facebook.com/helloasso/videos/1122013457911262) — table ronde (Social Good Week 2016, 12/2016)
 
 
-## Autres interventions
+### Autres interventions
 
 * « [La méthode “start-up d’État”, le remède miracle ?](https://www.acteurspublics.fr/webtv/emissions/numerique-public/la-methode-start-up-detat-le-remede-miracle) » – émission « Numérique public » (Acteurs publics, 10/2019)
 * « [Quelles nouvelles méthodes pour doper l’innovation ?](https://www.acteurspublics.fr/webtv/emissions/aws-summit/debat-quelles-nouvelles-methodes-pour-doper-linnovation) » – émission « AWS summit » (Acteurs publics, 04/2019)
