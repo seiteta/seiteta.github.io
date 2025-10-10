@@ -32,9 +32,11 @@ title: Prises de parole
 
 ### Émissions
 
-* [C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/) – Émission co-animée avec Le Ticket, dédiée à l’intégration de l’IA dans les équipes produit.
+* [C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/) – Émission live avec Le Ticket qui démystifie l'IA pour les équipes produit.
 
   Épisodes :
+  – [Comment TheFork transforme les avis de ses utilisateurs en fonctionnalités grâce à l’IA](https://www.le-ticket.fr/comment-thefork-transforme-les-avis-de-ses-utilisateurs-en-fonctionnalites-grace-a-lia/147279/)
+  – [MCP pour les équipes produit : Les 10 questions essentielles pour utiliser ces nouveaux connecteurs IA](https://www.le-ticket.fr/mcp-pour-les-equipes-produit-les-10-questions-essentielles-pour-utiliser-ces-nouveaux-connecteurs-ia/147222/)
   - [Comment Contentsquare accélère l'usage et l’adoption de son produit avec l’IA](https://www.le-ticket.fr/comment-contentsquare-accelere-lusage-et-ladoption-de-son-produit-avec-lia/147141/)
   - [Vibe Coding : La masterclass du VP Product de Photoroom pour apprendre à coder ses prototypes avec Cursor](https://www.le-ticket.fr/vibe-coding-la-masterclass-du-vp-product-de-photoroom-pour-appendre-a-coder-ses-prototypes-avec-cursor/147023/)
   - [Comment Alan construit son support client augmenté par l’IA](https://www.le-ticket.fr/comment-alan-construit-son-support-client-augmente-par-lia/146910/)
@@ -44,6 +46,7 @@ title: Prises de parole
 
 ### Conférences
 
+* « [MCP & Vibe Coding : le futur du Produit à l’ère de l’IA - Frédéric Bardolle ](https://www.youtube.com/watch?v=TvcYt2T_oZs) » – Meetup (We.Talk, 10/2025)
 * « [Déployer des LLM avec agilité grâce à des instances GPU dédiées](https://conference-mlops.com/speakers/frederic-bardolle/) » – Conférence (La Conférence MLOps, 03/2024)
 * « Données personnelle et vie privée – Entre nouveau business et technologie au service du mieux commun » – Keynote (MAIF, 11/2022)
 * « Pouvons-nous être plus forts que les algorithmes ? » – Conférence (Médiathèques de Marckolsheim et Kingersheim, 11/2022)
