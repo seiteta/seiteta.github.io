@@ -32,16 +32,15 @@ title: Prises de parole
 
 ### Émissions
 
-* [C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/) – Émission live avec Le Ticket qui démystifie l'IA pour les équipes produit.
-
-  Épisodes :
-  – [Comment TheFork transforme les avis de ses utilisateurs en fonctionnalités grâce à l’IA](https://www.le-ticket.fr/comment-thefork-transforme-les-avis-de-ses-utilisateurs-en-fonctionnalites-grace-a-lia/147279/)
-  – [MCP pour les équipes produit : Les 10 questions essentielles pour utiliser ces nouveaux connecteurs IA](https://www.le-ticket.fr/mcp-pour-les-equipes-produit-les-10-questions-essentielles-pour-utiliser-ces-nouveaux-connecteurs-ia/147222/)
-  - [Comment Contentsquare accélère l'usage et l’adoption de son produit avec l’IA](https://www.le-ticket.fr/comment-contentsquare-accelere-lusage-et-ladoption-de-son-produit-avec-lia/147141/)
-  - [Vibe Coding : La masterclass du VP Product de Photoroom pour apprendre à coder ses prototypes avec Cursor](https://www.le-ticket.fr/vibe-coding-la-masterclass-du-vp-product-de-photoroom-pour-appendre-a-coder-ses-prototypes-avec-cursor/147023/)
-  - [Comment Alan construit son support client augmenté par l’IA](https://www.le-ticket.fr/comment-alan-construit-son-support-client-augmente-par-lia/146910/)
-  - [Comment PlayPlay a construit et utilise son assistant IA pour accélérer son process produit](https://www.le-ticket.fr/comment-playplay-a-construit-et-utilise-son-assistant-ia-pour-accelerer-son-process-produit/146457/)
-  - [DeepSeek : tout comprendre sur ce nouvel acteur de l’IA qui a fait perdre en Bourse des centaines de milliards à la Tech US](https://www.le-ticket.fr/deepseek-ia-cest-pas-sorciai-fred-bardolle/146440/)
+[C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/), l'émission live concoctée par Le Ticket qui démystifie l'IA pour les équipes produit.
+  
+* [Comment TheFork transforme les avis de ses utilisateurs en fonctionnalités grâce à l’IA](https://www.le-ticket.fr/comment-thefork-transforme-les-avis-de-ses-utilisateurs-en-fonctionnalites-grace-a-lia/147279/)
+* [MCP pour les équipes produit : Les 10 questions essentielles pour utiliser ces nouveaux connecteurs IA](https://www.le-ticket.fr/mcp-pour-les-equipes-produit-les-10-questions-essentielles-pour-utiliser-ces-nouveaux-connecteurs-ia/147222/)
+* [Comment Contentsquare accélère l'usage et l’adoption de son produit avec l’IA](https://www.le-ticket.fr/comment-contentsquare-accelere-lusage-et-ladoption-de-son-produit-avec-lia/147141/)
+* [Vibe Coding : La masterclass du VP Product de Photoroom pour apprendre à coder ses prototypes avec Cursor](https://www.le-ticket.fr/vibe-coding-la-masterclass-du-vp-product-de-photoroom-pour-appendre-a-coder-ses-prototypes-avec-cursor/147023/)
+* [Comment Alan construit son support client augmenté par l’IA](https://www.le-ticket.fr/comment-alan-construit-son-support-client-augmente-par-lia/146910/)
+* [Comment PlayPlay a construit et utilise son assistant IA pour accélérer son process produit](https://www.le-ticket.fr/comment-playplay-a-construit-et-utilise-son-assistant-ia-pour-accelerer-son-process-produit/146457/)
+* [DeepSeek : tout comprendre sur ce nouvel acteur de l’IA qui a fait perdre en Bourse des centaines de milliards à la Tech US](https://www.le-ticket.fr/deepseek-ia-cest-pas-sorciai-fred-bardolle/146440/)
 
 
 ### Conférences
