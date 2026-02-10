@@ -34,7 +34,7 @@ title: Prises de parole
 
 [C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/), l'émission live concoctée par Le Ticket qui démystifie l'IA pour les équipes produit.
   
-* [DeepL Voice : l’histoire d’un produit qui révolutionne nos réunions en ligne](www.le-ticket.fr/deepl-voice-lhistoire-dun-produit-qui-revolutionne-nos-reunions-en-ligne/) (01/2026) 
+* [DeepL Voice : l’histoire d’un produit qui révolutionne nos réunions en ligne](https://www.le-ticket.fr/deepl-voice-lhistoire-dun-produit-qui-revolutionne-nos-reunions-en-ligne/) (01/2026) 
 * [Comment TheFork transforme les avis de ses utilisateurs en fonctionnalités grâce à l’IA](https://www.le-ticket.fr/comment-thefork-transforme-les-avis-de-ses-utilisateurs-en-fonctionnalites-grace-a-lia/147279/) (06/2025)
 * [MCP pour les équipes produit : Les 10 questions essentielles pour utiliser ces nouveaux connecteurs IA](https://www.le-ticket.fr/mcp-pour-les-equipes-produit-les-10-questions-essentielles-pour-utiliser-ces-nouveaux-connecteurs-ia/147222/) (06/2025)
 * [Comment Contentsquare accélère l'usage et l’adoption de son produit avec l’IA](https://www.le-ticket.fr/comment-contentsquare-accelere-lusage-et-ladoption-de-son-produit-avec-lia/147141/) (05/2025)
