@@ -6,6 +6,7 @@ title: Prises de parole
 ## In English
 
 ### Conferences
+
 * [Strategic Autonomy Means Choice](https://www.scaleway.com/en/vivatech-cto-vip-breakfast-3/) – Talk at Vivatech CTO Breakfast (in partnership with NVIDIA, 05/2025)
 * [Building AI Products as a Cloud Provider](https://www.ai-product-day.com/en/speakers-new/frederic-bardolle-92e11) – Talk at AI Product Day (03/2025)
 * [Advancing the LLM Deployment with Secure European Cloud](https://www.aicamp.ai/event/eventdetails/W2024043009) – Talk at AICamp Meetup (04/2024)
@@ -16,21 +17,26 @@ title: Prises de parole
 
 
 ### Teaching
+
 * Move Fast and Fix Things: First-Hand Experiences from the French Administration – Senior leadership development program in public administration (State Chancellery of Latvia, 04/2021)
 * How to Use Data to Impact Society – Guest lecture during “Data Driven Day” (ADEO, 06/2019)
 * Toward Algorithmic Transparency and Accountability – Seminar *Technology, Government and Society* (Sciences Po Saint-Germain-en-Laye, 02/2018)
 
 
 ### Panel Discussions
-* How Public Interest Entrepreneurs Build Impactful Digital Products and Change Public Service – Panel discussion at *GovTech Summit* (11/2018)
-* [The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr) – Panel discussion at OECD Forum (05/2018)
+
+* [Agents that actually do the work: how autonomy changes the way we build](https://www.ai-pulse.eu/agenda/agents-that-actually-do-the-work:-how-autonomy-changes-the-way-we-build) – Moderator (ai-PULSE, 12/2025)
+* How Public Interest Entrepreneurs Build Impactful Digital Products and Change Public Service – Panel discussion (GovTech Summit, 11/2018)
+* [The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr) – Panel discussion (OECD Forum, 05/2018)
 * Data for Good: Creating Public Value Through Data – Workshop *Building Impact* (Facebook, 06/2017)
 
 
 ### Advisory & Editorial Roles
+
 * Advisory Board Member – [datacraft](https://datacraft.paris/) (since 2019)
 * Editorial Board Member – [dotAI Conference](https://www.dotai.io/) (2025)
 * Editorial Lead – ai-PULSE ([2024](https://2024.ai-pulse.eu/), [2025](https://2025.ai-pulse.eu/), [2026](https://www.ai-pulse.eu/) editions)
+
 
 
 ## In French
@@ -87,6 +93,7 @@ title: Prises de parole
 
 ### Tables rondes
 
+* « [Intrapreneuriat & Leadership au Féminin](https://www.scaleway.com/fr/women-in-tech-meetup/) » – modérateur (Women In Tech Meetup, 10/2025)
 * « Travailler dans le numérique : pourquoi pas vous ? » – table ronde (Festival des cultures numériques d'Allonnes, 10/2022)
 * « [La transformation des usages numériques](https://www.youtube.com/watch?v=d7T52DoqGEc) » – table ronde (Forum Innovation Défense 2020, 11/2020)
 * « [La culture d'innovation au sein de l'Etat](https://www.dailymotion.com/video/x7xqmsa) » – table ronde (Forum de l’emploi tech de l’État 2020, 11/2020)
