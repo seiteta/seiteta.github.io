@@ -100,15 +100,15 @@
 }
 @media (prefers-color-scheme: dark) {
   .b-nav a {
-    color: #93a1a1;
+    color: #f5f5f5;
   }
   .b-bun {
-    background: #93a1a1;
+    background: #a492ad;
   }
   .b-container.open .b-bun--top {
-    background: #93a1a1;
+    background: #a492ad;
   }
   .b-container.open .b-bun--bottom {
-    background: #93a1a1;
+    background: #a492ad;
   }
 }
