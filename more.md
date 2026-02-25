@@ -21,11 +21,16 @@ title: Prises de parole
 * Toward Algorithmic Transparency and Accountability – Seminar *Technology, Government and Society* (Sciences Po Saint-Germain-en-Laye, 02/2018)
 
 
-### Panel discussions
+### Panel Discussions
 * How Public Interest Entrepreneurs Build Impactful Digital Products and Change Public Service – Panel discussion at *GovTech Summit* (11/2018)
 * [The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr) – Panel discussion at OECD Forum (05/2018)
 * Data for Good: Creating Public Value Through Data – Workshop *Building Impact* (Facebook, 06/2017)
 
+
+### Advisory & Editorial Roles
+* Advisory Board Member – [datacraft](https://datacraft.paris/) (since 2019)
+* Member of the Editorial Board – [dotAI Conference](https://www.dotai.io/) (2025)
+* Editorial Lead – ai-PULSE ([2024](https://2024.ai-pulse.eu/), [2025](https://2025.ai-pulse.eu/), [2026](https://www.ai-pulse.eu/) editions)
 
 
 ## In French
