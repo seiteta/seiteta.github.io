@@ -180,7 +180,7 @@ code {
 }
 @media (prefers-color-scheme: dark) {
   code {
-    background-color: #073642;
+    background-color: #151a33;
     color: #f5f5f5;
   }
 }
@@ -213,8 +213,8 @@ blockquote {
 }
 @media (prefers-color-scheme: dark) {
   blockquote {
-    color: #839496;
-    border-left: .25rem solid #839496;
+    color: #cfcfe6;
+    border-left: .25rem solid #cfcfe6;
   }
 }
 blockquote p:last-child {
@@ -412,7 +412,7 @@ tbody tr:nth-child(odd) th {
 }
 @media (prefers-color-scheme: dark) {
   .related-posts li small {
-    color: #839496;
+    color: #cfcfe6;
   }
 }
 .related-posts li a:hover small {
