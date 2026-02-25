@@ -5,7 +5,7 @@ title: Prises de parole
 
 ## In English
 
-### Conference
+### Conferences
 * [Strategic Autonomy Means Choice](https://www.scaleway.com/en/vivatech-cto-vip-breakfast-3/) – Talk at Vivatech CTO Breakfast (in partnership with NVIDIA, 05/2025)
 * [Building AI Products as a Cloud Provider](https://www.ai-product-day.com/en/speakers-new/frederic-bardolle-92e11) – Talk at AI Product Day (03/2025)
 * [Advancing the LLM Deployment with Secure European Cloud](https://www.aicamp.ai/event/eventdetails/W2024043009) – Talk at AICamp Meetup (04/2024)
@@ -29,7 +29,7 @@ title: Prises de parole
 
 ### Advisory & Editorial Roles
 * Advisory Board Member – [datacraft](https://datacraft.paris/) (since 2019)
-* Member of the Editorial Board – [dotAI Conference](https://www.dotai.io/) (2025)
+* Editorial Board Member – [dotAI Conference](https://www.dotai.io/) (2025)
 * Editorial Lead – ai-PULSE ([2024](https://2024.ai-pulse.eu/), [2025](https://2025.ai-pulse.eu/), [2026](https://www.ai-pulse.eu/) editions)
 
 
@@ -55,7 +55,7 @@ title: Prises de parole
 
 * « [MCP & Vibe Coding : le futur du Produit à l’ère de l’IA - Frédéric Bardolle ](https://www.youtube.com/watch?v=TvcYt2T_oZs) » – Meetup (We.Talk, 10/2025)
 * « [Déployer des LLM avec agilité grâce à des instances GPU dédiées](https://conference-mlops.com/speakers/frederic-bardolle/) » – Conférence (La Conférence MLOps, 03/2024)
-* « Données personnelle et vie privée – Entre nouveau business et technologie au service du mieux commun » – Keynote (MAIF, 11/2022)
+* « Données personnelles et vie privée – Entre nouveau business et technologie au service du mieux commun » – Keynote (MAIF, 11/2022)
 * « Pouvons-nous être plus forts que les algorithmes ? » – Conférence (Médiathèques de Marckolsheim et Kingersheim, 11/2022)
 * « De l'attention à l'apprentissage automatique » – Conférence « IA, algorithme et éthique » (Commissariat général au développement durable, 04/2019)
 * « [La face cachée des algorithmes](https://youtu.be/17DPl9fGins) » – Grand Barouf Numérique (CCI Grand Lille, 03/2019)
