@@ -72,6 +72,7 @@ title: Prises de parole
 
 ### Interviews
 
+* « [Scaleway : l’IA générative au cœur de l’infrastructure](https://hubvisory.com/medias/ai-leader-stories/scaleway-l-ia-generative-au-c-ur-de-l-infrastructure) » – Hubvisory AI Leader Stories (04/2026)
 * « [On a montré qu’on pouvait faire du lean et du DevOps au ministère des Armées](https://www.le-ticket.fr/frederic-bardolle-cpo-ministere-armees-interview-flash/1659/) » – Le Ticket (04/2021)
 * « [Rétablir l'équilibre](https://medium.com/opencollectiveparis/rétablir-léquilibre-a278dcda6795) » – OpenCollective (04/2019)
 * « [À la base, les algorithmes sont plutôt neutres](https://www.soonsoonsoon.com/le-monde-de-demain-selon-Frederic-Bardolle) » – Soon Soon Soon (03/2019)
