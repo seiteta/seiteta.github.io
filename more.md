@@ -60,6 +60,7 @@ title: Prises de parole
 
 ### Conférences
 
+* « Sommes-nous prêts pour une IA souveraine en Europe ? » – Conférence (maker week, 06/2026)
 * « [MCP & Vibe Coding : le futur du Produit à l’ère de l’IA - Frédéric Bardolle ](https://www.youtube.com/watch?v=TvcYt2T_oZs) » – Meetup (We.Talk, 10/2025)
 * « [Déployer des LLM avec agilité grâce à des instances GPU dédiées](https://conference-mlops.com/speakers/frederic-bardolle/) » – Conférence (La Conférence MLOps, 03/2024)
 * « Données personnelles et vie privée – Entre nouveau business et technologie au service du mieux commun » – Keynote (MAIF, 11/2022)
