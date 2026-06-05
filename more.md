@@ -13,7 +13,7 @@ title: Prises de parole
 * [Advancing the LLM Deployment with Secure European Cloud](https://www.aicamp.ai/event/eventdetails/W2024043009) – Talk at AICamp Meetup (04/2024)
 * [Introducing Scaleway LLM Inference](https://www.youtube.com/watch?v=iB9WF0I97PQ) – Talk at GenAI Network Meetup (03/2024)
 * [Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288) – Talk at *Data Driven Nation* (Latvian Open Technology Association, 01/2020)  
-* Ethics in Artificial Intelligence – Closing keynote at the “Open Sea Lab” hackathon (EMODnet, 11/2017)
+* [Ethics in Artificial Intelligence](https://maritime-forum.ec.europa.eu/events/open-sea-lab-bootcamp-registration-award-ceremony-17112017-2017-11-15_en) – Closing keynote at the “Open Sea Lab” hackathon (EMODnet, 11/2017)
 * Stories of Data Science for Social Good – Keynote at Convergences World Forum (Paris City Hall, 09/2016)
 
 
