@@ -7,14 +7,14 @@ title: Prises de parole
 
 ### Conferences
 
-* "[Euromaxxing: what Europe gets right, and what's still missing](https://www.scaleway.com/en/cto-breakfast-with-aqr8/)" – Talk at Vivatech CTO Breakfast (in partnership with AQR8, 06/2026)
+* [Euromaxxing: what Europe gets right, and what's still missing](https://www.scaleway.com/en/cto-breakfast-with-aqr8/) – Talk at Vivatech CTO Breakfast (in partnership with AQR8, 06/2026)
 * [Strategic Autonomy Means Choice](https://www.scaleway.com/en/vivatech-cto-vip-breakfast-3/) – Talk at Vivatech CTO Breakfast (in partnership with NVIDIA, 05/2025)
 * [Building AI Products as a Cloud Provider](https://www.ai-product-day.com/en/speakers-new/frederic-bardolle-92e11) – Talk at AI Product Day (03/2025)
 * [Advancing the LLM Deployment with Secure European Cloud](https://www.aicamp.ai/event/eventdetails/W2024043009) – Talk at AICamp Meetup (04/2024)
 * [Introducing Scaleway LLM Inference](https://www.youtube.com/watch?v=iB9WF0I97PQ) – Talk at GenAI Network Meetup (03/2024)
 * [Open data and public code: a field report from the French administration](https://youtu.be/zkEDvjen_Kw?t=5288) – Talk at *Data Driven Nation* (Latvian Open Technology Association, 01/2020)  
 * [Ethics in Artificial Intelligence](https://maritime-forum.ec.europa.eu/events/open-sea-lab-bootcamp-registration-award-ceremony-17112017-2017-11-15_en) – Closing keynote at the “Open Sea Lab” hackathon (EMODnet, 11/2017)
-* Stories of Data Science for Social Good – Keynote at Convergences World Forum (Paris City Hall, 09/2016)
+* [Stories of Data Science for Social Good](https://fmc2016.sched.com/list/descriptions) – Keynote at Convergences World Forum (Paris City Hall, 09/2016)
 
 
 ### Teaching
@@ -62,7 +62,7 @@ title: Prises de parole
 
 ### Conférences
 
-* « Sommes-nous prêts pour une IA souveraine en Europe ? » – Conférence (maker week, 06/2026)
+* « Sommes-nous prêts pour une IA souveraine en Europe ? » – Conférence (Maker Week 2026, 06/2026)
 * « [MCP & Vibe Coding : le futur du Produit à l’ère de l’IA - Frédéric Bardolle ](https://www.youtube.com/watch?v=TvcYt2T_oZs) » – Meetup (We.Talk, 10/2025)
 * « [Déployer des LLM avec agilité grâce à des instances GPU dédiées](https://conference-mlops.com/speakers/frederic-bardolle/) » – Conférence (La Conférence MLOps, 03/2024)
 * « Données personnelles et vie privée – Entre nouveau business et technologie au service du mieux commun » – Keynote (MAIF, 11/2022)
