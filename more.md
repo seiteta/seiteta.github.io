@@ -26,6 +26,7 @@ title: Prises de parole
 
 ### Panel Discussions
 
+* AI Sovereignty – Panel discussion (TCS, 05/2026)
 * [Agents that actually do the work: how autonomy changes the way we build](https://www.ai-pulse.eu/agenda/agents-that-actually-do-the-work:-how-autonomy-changes-the-way-we-build) – Moderator (ai-PULSE, 12/2025)
 * How Public Interest Entrepreneurs Build Impactful Digital Products and Change Public Service – Panel discussion (GovTech Summit, 11/2018)
 * [The Centrality of Data](https://oecd.streamakaci.com/052018/vod/day/2/room/2/hour/14:00/lang/fr) – Panel discussion (OECD Forum, 05/2018)
