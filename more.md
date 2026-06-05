@@ -7,6 +7,7 @@ title: Prises de parole
 
 ### Conferences
 
+* "Euromaxxing: what Europe gets right, and what's still missing" – Talk at Vivatech CTO Breakfast (in partnership with AQR8, 05/2025)
 * [Strategic Autonomy Means Choice](https://www.scaleway.com/en/vivatech-cto-vip-breakfast-3/) – Talk at Vivatech CTO Breakfast (in partnership with NVIDIA, 05/2025)
 * [Building AI Products as a Cloud Provider](https://www.ai-product-day.com/en/speakers-new/frederic-bardolle-92e11) – Talk at AI Product Day (03/2025)
 * [Advancing the LLM Deployment with Secure European Cloud](https://www.aicamp.ai/event/eventdetails/W2024043009) – Talk at AICamp Meetup (04/2024)
