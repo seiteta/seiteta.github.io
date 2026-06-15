@@ -47,6 +47,7 @@ title: Prises de parole
 
 [C’est pas SorciAI](https://www.le-ticket.fr/les-emissions-ticket-product-management-ia/), l'émission live concoctée par Le Ticket qui démystifie l'IA pour les équipes produit.
 
+* [Contribuer à la codebase en tant que Product Manager : une fausse bonne idée ?](https://www.le-ticket.fr/contribuer-a-la-codebase-en-tant-que-product-manager-une-fausse-bonne-idee-le-retour-dexperience-dalexis-deudeville-de-lemlist/150440/) (06/2026)
 * [Comment Skello a bâti en 9 mois un assistant IA pour les RH basé sur une architecture MCP](https://www.le-ticket.fr/comment-skello-a-bati-en-9-mois-un-assistant-ia-pour-les-rh-base-sur-une-architecture-mcp/149409/) (03/2026)
 * [Commerce agentique : 10 éléments à connaître sur le commerce du futur](https://www.le-ticket.fr/commerce-agentique-10-elements-a-connaitre-sur-le-commerce-du-futur/149081/) (02/2026)
 * [Comment TheFork a déployé la recherche sémantique par IA pour des millions d’utilisateurs](https://www.le-ticket.fr/comment-thefork-a-deploye-la-recherche-semantique-par-ia-pour-des-millions-dutilisateurs/149110/) (02/2026)
